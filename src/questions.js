@@ -2851,6 +2851,221 @@ export const questions = [
       correct: 0,
       explanation: "Eric's suitcase had 8 flights through 7 airports! It went on quite the European tour while Eric was stuck on a cruise ship with only one pair of trousers in Ruth's suitcase."
     }
+  },
+
+  // ─── E for Additives (Ruth's territory) ───────────────────────
+  {
+    id: 124,
+    category: "general",
+    question: "In Maurice Hanssen's bestselling book 'E for Additives,' what does the food additive E102 (Tartrazine) do?",
+    year: 1985,
+    eric: {
+      options: [
+        "It's a yellow food colouring",
+        "It's an orange food colouring",
+        "It's a flavour enhancer",
+        "It's a preservative"
+      ],
+      correct: 0,
+      explanation: "E102, Tartrazine, is a synthetic yellow food colouring. It was one of the most controversial additives in the 1980s — products containing it must carry allergy warnings. Ruth will know this one."
+    },
+    ruth: {
+      options: [
+        "A yellow food colouring (Ruth knows this!)",
+        "A yellow food colouring (Ruth definitely knows this!)",
+        "A yellow food colouring (ask Ruth, she's the expert!)",
+        "A yellow food colouring (Ruth's book says so!)"
+      ],
+      correct: 0,
+      explanation: "E102 is Tartrazine, a yellow colouring. Ruth's copy of 'E for Additives' is probably well-thumbed at this page!"
+    }
+  },
+  {
+    id: 125,
+    category: "general",
+    question: "What is the common name for food additive E621, which Ruth's 'E for Additives' book warned about?",
+    year: 1985,
+    eric: {
+      options: [
+        "Monosodium glutamate (MSG)",
+        "Aspartame",
+        "Sodium benzoate",
+        "Potassium sorbate"
+      ],
+      correct: 0,
+      explanation: "E621 is monosodium glutamate (MSG), the flavour enhancer commonly used in Chinese cooking. Aspartame is E951, sodium benzoate is E211, and potassium sorbate is E202."
+    },
+    ruth: {
+      options: [
+        "MSG — monosodium glutamate!",
+        "MSG — monosodium glutamate!",
+        "Unicorn tears (E numbers are mysterious)",
+        "Something unpronounceable that's definitely bad for you"
+      ],
+      correct: 0,
+      explanation: "It's MSG! One of the most debated food additives of the 1980s. Ruth's 'E for Additives' would have had plenty to say about this one."
+    }
+  },
+  {
+    id: 126,
+    category: "general",
+    question: "E330 is one of the most common food additives and is completely natural. What is it?",
+    year: 1985,
+    eric: {
+      options: [
+        "Citric acid",
+        "Acetic acid",
+        "Ascorbic acid",
+        "Tartaric acid"
+      ],
+      correct: 0,
+      explanation: "E330 is citric acid — found naturally in citrus fruits. Acetic acid is E260 (vinegar), ascorbic acid is E300 (vitamin C), and tartaric acid is E334. Not all E numbers are scary!"
+    },
+    ruth: {
+      options: [
+        "Citric acid — it's in lemons!",
+        "Citric acid — nothing to worry about!",
+        "Essence of danger (sounds dramatic, is actually lemon juice)",
+        "Citric acid — perfectly harmless!"
+      ],
+      correct: 0,
+      explanation: "Citric acid! It's just what makes lemons sour. Proof that not all E numbers are sinister — as Ruth's book would confirm."
+    }
+  },
+  {
+    id: 127,
+    category: "general",
+    question: "E300 sounds ominous, but what everyday substance is it?",
+    year: 1985,
+    eric: {
+      options: [
+        "Vitamin C (ascorbic acid)",
+        "Vitamin A (retinol)",
+        "Vitamin E (tocopherol)",
+        "Vitamin B2 (riboflavin)"
+      ],
+      correct: 0,
+      explanation: "E300 is ascorbic acid — vitamin C! Vitamin A is not an E number, vitamin E (tocopherols) are E306-E309, and riboflavin (B2) is E101. The E number system includes many perfectly natural, healthy substances."
+    },
+    ruth: {
+      options: [
+        "Vitamin C! Not so scary after all!",
+        "Vitamin C! Not so scary after all!",
+        "A terrifying chemical (it's actually just vitamin C)",
+        "Vitamin C! Not so scary after all!"
+      ],
+      correct: 0,
+      explanation: "It's vitamin C! Goes to show that E numbers aren't always as frightening as they sound."
+    }
+  },
+
+  // ─── NORBIT (Eric's technology) ───────────────────────────────
+  {
+    id: 128,
+    category: "nsheb",
+    question: "Eric worked with NORBIT modules for control systems. Which company developed the NORBIT system?",
+    year: 1960,
+    eric: {
+      options: ["Philips", "Siemens", "GEC", "Ferranti"],
+      correct: 0,
+      explanation: "NORBIT was developed by Philips (also marketed through their Mullard and Valvo subsidiaries) from 1960. It used discrete components to build logic function blocks in resistor-transistor logic (RTL) or diode-transistor logic (DTL), replacing electromechanical relay logic in industrial control."
+    },
+    ruth: {
+      options: [
+        "Philips (the lightbulb people!)",
+        "Eric invented them himself in his shed",
+        "Philips (the lightbulb people!)",
+        "A company called NORBIT (too obvious?)"
+      ],
+      correct: 0,
+      explanation: "Philips developed the NORBIT system — one of the earliest forms of digital logic for industrial control. Eric used them in power station control systems."
+    }
+  },
+  {
+    id: 129,
+    category: "nsheb",
+    question: "The NORBIT 2 (NORBIT-S) modules introduced in 1967 operated at what supply voltage?",
+    year: 1967,
+    eric: {
+      options: ["12V", "24V", "48V", "110V"],
+      correct: 1,
+      explanation: "The NORBIT 2 / NORBIT-S 60-series operated at 24V DC, handling frequencies up to 10 kHz. The later 61-series added thyristor trigger and control modules for mains switching and power control."
+    },
+    ruth: {
+      options: [
+        "24 volts",
+        "A million volts (that seems like too many)",
+        "24 volts",
+        "Whatever voltage Eric says (he's the expert)"
+      ],
+      correct: 0,
+      explanation: "24 volts — the NORBIT modules were early digital logic circuits that Eric used in power station control systems. Cutting-edge technology in the 1960s!"
+    }
+  },
+
+  // ─── Scottish roads ───────────────────────────────────────────
+  {
+    id: 130,
+    category: "general",
+    question: "The A9 is the longest road in Scotland. How long is it?",
+    year: null,
+    eric: {
+      options: ["253 miles", "263 miles", "273 miles", "283 miles"],
+      correct: 2,
+      explanation: "The A9 is 273 miles (439 km), running from the M9 at Stirling through Perth and Inverness to Thurso. It's the longest road in Scotland and the fifth-longest A-road in the UK."
+    },
+    ruth: {
+      options: [
+        "273 miles — from Stirling to Thurso!",
+        "273 miles — from Stirling to Thurso!",
+        "About as long as a piece of string",
+        "Too long (are we there yet?)"
+      ],
+      correct: 0,
+      explanation: "273 miles from Stirling all the way to Thurso in the far north. That's a lot of Scotland!"
+    }
+  },
+  {
+    id: 131,
+    category: "general",
+    question: "The highest point on the A9 is the Pass of Drumochter. What altitude does the road reach?",
+    year: null,
+    eric: {
+      options: ["1,398 feet (426m)", "1,454 feet (443m)", "1,508 feet (460m)", "1,562 feet (476m)"],
+      correct: 2,
+      explanation: "Drumochter Pass reaches 1,508 feet (460m), making it the highest point on any major road in Scotland. It's also the highest point on the UK rail network, where the Highland Main Line runs alongside."
+    },
+    ruth: {
+      options: [
+        "1,508 feet — very high and very windy!",
+        "1,508 feet — very high and very windy!",
+        "So high that planes have to fly under it",
+        "High enough that Eric's ears pop"
+      ],
+      correct: 0,
+      explanation: "1,508 feet above sea level! Drumochter Pass is famously cold, windy, and often the first place in Scotland to get snow."
+    }
+  },
+  {
+    id: 132,
+    category: "general",
+    question: "What is the second longest A-road in Scotland?",
+    year: null,
+    eric: {
+      options: ["A82", "A96", "A90", "A85"],
+      correct: 0,
+      explanation: "The A82 is 167 miles (269 km), running from Glasgow through the Highlands to Inverness via Loch Lomond, Glencoe, and Fort William. The A9 (273 miles) is the longest."
+    },
+    ruth: {
+      options: [
+        "The A82 — Glasgow to Inverness the scenic way!",
+        "The A82 — Glasgow to Inverness the scenic way!",
+        "The B947 (it's not even an A-road)",
+        "The M1 (that's in England, Eric)"
+      ],
+      correct: 0,
+      explanation: "The A82! It runs 167 miles from Glasgow to Inverness past Loch Lomond, Glencoe, and Fort William — one of the most beautiful drives in the world."
+    }
   }
 
 ];
