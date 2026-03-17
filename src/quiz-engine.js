@@ -81,8 +81,10 @@ export function getOptionsForMode(question, mode) {
  */
 export function checkAnswer(question, mode, selectedIndex) {
   const modeData = question[mode];
+  const correctText = modeData.options[modeData.correct];
+  const selectedText = modeData.options[selectedIndex];
   return {
-    correct: selectedIndex === modeData.correct,
+    correct: selectedIndex === modeData.correct || selectedText === correctText,
     correctIndex: modeData.correct,
     explanation: modeData.explanation,
   };

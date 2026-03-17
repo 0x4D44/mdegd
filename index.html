@@ -537,17 +537,27 @@
       state.answers.push({ correct: result.correct });
 
       // Disable all buttons and highlight correct/incorrect
+      const modeData = q[state.mode];
+      const correctText = modeData.options[modeData.correct];
       const buttons = document.querySelectorAll('.option-btn');
       buttons.forEach(btn => {
         btn.disabled = true;
         const idx = parseInt(btn.dataset.index);
-        if (idx === selectedIndex && result.correct) {
+        const isSelected = idx === selectedIndex;
+        const textMatchesCorrect = modeData.options[idx] === correctText;
+
+        if (isSelected && result.correct) {
           btn.classList.add('correct');
-        } else if (idx === selectedIndex && !result.correct) {
+        } else if (isSelected && !result.correct) {
           btn.classList.add('incorrect');
         }
-        if (idx === result.correctIndex && !result.correct) {
+        if (!result.correct && idx === result.correctIndex) {
           btn.classList.add('was-correct');
+        }
+        // For all-same answers: highlight all matching options as correct
+        if (result.correct && textMatchesCorrect && !isSelected) {
+          btn.classList.add('correct');
+          btn.style.opacity = '0.6';
         }
       });
 

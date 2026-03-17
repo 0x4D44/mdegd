@@ -164,6 +164,37 @@ describe("checkAnswer", () => {
     expect(result.correct).toBe(false);
   });
 
+  it("accepts any index when all options have the same text as the correct answer", () => {
+    const allSameQuestion = {
+      ...mockQuestion,
+      ruth: {
+        options: ["Same answer", "Same answer", "Same answer", "Same answer"],
+        correct: 0,
+        explanation: "They're all the same!"
+      }
+    };
+    // Every index should be accepted as correct
+    for (let i = 0; i < 4; i++) {
+      const result = checkAnswer(allSameQuestion, "ruth", i);
+      expect(result.correct).toBe(true);
+    }
+  });
+
+  it("accepts any index whose text matches the correct answer text", () => {
+    const partialSameQuestion = {
+      ...mockQuestion,
+      ruth: {
+        options: ["Correct text", "Wrong text", "Correct text", "Other wrong"],
+        correct: 0,
+        explanation: "Two options share the correct text"
+      }
+    };
+    expect(checkAnswer(partialSameQuestion, "ruth", 0).correct).toBe(true);
+    expect(checkAnswer(partialSameQuestion, "ruth", 1).correct).toBe(false);
+    expect(checkAnswer(partialSameQuestion, "ruth", 2).correct).toBe(true);
+    expect(checkAnswer(partialSameQuestion, "ruth", 3).correct).toBe(false);
+  });
+
   it("always returns the correct index and explanation", () => {
     const result = checkAnswer(mockQuestion, "ruth", 3);
     expect(result.correctIndex).toBe(0);
