@@ -2718,6 +2718,139 @@ export const questions = [
       correct: 0,
       explanation: "The screwdrivers! The cupboard under the stairs! Eric's crowning achievement, as he himself has declared. (Ruth may have a different opinion.)"
     }
+  },
+
+  // ─── Personal / family questions ──────────────────────────────
+  {
+    id: 118,
+    category: "general",
+    question: "On flight BA1462 from Heathrow Terminal 5 to Edinburgh, what seat was Eric assigned?",
+    year: 2014,
+    eric: {
+      options: ["29A", "29B", "29C", "29F"],
+      correct: 1,
+      explanation: "Seat 29B — the dreaded middle seat. The flight departed at 20:00, booking reference 4FZKUF, and Eric was BA Blue frequent flyer number 23030486. Hand baggage only fare, naturally."
+    },
+    ruth: {
+      options: [
+        "29B — the middle seat!",
+        "First class, front row, champagne in hand",
+        "29B — the middle seat!",
+        "He sat on the wing (it was a budget fare)"
+      ],
+      correct: 0,
+      explanation: "29B — the middle seat on a BA domestic flight. At least it was hand baggage only, so he could make a quick escape!"
+    }
+  },
+  {
+    id: 119,
+    category: "general",
+    question: "Eric has flown on how many of the 24 BA shuttle BIK* series aircraft (G-BIKA through G-BIKS, no Q)?",
+    year: null,
+    eric: {
+      options: ["20", "21", "22", "23"],
+      correct: 2,
+      explanation: "Eric flew on 22 of the 24 BIK* aircraft. His missing ones were B and N. He was also on BMRD, BPED, and CPEL series planes. BIKE was an unrelated aircraft. Three of the shuttle planes he remembers were C, G, and J."
+    },
+    ruth: {
+      options: [
+        "22 out of 24 — so close to the full set!",
+        "All of them, twice, backwards",
+        "22 out of 24 — so close to the full set!",
+        "Just the one — but it was a really nice one"
+      ],
+      correct: 0,
+      explanation: "Eric flew on 22 of the 24 BIK* series shuttle aircraft! He was missing B and N. A true aviation enthusiast."
+    }
+  },
+  {
+    id: 120,
+    category: "general",
+    question: "What was the registration of the first Boeing 757 Eric ever flew on?",
+    year: 1985,
+    eric: {
+      options: ["G-BIKK", "G-BIKI", "G-BIKA", "G-BIKL"],
+      correct: 0,
+      explanation: "G-BIKK in 1985, flying LHR to Munich via Dusseldorf. Eric was on G-BIKA four times (first 1986, last 1996) and G-BIKI twice (first 1986, last 1987)."
+    },
+    ruth: {
+      options: [
+        "G-BIKK",
+        "G-WHIZ",
+        "ERIC-1 (his personal plane)",
+        "G-BIKK"
+      ],
+      correct: 0,
+      explanation: "G-BIKK — Eric's first 757, in 1985. He flew from Heathrow to Munich via Dusseldorf. The start of a beautiful friendship with the BIK* fleet!"
+    }
+  },
+  {
+    id: 121,
+    category: "nsheb",
+    question: "The NSHEB line icing warning system on the Lecht used a rather unusual alarm technology. What was it?",
+    year: null,
+    eric: {
+      options: [
+        "A 78rpm gramophone record triggered by line tension",
+        "A mechanical bell activated by conductor sag",
+        "A radio transmitter triggered by ice weight sensors",
+        "A telephone auto-dialler connected to strain gauges"
+      ],
+      correct: 0,
+      explanation: "The Lecht alarm system used a 78rpm gramophone record that played a recorded message when triggered by tension on the line. A wonderfully ingenious low-tech solution to a high-tech problem."
+    },
+    ruth: {
+      options: [
+        "A gramophone record! Playing a warning message!",
+        "A very cold man with a megaphone",
+        "A gramophone record! Playing a warning message!",
+        "A trained eagle that flew to the control room"
+      ],
+      correct: 0,
+      explanation: "They used a 78rpm gramophone record that played an alarm message when the ice made the line go taut. Brilliant Scottish engineering!"
+    }
+  },
+  {
+    id: 122,
+    category: "nsheb",
+    question: "To operate the earth switches at the Glen Truim tee-off for de-icing the Corrieyairack Pass line, the engineer first had to go to a telephone box. In which town?",
+    year: null,
+    eric: {
+      options: ["Newtonmore", "Kingussie", "Dalwhinnie", "Laggan"],
+      correct: 0,
+      explanation: "The engineer had to drive to a telephone box in Newtonmore, dial CCR, insert four old pennies, press button A, and receive switching instructions. Then drive to the tee-off tower, operate the switches, drive back to the phone box to report completion. All before mobile phones!"
+    },
+    ruth: {
+      options: [
+        "Newtonmore — and he needed four old pennies!",
+        "Newtonmore — and he needed four old pennies!",
+        "London (long drive for a phone call)",
+        "He just shouted very loudly across the glen"
+      ],
+      correct: 0,
+      explanation: "Newtonmore! The engineer had to find a phone box, insert four old pennies, press button A, and call the control room. Then drive to the tower, do the switching, and drive back to the phone box. Happy days!"
+    }
+  },
+  {
+    id: 123,
+    category: "general",
+    question: "In May 2025, Eric's suitcase went on its own European adventure while he was on a cruise. How many flights did the suitcase take?",
+    year: 2025,
+    eric: {
+      options: ["6 flights", "7 flights", "8 flights", "9 flights"],
+      correct: 2,
+      explanation: "The suitcase had 8 flights, through 7 airports, with 4 different airlines, on 3 different types of aircraft. It visited Munich, Mykonos, and Athens before finally catching up with Eric — with a broken zip. Eric and Ruth had flown Edinburgh to Barcelona via Amsterdam on KL922 and KL1513."
+    },
+    ruth: {
+      options: [
+        "8 flights! It saw more of Europe than Eric did!",
+        "It's still flying (last seen over Portugal)",
+        "8 flights — through 7 airports with 4 airlines!",
+        "None — suitcases can't fly (but this one tried)"
+      ],
+      correct: 0,
+      explanation: "Eric's suitcase had 8 flights through 7 airports! It went on quite the European tour while Eric was stuck on a cruise ship with only one pair of trousers in Ruth's suitcase."
+    }
   }
 
 ];
