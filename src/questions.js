@@ -2490,110 +2490,179 @@ export const questions = [
     }
   },
 
-  // ─── Bridge hand bidding ──────────────────────────────────────
+  // ─── Famous bridge moments ─────────────────────────────────────
   {
     id: 109,
     category: "bridge",
-    question: "You hold: ♠AK73 ♥KQ5 ♦A84 ♣J62 (17 HCP, balanced). What do you open?",
-    year: null,
+    question: "In the infamous 1965 Bermuda Bowl in Buenos Aires, Reese and Schapiro were accused of using finger signals. What were they allegedly communicating?",
+    year: 1965,
     eric: {
-      options: ["1NT", "1♠", "1♦", "1♣"],
+      options: [
+        "The number of hearts held",
+        "The number of high-card points",
+        "The number of spades held",
+        "Which suit they were void in"
+      ],
       correct: 0,
-      explanation: "With 15-17 HCP and a balanced hand (4-3-3-3), open 1NT. Don't be tempted by the four-card spade suit — describing your hand shape and strength with 1NT is far more informative to partner."
+      explanation: "Reese and Schapiro allegedly varied the number of fingers visible on their cards to show how many hearts they held. B. Jay Becker and Dorothy Hayden spotted the pattern. The WBF found them guilty; a later British inquiry under Sir John Foster QC acquitted them. It remains bridge's greatest unsolved controversy."
     },
     ruth: {
       options: [
-        "1NT (No Trumps — a nice balanced hand)",
-        "Snap!",
-        "Go Fish",
-        "Fold (wait, wrong game)"
+        "How many hearts they had in their hand",
+        "What they wanted for dinner",
+        "The football scores",
+        "How many hearts they had in their hand"
       ],
       correct: 0,
-      explanation: "With a nice balanced hand and 17 points, you open 1NT. This tells your partner exactly what you've got!"
+      explanation: "They were accused of signalling how many hearts they held by changing the number of fingers showing on their cards. The biggest cheating scandal in bridge history!"
     }
   },
   {
     id: 110,
     category: "bridge",
-    question: "You hold: ♠AKQJ10 ♥A3 ♦K72 ♣854 (16 HCP, 5-card spade suit). What do you open?",
-    year: null,
+    question: "In the 1981 Bermuda Bowl final, Jeff Meckstroth made a legendary sacrifice bid of 7♠ on just 5 HCP. How many tricks was he down, doubled?",
+    year: 1981,
     eric: {
-      options: ["1♠", "1NT", "2♠", "2♣"],
-      correct: 0,
-      explanation: "Open 1♠. With a five-card major, always open in the major rather than 1NT, regardless of point count (unless playing a specific system that says otherwise). The 5-card suit is too important to hide."
+      options: ["7 down", "8 down", "9 down", "10 down"],
+      correct: 2,
+      explanation: "Meckstroth went down NINE tricks doubled — and still gained IMPs because the opponents could make a grand slam. He was in his mid-20s at the time. The bid was so outrageous it ultimately changed the laws of bridge: in 1987, doubled undertrick penalties were increased after the third trick (300 per trick instead of 200)."
     },
     ruth: {
       options: [
-        "1♠ — always bid a nice five-card major!",
-        "All-in (wrong game again)",
-        "1♠ — those spades are gorgeous",
-        "Pass (too scared to bid)"
+        "Nine! And he still came out ahead on points!",
+        "He actually made it (just kidding — nine down)",
+        "Twelve (that would be impressive even by cheating standards)",
+        "Nine tricks down, but it was a brilliant sacrifice"
       ],
       correct: 0,
-      explanation: "With five lovely spades headed by AKQJ10, you definitely open 1♠. That's a suit worth showing off!"
+      explanation: "He went down nine tricks — but the opponents could make 7♥, so the sacrifice actually gained points! It was so clever they had to change the rules."
     }
   },
   {
     id: 111,
     category: "bridge",
-    question: "You hold: ♠AKQ ♥AKJ ♦AQ3 ♣KJ87 (26 HCP). What do you open?",
-    year: null,
+    question: "The 1931-32 'Bridge Battle of the Century' between Culbertson and Lenz was front-page news in 30 countries. Who was Ely Culbertson's partner?",
+    year: 1931,
     eric: {
-      options: ["2♣", "2NT", "3NT", "1♣"],
+      options: [
+        "His wife Josephine",
+        "Oswald Jacoby",
+        "Harold Vanderbilt",
+        "Charles Goren"
+      ],
       correct: 0,
-      explanation: "With 22+ HCP, open 2♣ (strong, artificial, game-forcing). 2NT shows 20-21 balanced, so it's too weak. 3NT is a gambling bid. You want to explore slam — 2♣ keeps all options open."
+      explanation: "Culbertson's partner was his wife Josephine, who played 88 of the 150 rubbers. The delicious trap: Oswald Jacoby actually played for LENZ — and then quit partway through, dissatisfied with Lenz's play. Culbertson won by 8,980 points."
     },
     ruth: {
       options: [
-        "2♣ — a monster hand! Force to game!",
-        "Shout 'BLACKWOOD' and hope for the best",
-        "Show everyone your cards (they're so pretty)",
-        "2♣ — this hand is enormous"
+        "His wife Josephine (power couple!)",
+        "A very talented labrador",
+        "His wife Josephine",
+        "Nobody — he played both hands himself"
       ],
       correct: 0,
-      explanation: "With 26 points, this is a monster! You open 2♣ to tell partner 'we're going to game at least, and maybe slam!'"
+      explanation: "Ely Culbertson played with his wife Josephine. They won by 8,980 points and the match was front-page news around the world!"
     }
   },
   {
     id: 112,
     category: "bridge",
-    question: "You hold: ♠7 ♥KQJ10843 ♦54 ♣962 (6 HCP, 7-card heart suit). What do you open?",
-    year: null,
+    question: "Italy's Blue Team dominated world bridge from 1957-1969. Of the 13 available world team championships in that period, how many did they win?",
+    year: 1957,
     eric: {
-      options: ["3♥", "2♥", "4♥", "Pass"],
-      correct: 0,
-      explanation: "Open 3♥ (pre-emptive). A weak two shows 6 cards and 5-10 HCP, but you have 7 hearts — too many for a weak two. 4♥ is too aggressive at this vulnerability. 3♥ is the textbook pre-empt: 7-card suit, weak hand, make life difficult for the opponents."
+      options: ["10", "11", "12", "13"],
+      correct: 2,
+      explanation: "The Blue Team won 12 out of 13 world team championships from 1957-1969. Their only miss was a sixth-place finish at the inaugural 1960 World Team Olympiad in Turin. Belladonna, Garozzo, Forquet, Avarelli, D'Alelio, and Pabis-Ticci were the core players. They later came out of retirement to win again in 1972-75."
     },
     ruth: {
       options: [
-        "3♥ — seven hearts and not much else, make them guess!",
-        "Pass and have a nice cup of tea",
-        "Hearts! ALL the hearts!",
-        "3♥ — a classic pre-emptive bid"
+        "12 out of 13 — utterly dominant!",
+        "All of them (they were very good at cards)",
+        "12 out of 13",
+        "None (Italy is better known for football)"
       ],
       correct: 0,
-      explanation: "With seven hearts and not many points, you bid 3♥ to make life difficult for the other side. It's called a pre-emptive bid!"
+      explanation: "Italy's Blue Team won an incredible 12 out of 13 world championships between 1957 and 1969. They are the most dominant team in bridge history!"
     }
   },
   {
     id: 113,
     category: "bridge",
-    question: "You hold: ♠AJ5 ♥KQ9 ♦AJ73 ♣K84 (18 HCP, balanced). What do you open?",
-    year: null,
+    question: "Meckstroth's 1981 7♠ sacrifice exposed a flaw in bridge scoring. What specific rule change followed in 1987?",
+    year: 1981,
     eric: {
-      options: ["1♦", "1NT", "1♣", "2NT"],
+      options: [
+        "Doubled undertrick penalties increased to 300 after the 3rd trick",
+        "A maximum penalty of 3,500 points was introduced",
+        "Sacrifices at the 7-level were banned",
+        "Non-vulnerable doubled undertricks were doubled in value"
+      ],
       correct: 0,
-      explanation: "Open 1♦. At 18 HCP, you're too strong for 1NT (15-17) but too weak for 2NT (20-21). Plan to rebid 1NT or 2NT over partner's response to show 18-19 balanced. Open your longest minor."
+      explanation: "After Meckstroth showed you could go down 9 doubled and still gain IMPs, the laws were amended in 1987: after the third undertrick, each additional doubled undertrick cost 300 points instead of 200. This made extreme sacrifices much more expensive."
     },
     ruth: {
       options: [
-        "1♦ — too strong for 1NT, so start with a suit",
-        "Just show everyone your hand, it's pretty good",
-        "1♦ — then tell partner you've got lots of points later",
-        "Phone a friend"
+        "They made being down lots of tricks much more expensive",
+        "They banned Jeff Meckstroth from playing (not really)",
+        "They made everyone promise to play nicely",
+        "Undertrick penalties were increased — no more cheeky sacrifices!"
       ],
       correct: 0,
-      explanation: "At 18 points you're a bit too strong to open 1NT (which shows 15-17), so you open 1♦ and plan to show your strength on the next round of bidding."
+      explanation: "After Meckstroth's outrageous sacrifice, they changed the rules so that going down lots of tricks costs more. Fair enough, really!"
+    }
+  },
+
+  // ─── Family jokes ─────────────────────────────────────────────
+  {
+    id: 114,
+    category: "general",
+    question: "According to leading cake scientists, what is the optimal colour for birthday cake icing?",
+    year: null,
+    eric: {
+      options: [
+        "Emerald green (Pantone 17-5641)",
+        "Forest green (Pantone 18-5845)",
+        "Mint green (Pantone 13-6009)",
+        "Lime green (Pantone 15-0545)"
+      ],
+      correct: 0,
+      explanation: "The correct answer is obviously green. The precise shade is a matter of ongoing, heated scientific debate, but the seminal work by R. Davidson (c. 1970s-present) established beyond doubt that green is the only acceptable colour for cake icing."
+    },
+    ruth: {
+      options: [
+        "Green, obviously",
+        "Green, obviously",
+        "Green, obviously",
+        "Green, obviously"
+      ],
+      correct: 0,
+      explanation: "Green! As Ruth has conclusively demonstrated with her legendary green-iced cake. All other colours are merely pretending to be icing."
+    }
+  },
+  {
+    id: 115,
+    category: "general",
+    question: "According to Eric, what is the best thing he has ever done?",
+    year: null,
+    eric: {
+      options: [
+        "Fitted a set of screwdrivers in the cupboard under the stairs",
+        "Fitted a set of spanners in the cupboard under the stairs",
+        "Fitted a set of screwdrivers in the garage",
+        "Fitted a set of Allen keys in the cupboard under the stairs"
+      ],
+      correct: 0,
+      explanation: "Screwdrivers. Cupboard under the stairs. Not spanners, not the garage, not Allen keys. This is the hill Eric has chosen to die on, and frankly, who among us hasn't felt that same surge of pride at a perfectly organised cupboard?"
+    },
+    ruth: {
+      options: [
+        "Fitted a set of screwdrivers in the cupboard under the stairs",
+        "Married Ruth",
+        "Built a hydro-electric dam in the back garden",
+        "Won the World Bridge Championship (in his dreams)"
+      ],
+      correct: 0,
+      explanation: "The screwdrivers! The cupboard under the stairs! Eric's crowning achievement, as he himself has declared. (Ruth may have a different opinion.)"
     }
   }
 
