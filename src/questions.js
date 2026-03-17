@@ -2425,6 +2425,60 @@ export const questions = [
     }
   },
 
+  // ─── Insider NSHEB questions ────────────────────────────────────
+  {
+    id: 116,
+    category: "nsheb",
+    question: "Foyers pumped-storage station (300 MW) had an unusual and risky design feature. What was it?",
+    year: 1975,
+    eric: {
+      options: [
+        "It was built with only a single transformer",
+        "It had only one access tunnel to the machine hall",
+        "It shared a control room with the old aluminium works",
+        "It had no backup cooling water supply"
+      ],
+      correct: 0,
+      explanation: "Foyers was built with only a single transformer — no redundancy for a 300 MW station. When it failed early in the station's life, the entire station was out of action. A design decision that raised eyebrows at the time and proved justified in hindsight."
+    },
+    ruth: {
+      options: [
+        "It only had one transformer — and it broke!",
+        "It was powered by the Loch Ness Monster on a treadmill",
+        "It only had one transformer — and it broke!",
+        "The whole thing was held together with sellotape"
+      ],
+      correct: 0,
+      explanation: "Foyers had just one transformer for the entire 300 MW station. When it failed, there was no backup. Not the best plan!"
+    }
+  },
+  {
+    id: 117,
+    category: "nsheb",
+    question: "During the Sloy refurbishment, four new 40 MW runners were purchased. But G4's new runner went somewhere else. Where?",
+    year: null,
+    eric: {
+      options: [
+        "Clachan, because its runner was failing",
+        "Cruachan, as a spare",
+        "Foyers, to replace a damaged unit",
+        "Inverawe, for capacity upgrade"
+      ],
+      correct: 0,
+      explanation: "Sloy G4's new runner went to Clachan, whose own runner was falling to bits. G4 received an experimental runner instead — which turned out to be in excellent condition. Clachan, nominally 40 MW, now runs at 45 MW and has even reached 48 MW with the Sloy runner."
+    },
+    ruth: {
+      options: [
+        "Clachan — its runner was falling apart!",
+        "It got lost in the post",
+        "Clachan — its runner was falling apart!",
+        "Eric took it home and put it in the cupboard under the stairs"
+      ],
+      correct: 0,
+      explanation: "Sloy G4's shiny new runner went to Clachan, which desperately needed it. G4 got an experimental runner instead — which actually worked brilliantly!"
+    }
+  },
+
   // ─── Maths operator precedence ────────────────────────────────
   {
     id: 106,
