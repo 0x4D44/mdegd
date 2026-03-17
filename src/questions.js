@@ -2423,6 +2423,178 @@ export const questions = [
       correct: 0,
       explanation: "Tunnel Tigers earned up to £35 a week — roughly ten times what a Highland estate worker made. The work was extremely dangerous but the pay drew workers from across Europe."
     }
+  },
+
+  // ─── Maths operator precedence ────────────────────────────────
+  {
+    id: 106,
+    category: "general",
+    question: "Birthday maths! What is 21 + 3 × 4² - 6 ÷ 2 + (-1)³ × 5?",
+    year: null,
+    eric: {
+      options: ["61", "73", "56", "66"],
+      correct: 0,
+      explanation: "Step by step: 4² = 16, then 3 × 16 = 48, 6 ÷ 2 = 3, (-1)³ × 5 = -5. So: 21 + 48 - 3 - 5 = 61. If you went left-to-right you'd get 73 (treating 21+3 as 24 first). If you forgot (-1)³ is negative you'd get 66."
+    },
+    ruth: {
+      options: [
+        "Who cares, it's a birthday party!",
+        "Who cares, it's a birthday party!",
+        "Who cares, it's a birthday party!",
+        "Who cares, it's a birthday party!"
+      ],
+      correct: 0,
+      explanation: "Exactly. Have some cake instead."
+    }
+  },
+  {
+    id: 107,
+    category: "general",
+    question: "Operator precedence challenge: what is -3² + (-3)² + 2 × (4 - 6)³ ÷ 4 - 1?",
+    year: null,
+    eric: {
+      options: ["-5", "5", "-1", "13"],
+      correct: 0,
+      explanation: "The key trap: -3² = -(3²) = -9, but (-3)² = +9. Then (4-6)³ = (-2)³ = -8. So: 2 × (-8) ÷ 4 = -4. Total: -9 + 9 + (-4) - 1 = -5. If you treated -3² as (-3)² you'd get 13."
+    },
+    ruth: {
+      options: [
+        "-5 (but honestly, who's counting?)",
+        "A very large number",
+        "Potato",
+        "-5 (maths is hard, cake is easy)"
+      ],
+      correct: 0,
+      explanation: "It's -5! The sneaky bit is that -3² equals -9 (not +9), because the exponent happens before the negative sign."
+    }
+  },
+  {
+    id: 108,
+    category: "general",
+    question: "The big one. What is (2⁴ - 3 × 5) × (7 - 2³) + (9 ÷ 3)² - (4² - 15) × 8?",
+    year: null,
+    eric: {
+      options: ["0", "2", "-2", "8"],
+      correct: 0,
+      explanation: "All that work for nothing! Step by step: 2⁴ = 16, 3 × 5 = 15, so (16-15) = 1. Then 2³ = 8, so (7-8) = -1. Then 1 × (-1) = -1. Next: (9÷3)² = 3² = 9. Finally: (4²-15) = (16-15) = 1, and 1 × 8 = 8. Grand total: -1 + 9 - 8 = 0. Yes, zero."
+    },
+    ruth: {
+      options: [
+        "Zero! All that work for nothing!",
+        "A million",
+        "∞ (infinity)",
+        "Error: brain overflow"
+      ],
+      correct: 0,
+      explanation: "After all those brackets and exponents, the answer is simply zero. Sometimes maths has a sense of humour."
+    }
+  },
+
+  // ─── Bridge hand bidding ──────────────────────────────────────
+  {
+    id: 109,
+    category: "bridge",
+    question: "You hold: ♠AK73 ♥KQ5 ♦A84 ♣J62 (17 HCP, balanced). What do you open?",
+    year: null,
+    eric: {
+      options: ["1NT", "1♠", "1♦", "1♣"],
+      correct: 0,
+      explanation: "With 15-17 HCP and a balanced hand (4-3-3-3), open 1NT. Don't be tempted by the four-card spade suit — describing your hand shape and strength with 1NT is far more informative to partner."
+    },
+    ruth: {
+      options: [
+        "1NT (No Trumps — a nice balanced hand)",
+        "Snap!",
+        "Go Fish",
+        "Fold (wait, wrong game)"
+      ],
+      correct: 0,
+      explanation: "With a nice balanced hand and 17 points, you open 1NT. This tells your partner exactly what you've got!"
+    }
+  },
+  {
+    id: 110,
+    category: "bridge",
+    question: "You hold: ♠AKQJ10 ♥A3 ♦K72 ♣854 (16 HCP, 5-card spade suit). What do you open?",
+    year: null,
+    eric: {
+      options: ["1♠", "1NT", "2♠", "2♣"],
+      correct: 0,
+      explanation: "Open 1♠. With a five-card major, always open in the major rather than 1NT, regardless of point count (unless playing a specific system that says otherwise). The 5-card suit is too important to hide."
+    },
+    ruth: {
+      options: [
+        "1♠ — always bid a nice five-card major!",
+        "All-in (wrong game again)",
+        "1♠ — those spades are gorgeous",
+        "Pass (too scared to bid)"
+      ],
+      correct: 0,
+      explanation: "With five lovely spades headed by AKQJ10, you definitely open 1♠. That's a suit worth showing off!"
+    }
+  },
+  {
+    id: 111,
+    category: "bridge",
+    question: "You hold: ♠AKQ ♥AKJ ♦AQ3 ♣KJ87 (26 HCP). What do you open?",
+    year: null,
+    eric: {
+      options: ["2♣", "2NT", "3NT", "1♣"],
+      correct: 0,
+      explanation: "With 22+ HCP, open 2♣ (strong, artificial, game-forcing). 2NT shows 20-21 balanced, so it's too weak. 3NT is a gambling bid. You want to explore slam — 2♣ keeps all options open."
+    },
+    ruth: {
+      options: [
+        "2♣ — a monster hand! Force to game!",
+        "Shout 'BLACKWOOD' and hope for the best",
+        "Show everyone your cards (they're so pretty)",
+        "2♣ — this hand is enormous"
+      ],
+      correct: 0,
+      explanation: "With 26 points, this is a monster! You open 2♣ to tell partner 'we're going to game at least, and maybe slam!'"
+    }
+  },
+  {
+    id: 112,
+    category: "bridge",
+    question: "You hold: ♠7 ♥KQJ10843 ♦54 ♣962 (6 HCP, 7-card heart suit). What do you open?",
+    year: null,
+    eric: {
+      options: ["3♥", "2♥", "4♥", "Pass"],
+      correct: 0,
+      explanation: "Open 3♥ (pre-emptive). A weak two shows 6 cards and 5-10 HCP, but you have 7 hearts — too many for a weak two. 4♥ is too aggressive at this vulnerability. 3♥ is the textbook pre-empt: 7-card suit, weak hand, make life difficult for the opponents."
+    },
+    ruth: {
+      options: [
+        "3♥ — seven hearts and not much else, make them guess!",
+        "Pass and have a nice cup of tea",
+        "Hearts! ALL the hearts!",
+        "3♥ — a classic pre-emptive bid"
+      ],
+      correct: 0,
+      explanation: "With seven hearts and not many points, you bid 3♥ to make life difficult for the other side. It's called a pre-emptive bid!"
+    }
+  },
+  {
+    id: 113,
+    category: "bridge",
+    question: "You hold: ♠AJ5 ♥KQ9 ♦AJ73 ♣K84 (18 HCP, balanced). What do you open?",
+    year: null,
+    eric: {
+      options: ["1♦", "1NT", "1♣", "2NT"],
+      correct: 0,
+      explanation: "Open 1♦. At 18 HCP, you're too strong for 1NT (15-17) but too weak for 2NT (20-21). Plan to rebid 1NT or 2NT over partner's response to show 18-19 balanced. Open your longest minor."
+    },
+    ruth: {
+      options: [
+        "1♦ — too strong for 1NT, so start with a suit",
+        "Just show everyone your hand, it's pretty good",
+        "1♦ — then tell partner you've got lots of points later",
+        "Phone a friend"
+      ],
+      correct: 0,
+      explanation: "At 18 points you're a bit too strong to open 1NT (which shows 15-17), so you open 1♦ and plan to show your strength on the next round of bidding."
+    }
   }
 
 ];
