@@ -590,17 +590,25 @@
     // ─── Results screen ─────────────────────────────────────────
     function showResults() {
       const scoreObj = calculateScore(state.answers);
-      const message = getResultMessage(scoreObj, state.mode);
       const bonus = state.bonusFound ? 1 : 0;
       const totalWithBonus = scoreObj.score + bonus;
+
+      // Ruth always gets 12/12 and a glowing review
+      const isRuth = state.mode === 'ruth';
+      const displayScore = isRuth ? scoreObj.total : totalWithBonus;
+      const displayTotal = scoreObj.total;
+      const displayPercent = isRuth ? 100 : scoreObj.percentage;
+      const message = isRuth
+        ? "A perfect score! You absolute superstar! Eric could never."
+        : getResultMessage(scoreObj, state.mode);
 
       app.innerHTML = `
         <div class="fade-in">
           <h1>Quiz Complete!</h1>
           <div class="quiz-card">
             <div class="score-display">
-              <div class="score-number">${totalWithBonus}/${scoreObj.total}${bonus ? '*' : ''}</div>
-              <div class="score-label">${scoreObj.percentage}%${bonus ? ' (+1 bonus for finding the hidden card!)' : ''}</div>
+              <div class="score-number">${displayScore}/${displayTotal}${!isRuth && bonus ? '*' : ''}</div>
+              <div class="score-label">${displayPercent}%${!isRuth && bonus ? ' (+1 bonus for finding the hidden card!)' : ''}${isRuth ? ' — flawless!' : ''}</div>
             </div>
             <div class="result-message">"${message}"</div>
             ${state.mode === 'eric' ? `
@@ -608,7 +616,7 @@
                 Perhaps you should have picked Ruth...
               </p>
             ` : ''}
-            <button class="share-btn" onclick="window.shareResult(${totalWithBonus}, ${scoreObj.total})">
+            <button class="share-btn" onclick="window.shareResult(${displayScore}, ${displayTotal})">
               Copy Result to Clipboard
             </button>
             <button class="play-again-btn" onclick="window.playAgain()">

@@ -1026,8 +1026,8 @@ export const questions = [
       options: [
         "1894 to 1992 — he lived to 98!",
         "He's still alive (magicians never die, they just disappear)",
-        "1894 to 1992",
-        "1894 to 1992"
+        "1894 to 1992 — he lived to 98!",
+        "1894 to 1992 — he lived to 98!"
       ],
       correct: 0,
       explanation: "Dai Vernon lived to the grand age of 98! He spent decades as the resident genius at the Magic Castle in Hollywood."
@@ -2152,7 +2152,7 @@ export const questions = [
     ruth: {
       options: [
         "About 100 — look how it's grown!",
-        "About 100 (all in costume)",
+        "About a million superhero fans",
         "Just one person, but they were really enthusiastic",
         "130,000 (no wait, that's now)"
       ],
@@ -2217,7 +2217,7 @@ export const questions = [
         "Twice — in 2004 and 2005",
         "Every year (in our hearts)",
         "More times than anyone can count",
-        "Twice — once for each of his incredibly skillful feet"
+        "Seventeen times (he was that good)"
       ],
       correct: 0,
       explanation: "Ronaldinho won it twice! He was one of the most joyful, skillful footballers ever to play the game."
@@ -2263,8 +2263,8 @@ export const questions = [
       options: [
         "About 90% — from almost nothing to almost everyone!",
         "100% (wouldn't that be nice)",
-        "About 90%",
-        "About 90%"
+        "About 90% — from almost nothing to almost everyone!",
+        "About 90% — from almost nothing to almost everyone!"
       ],
       correct: 0,
       explanation: "From less than 1% to about 90% in just 16 years! The NSHEB transformed life in the Scottish Highlands."
@@ -2418,7 +2418,7 @@ export const questions = [
         "Up to £35 a week — a fortune in those days!",
         "Nothing (they were paid in rocks)",
         "All the haggis they could eat",
-        "Up to £35 a week — almost ten times a normal wage!"
+        "Up to £35 a week — a fortune in those days!"
       ],
       correct: 0,
       explanation: "Tunnel Tigers earned up to £35 a week — roughly ten times what a Highland estate worker made. The work was extremely dangerous but the pay drew workers from across Europe."
@@ -2557,7 +2557,7 @@ export const questions = [
       options: [
         "His wife Josephine (power couple!)",
         "A very talented labrador",
-        "His wife Josephine",
+        "His wife Josephine (power couple!)",
         "Nobody — he played both hands himself"
       ],
       correct: 0,
@@ -2578,7 +2578,7 @@ export const questions = [
       options: [
         "12 out of 13 — utterly dominant!",
         "All of them (they were very good at cards)",
-        "12 out of 13",
+        "12 out of 13 — utterly dominant!",
         "None (Italy is better known for football)"
       ],
       correct: 0,
