@@ -3959,6 +3959,495 @@ export const questions = [
     }
   },
 
+  // ─── Toyota Aygo (the gloriously basic car) ───────────────────
+  {
+    id: 193,
+    category: "general",
+    question: "The Toyota Aygo's boot holds just 139 litres. How does this compare to a standard UK wheelie bin?",
+    year: 2005,
+    eric: {
+      options: [
+        "The wheelie bin is bigger (240 litres)",
+        "They're about the same (both ~140 litres)",
+        "The Aygo is slightly bigger (by about 20 litres)",
+        "A wheelie bin holds 180 litres"
+      ],
+      correct: 0,
+      explanation: "A standard UK wheelie bin holds 240 litres — the Aygo's boot is literally smaller than a bin. You could fit more shopping in your bin than in the car you drove to get it."
+    },
+    ruth: {
+      options: [
+        "The bin is bigger! 240 litres vs 139!",
+        "The bin is bigger! 240 litres vs 139!",
+        "Eric's cupboard under the stairs is bigger too",
+        "The Aygo doesn't have a boot — it has a suggestion"
+      ],
+      correct: 0,
+      explanation: "The wheelie bin wins! At 240 litres, your bin has 100 litres more space than the Aygo's boot. Buy cheap, buy again?"
+    }
+  },
+  {
+    id: 194,
+    category: "general",
+    question: "The first-generation Toyota Aygo has a top speed that fails to reach what milestone?",
+    year: 2005,
+    eric: {
+      options: [
+        "100 mph (top speed: 98 mph)",
+        "110 mph (top speed: 108 mph)",
+        "90 mph (top speed: 88 mph)",
+        "120 mph (top speed: 118 mph)"
+      ],
+      correct: 0,
+      explanation: "The Gen 1 Aygo tops out at 98 mph — it physically cannot reach 100 mph. Its 998cc 3-cylinder engine produces 67 bhp. For context, a Porsche 911 Turbo S does 0-60 in 2.6 seconds; the Aygo takes 14.2 seconds."
+    },
+    ruth: {
+      options: [
+        "100 mph! It can't even break the ton!",
+        "100 mph! It can't even break the ton!",
+        "The speed of sound (unrealistic expectations)",
+        "Walking pace (on a steep hill, possibly)"
+      ],
+      correct: 0,
+      explanation: "It can't reach 100 mph! The engine is less than one litre — 998cc of pure ambition and very little power."
+    }
+  },
+  {
+    id: 195,
+    category: "general",
+    question: "Toyota's 2014 marketing slogan for the Aygo was phonetically unfortunate. What was it?",
+    year: 2014,
+    eric: {
+      options: [
+        "Go Fun Yourself",
+        "Fun On The Go",
+        "Fun Goes Further",
+        "Get Up And Go"
+      ],
+      correct: 0,
+      explanation: "'Go Fun Yourself' — read it out loud quickly. Toyota insisted the double entendre was intentional. The campaign won advertising awards. The slogan appeared on TV adverts, billboards, and the side of buses."
+    },
+    ruth: {
+      options: [
+        "Go Fun Yourself (say it fast!)",
+        "Go Fun Yourself (say it fast!)",
+        "Please Buy This Car, We're Begging You",
+        "It's Cheap And It Goes (Usually)"
+      ],
+      correct: 0,
+      explanation: "'Go Fun Yourself'! Say it quickly and you'll see why people raised their eyebrows. Toyota said it was deliberate. Sure it was."
+    }
+  },
+  {
+    id: 196,
+    category: "general",
+    question: "The Aygo, Citroen C1, and Peugeot 107 were built on the same production line. Where?",
+    year: 2005,
+    eric: {
+      options: [
+        "TPCA plant, Kolin, Czech Republic",
+        "Toyota factory, Burnaston, Derbyshire",
+        "PSA plant, Trnava, Slovakia",
+        "Toyota factory, Valenciennes, France"
+      ],
+      correct: 0,
+      explanation: "The TPCA (Toyota Peugeot Citroen Automobile) plant in Kolin-Ovcary, Czech Republic. Three identical cars with different badges rolled down the same production line. You were essentially paying for a logo. Nearly 4 million were built there."
+    },
+    ruth: {
+      options: [
+        "Czech Republic — three cars, one factory, different badges!",
+        "Czech Republic — three cars, one factory, different badges!",
+        "Eric's garage (he's branching out)",
+        "A car boot sale (appropriate for the Aygo)"
+      ],
+      correct: 0,
+      explanation: "One factory in the Czech Republic made three 'different' cars! Same car, three badges, three prices."
+    }
+  },
+  {
+    id: 197,
+    category: "general",
+    question: "The Aygo weighs about 840 kg. How many polar bears is that equivalent to?",
+    year: 2005,
+    eric: {
+      options: [
+        "About 2 (male polar bear ~450 kg)",
+        "About 3 (male polar bear ~280 kg)",
+        "About 4 (male polar bear ~210 kg)",
+        "About 1.5 (male polar bear ~560 kg)"
+      ],
+      correct: 0,
+      explanation: "A male polar bear weighs about 450 kg, so the Aygo weighs less than two polar bears. At 840 kg, a strong gust on the motorway is a genuine concern. The Aygo Crazy concept stuffed a 200 bhp MR2 engine into one — that weighed about the same."
+    },
+    ruth: {
+      options: [
+        "Less than two polar bears!",
+        "Less than two polar bears!",
+        "About the same as Eric's suitcase collection",
+        "So light it blows away in a stiff breeze"
+      ],
+      correct: 0,
+      explanation: "Less than two polar bears! The Aygo is one of the lightest cars on sale. Which explains a lot about its motorway behaviour."
+    }
+  },
+
+  // ─── Yes Minister / Yes Prime Minister ────────────────────────
+  {
+    id: 198,
+    category: "general",
+    question: "In Yes Minister, when Sir Humphrey describes a ministerial decision as 'courageous,' what does he really mean?",
+    year: 1980,
+    eric: {
+      options: [
+        "It will lose you the election",
+        "It will lose you votes",
+        "It will upset the civil service",
+        "It will attract media criticism"
+      ],
+      correct: 0,
+      explanation: "In the civil service code: 'controversial' means it will lose you votes; 'courageous' means it will lose you the election. The word 'courageous' has genuinely entered British political vocabulary with this meaning."
+    },
+    ruth: {
+      options: [
+        "It will lose you the election!",
+        "It will lose you the election!",
+        "He actually means courageous (he doesn't)",
+        "It means 'well done' (it really doesn't)"
+      ],
+      correct: 0,
+      explanation: "'Courageous' = career-ending! The most devastating word in the civil service vocabulary."
+    }
+  },
+  {
+    id: 199,
+    category: "general",
+    question: "What is Sir Humphrey Appleby's full set of honours?",
+    year: 1980,
+    eric: {
+      options: [
+        "GCB, KBE, MVO, MA (Oxon)",
+        "KCB, CBE, MVO, MA (Oxon)",
+        "GCB, KBE, OBE, MA (Cantab)",
+        "KCB, KBE, MVO, BA (Oxon)"
+      ],
+      correct: 0,
+      explanation: "Sir Humphrey Appleby, GCB, KBE, MVO, MA (Oxon) — Knight Grand Cross of the Order of the Bath, Knight Commander of the Order of the British Empire, Member of the Royal Victorian Order, Master of Arts from Oxford."
+    },
+    ruth: {
+      options: [
+        "GCB, KBE, MVO, MA (Oxon) — lots of letters!",
+        "GCB, KBE, MVO, MA (Oxon) — lots of letters!",
+        "Too many to fit on a business card",
+        "He made most of them up (he didn't, they're all real)"
+      ],
+      correct: 0,
+      explanation: "GCB, KBE, MVO, MA (Oxon) — Sir Humphrey had more letters after his name than most people have in their name."
+    }
+  },
+  {
+    id: 200,
+    category: "general",
+    question: "In 'The Compassionate Society,' what is remarkable about the brand-new hospital?",
+    year: 1981,
+    eric: {
+      options: [
+        "It has 500 admin staff but no doctors, nurses, or patients",
+        "It has been built on the wrong site",
+        "It has no operating theatre but three boardrooms",
+        "Its budget has been entirely spent on car parking"
+      ],
+      correct: 0,
+      explanation: "The hospital has 500 administrative staff running it perfectly — but no medical staff and no patients. Hacker's solution: house 1,000 Cuban refugees there. One of the most famous episodes."
+    },
+    ruth: {
+      options: [
+        "500 administrators but no patients!",
+        "500 administrators but no patients!",
+        "It was accidentally built upside down",
+        "Sir Humphrey lost the key (again)"
+      ],
+      correct: 0,
+      explanation: "A hospital running with 500 admin staff and zero patients! The best satire because it's barely an exaggeration."
+    }
+  },
+  {
+    id: 201,
+    category: "general",
+    question: "What fictional government department does Jim Hacker run in Yes Minister?",
+    year: 1980,
+    eric: {
+      options: [
+        "Department of Administrative Affairs",
+        "Department of Public Affairs",
+        "Ministry of Administrative Services",
+        "Department of Government Administration"
+      ],
+      correct: 0,
+      explanation: "The Department of Administrative Affairs (DAA) — described as an unglamorous political graveyard. Hacker had been Shadow Agriculture Minister for seven years and was disappointed with the posting."
+    },
+    ruth: {
+      options: [
+        "The Department of Administrative Affairs",
+        "The Department of Administrative Affairs",
+        "The Department of Doing Nothing Very Much",
+        "The Ministry of Silly Walks (wrong show)"
+      ],
+      correct: 0,
+      explanation: "The Department of Administrative Affairs — the most boring-sounding department possible. Which was the point."
+    }
+  },
+  {
+    id: 202,
+    category: "general",
+    question: "Jim Hacker's political party is never named. What colour rosette does he wear at his constituency declaration?",
+    year: 1980,
+    eric: {
+      options: ["White", "Yellow", "Purple", "Orange"],
+      correct: 0,
+      explanation: "Hacker wears a white rosette — neither red (Labour) nor blue (Conservative). The party is deliberately ambiguous. HQ is 'Central House' (combining Conservative Central Office and Labour's Transport House). The words 'Labour' and 'Conservative' are never used."
+    },
+    ruth: {
+      options: [
+        "White — neither red nor blue!",
+        "White — neither red nor blue!",
+        "Tartan (he's secretly Scottish)",
+        "He forgot his rosette (very Hacker)"
+      ],
+      correct: 0,
+      explanation: "White! The writers deliberately made his party unidentifiable so the satire worked whoever was in power."
+    }
+  },
+  {
+    id: 203,
+    category: "general",
+    question: "Yes Minister was inspired by the published diaries of which Labour cabinet minister?",
+    year: 1980,
+    eric: {
+      options: ["Richard Crossman", "Tony Benn", "Barbara Castle", "Denis Healey"],
+      correct: 0,
+      explanation: "Richard Crossman's diaries (published 1974) recorded officials saying 'Yes, Minister! No, Minister! If you wish it, Minister!' — giving the show its title. His struggles with Permanent Secretary Dame Evelyn Sharp directly inspired the Hacker-Humphrey dynamic."
+    },
+    ruth: {
+      options: [
+        "Richard Crossman — his diaries inspired the title!",
+        "Richard Crossman — his diaries inspired the title!",
+        "Jim Hacker (he's not real, Ruth)",
+        "Sir Humphrey (definitely not real)"
+      ],
+      correct: 0,
+      explanation: "Richard Crossman! His real diary entries about civil servants saying 'Yes, Minister!' gave the show its name."
+    }
+  },
+  {
+    id: 204,
+    category: "general",
+    question: "On 20 January 1984, Margaret Thatcher performed a sketch with the Yes Minister cast. What was the premise?",
+    year: 1984,
+    eric: {
+      options: [
+        "Thatcher as PM proposing to abolish economists",
+        "Thatcher as PM ordering Sir Humphrey to cut red tape",
+        "Thatcher sacking Hacker and taking over his department",
+        "Thatcher proposing a Ministry of Common Sense"
+      ],
+      correct: 0,
+      explanation: "Thatcher played the PM proposing to abolish economists, alongside Paul Eddington and Nigel Hawthorne. She co-wrote it with Press Secretary Bernard Ingham. Jonathan Lynn's acceptance speech: 'Thank you for taking your rightful place in the field of situation comedy.' Everyone except Thatcher laughed."
+    },
+    ruth: {
+      options: [
+        "She wanted to abolish economists!",
+        "She wanted to abolish economists!",
+        "She played Sir Humphrey (imagine!)",
+        "She cancelled the show (she loved it too much)"
+      ],
+      correct: 0,
+      explanation: "Thatcher played the PM wanting to abolish economists! She said the show was her favourite programme."
+    }
+  },
+  {
+    id: 205,
+    category: "general",
+    question: "How many total episodes were made across Yes Minister and Yes, Prime Minister (original run)?",
+    year: 1988,
+    eric: {
+      options: ["36", "37", "38", "39"],
+      correct: 2,
+      explanation: "38 episodes: Yes Minister had 3 series of 7 (= 21) plus the hour-long 'Party Games' special (= 22). Yes, Prime Minister had 2 series of 8 (= 16). Total: 38. Every single one written by Antony Jay and Jonathan Lynn."
+    },
+    ruth: {
+      options: [
+        "38 episodes — every one a classic!",
+        "38 episodes — every one a classic!",
+        "Thousands (it's been running since 1066)",
+        "Not enough (they should make more)"
+      ],
+      correct: 0,
+      explanation: "38 episodes of pure comedy gold, all written by the same two people. Quality over quantity."
+    }
+  },
+  {
+    id: 206,
+    category: "general",
+    question: "Who composed the Yes Minister theme tune, incorporating Big Ben chimes?",
+    year: 1980,
+    eric: {
+      options: ["Ronnie Hazlehurst", "Neil Innes", "Howard Goodall", "Dennis Wilson"],
+      correct: 0,
+      explanation: "Ronnie Hazlehurst, BBC Light Entertainment Musical Director. He also composed themes for Are You Being Served?, Some Mothers Do 'Ave 'Em, and Last of the Summer Wine."
+    },
+    ruth: {
+      options: [
+        "Ronnie Hazlehurst",
+        "Ronnie Hazlehurst",
+        "Big Ben itself (it moonlights as a musician)",
+        "Sir Humphrey (he plays the oboe, probably)"
+      ],
+      correct: 0,
+      explanation: "Ronnie Hazlehurst — the man behind some of the most recognisable BBC sitcom themes."
+    }
+  },
+  {
+    id: 207,
+    category: "general",
+    question: "Bernard Woolley's 'irregular verb' conjugation includes: 'I give confidential press briefings; you leak; he...'?",
+    year: 1980,
+    eric: {
+      options: [
+        "Has been charged under Section 2a of the Official Secrets Act",
+        "Is a traitor to the Crown",
+        "Has been referred to the Cabinet Secretary",
+        "Is facing a public inquiry"
+      ],
+      correct: 0,
+      explanation: "'I give confidential press briefings; you leak; he's been charged under Section 2a of the Official Secrets Act.' Bernard's 'irregular verbs' game is one of the show's running gags — demonstrating how the same action is described differently depending on who does it."
+    },
+    ruth: {
+      options: [
+        "He's been charged under the Official Secrets Act!",
+        "He's been charged under the Official Secrets Act!",
+        "He's in big trouble",
+        "He's been sent to his room"
+      ],
+      correct: 0,
+      explanation: "Charged under the Official Secrets Act! The same action — 'I brief, you leak, he gets arrested.' Classic Bernard."
+    }
+  },
+  {
+    id: 208,
+    category: "general",
+    question: "How many BAFTAs for Best Comedy Series did Yes Minister win consecutively?",
+    year: 1982,
+    eric: {
+      options: ["Three (1980, 1981, 1982)", "Two (1980, 1981)", "Four (1980, 1981, 1982, 1983)", "Three (1981, 1982, 1983)"],
+      correct: 0,
+      explanation: "Three consecutive BAFTAs for Best Comedy Series in 1980, 1981, and 1982. Nigel Hawthorne also won Best Light Entertainment Performance four times (1981, 1982, 1986, 1987), beating Paul Eddington each time."
+    },
+    ruth: {
+      options: [
+        "Three in a row! 1980, 1981, and 1982!",
+        "Three in a row! 1980, 1981, and 1982!",
+        "All of them (they won every award ever)",
+        "None (it was robbed)"
+      ],
+      correct: 0,
+      explanation: "Three BAFTAs in a row! And Nigel Hawthorne won Best Performance four times. Well deserved."
+    }
+  },
+  {
+    id: 209,
+    category: "general",
+    question: "What are the three articles of Civil Service faith according to Yes Minister?",
+    year: 1980,
+    eric: {
+      options: [
+        "It takes longer to do things quickly, it's more expensive to do them cheaply, it's more democratic to do them in secret",
+        "Never explain, never apologise, never resign",
+        "Delay, obfuscate, redirect",
+        "Protect the department, protect the minister, protect yourself"
+      ],
+      correct: 0,
+      explanation: "'It takes longer to do things quickly, it's more expensive to do them cheaply, and it's more democratic to do them in secret.' A perfect encapsulation of Sir Humphrey's worldview."
+    },
+    ruth: {
+      options: [
+        "Longer to do things quickly, more expensive to do them cheaply, more democratic in secret!",
+        "Longer to do things quickly, more expensive to do them cheaply, more democratic in secret!",
+        "Tea, biscuits, and long lunches",
+        "Never do today what you can put off until tomorrow"
+      ],
+      correct: 0,
+      explanation: "The perfect civil service philosophy: everything takes longer, costs more, and should be done secretly. Sir Humphrey would approve."
+    }
+  },
+  {
+    id: 210,
+    category: "general",
+    question: "Co-writer Jonathan Lynn also directed which Oscar-nominated courtroom comedy film?",
+    year: 1992,
+    eric: {
+      options: ["My Cousin Vinny", "A Fish Called Wanda", "The Verdict", "Liar Liar"],
+      correct: 0,
+      explanation: "Jonathan Lynn directed My Cousin Vinny (1992) and also Clue (1985). Marisa Tomei won the Oscar for Best Supporting Actress for My Cousin Vinny. Lynn also wrote the definitive book on the making of Yes Minister."
+    },
+    ruth: {
+      options: [
+        "My Cousin Vinny!",
+        "My Cousin Vinny!",
+        "Yes Minister: The Movie (doesn't exist, sadly)",
+        "A documentary about Sir Humphrey's hair"
+      ],
+      correct: 0,
+      explanation: "My Cousin Vinny! The same man who wrote Sir Humphrey's convoluted speeches also directed Joe Pesci in a courtroom."
+    }
+  },
+  {
+    id: 211,
+    category: "general",
+    question: "In the 'Party Games' Christmas special, how does Hacker become Prime Minister?",
+    year: 1984,
+    eric: {
+      options: [
+        "Sir Humphrey manipulates events so Hacker is the least objectionable compromise candidate",
+        "Hacker wins a party leadership election outright",
+        "The PM dies suddenly and Hacker is next in line",
+        "Hacker blackmails the party chairman"
+      ],
+      correct: 0,
+      explanation: "Sir Humphrey and Sir Arnold Robinson engineer events so that Hacker emerges as the least objectionable compromise candidate. Sir Arnold retires; Sir Humphrey becomes Cabinet Secretary. It's the Christmas special that bridges the two series."
+    },
+    ruth: {
+      options: [
+        "Sir Humphrey arranged it so nobody better would take the job!",
+        "Sir Humphrey arranged it so nobody better would take the job!",
+        "He won a raffle",
+        "Nobody else wanted it (fair enough)"
+      ],
+      correct: 0,
+      explanation: "Sir Humphrey pulled strings so Hacker was the least objectionable option. Not exactly a ringing endorsement!"
+    }
+  },
+  {
+    id: 212,
+    category: "general",
+    question: "Where did Yes Minister rank in the BFI's list of 100 Greatest British Television Programmes?",
+    year: 2000,
+    eric: {
+      options: ["6th", "9th", "12th", "15th"],
+      correct: 1,
+      explanation: "9th in the BFI 100 Greatest British Television Programmes (2000), voted by industry professionals. It also came 6th in the BBC's 'Britain's Best Sitcom' poll (2004)."
+    },
+    ruth: {
+      options: [
+        "9th — and it should have been higher!",
+        "9th — and it should have been higher!",
+        "First (it was robbed of the top spot)",
+        "Courageous (that means it came last)"
+      ],
+      correct: 0,
+      explanation: "9th greatest British TV programme of all time! And Sir Humphrey would say ranking it any lower would be 'courageous.'"
+    }
+  },
+
   // ─── Aberdeen & Edinburgh Trams ───────────────────────────────
   {
     id: 173,
