@@ -5650,6 +5650,448 @@ export const questions = [
       correct: 0,
       explanation: "£700k versus £3 million per kilometre! The trident design saves a fortune compared to the big lattice towers."
     }
+  },
+
+  // ─── Trident aircraft and BA Shuttle ──────────────────────────
+  {
+    id: 243,
+    category: "general",
+    question: "The Hawker Siddeley Trident had an unusual engine configuration. How many engines did the Trident 3B have?",
+    year: 1969,
+    eric: {
+      options: ["Three", "Four", "Two", "Three plus an APU"],
+      correct: 1,
+      explanation: "The Trident 3B had FOUR engines: three Rolls-Royce Spey turbofans plus a small RB.162 boost engine in the tail. The RB.162 weighed only 280 lb but produced 5,250 lb of thrust — a thrust-to-weight ratio of 18.75:1. It was used for take-off only."
+    },
+    ruth: {
+      options: [
+        "Four! Three big ones and a little booster!",
+        "Four! Three big ones and a little booster!",
+        "One very large hamster wheel",
+        "None — it was solar powered (it wasn't)"
+      ],
+      correct: 0,
+      explanation: "Four engines! The little RB.162 booster weighed only 280 pounds but gave a massive thrust boost for take-off."
+    }
+  },
+  {
+    id: 244,
+    category: "general",
+    question: "The Trident pioneered automatic landing in commercial service. When was the world's first autoland on a scheduled passenger flight?",
+    year: 1965,
+    eric: {
+      options: ["10 June 1965", "10 June 1964", "10 March 1965", "4 November 1966"],
+      correct: 0,
+      explanation: "10 June 1965, BEA Flight BE 343, Trident 1 G-ARPR, Paris to Heathrow. Captains Eric Poole and Frank Ormonroyd. The first genuinely 'blind' landing (zero visibility) followed on 4 November 1966. The Trident was eventually certified to CAT IIIB in 1975."
+    },
+    ruth: {
+      options: [
+        "10 June 1965 — the plane landed itself!",
+        "10 June 1965 — the plane landed itself!",
+        "Last week (they've only just figured it out)",
+        "Never — planes can't land themselves (they can!)"
+      ],
+      correct: 0,
+      explanation: "1965! The Trident was the first airliner to land itself on a scheduled flight with passengers aboard. Decades ahead of its time."
+    }
+  },
+  {
+    id: 245,
+    category: "general",
+    question: "The original DH.121 design was much larger than what BEA demanded. By how much was the fuselage shortened?",
+    year: null,
+    eric: {
+      options: ["13 feet", "10 feet", "16 feet", "8 feet"],
+      correct: 0,
+      explanation: "BEA forced de Havilland to shorten the fuselage by 13 feet and reduce the wingspan by 17 feet. The original design used Rolls-Royce Medway engines (40% more powerful than the Spey). Boeing built the 727 to almost the exact specification of the ORIGINAL DH.121. Result: 117 Tridents sold vs 1,832 Boeing 727s. The 'BEA Blunder.'"
+    },
+    ruth: {
+      options: [
+        "13 feet — and it was a terrible decision!",
+        "13 feet — and it was a terrible decision!",
+        "They made it bigger (they didn't)",
+        "About an inch (that doesn't sound right)"
+      ],
+      correct: 0,
+      explanation: "13 feet shorter! BEA insisted on a smaller plane and killed its export potential. Boeing copied the ORIGINAL design and sold 1,832 of them."
+    }
+  },
+  {
+    id: 246,
+    category: "general",
+    question: "How many Tridents were built in total, compared to the rival Boeing 727?",
+    year: null,
+    eric: {
+      options: ["117 vs 1,832", "117 vs 1,632", "127 vs 1,832", "117 vs 2,032"],
+      correct: 0,
+      explanation: "117 Tridents vs 1,832 Boeing 727s. The 727's initial specification was almost identical to de Havilland's original (pre-BEA-downsizing) DH.121 design. One of the greatest commercial blunders in British aviation history."
+    },
+    ruth: {
+      options: [
+        "117 Tridents vs 1,832 Boeings — ouch!",
+        "117 Tridents vs 1,832 Boeings — ouch!",
+        "Millions of each (not quite)",
+        "Boeing won (Boeing always wins)"
+      ],
+      correct: 0,
+      explanation: "117 vs 1,832! The Trident was a brilliant aircraft hamstrung by BEA's insistence on making it too small."
+    }
+  },
+  {
+    id: 247,
+    category: "general",
+    question: "The 1972 Staines disaster (BEA Flight 548) killed 118 people. What was the aircraft registration?",
+    year: 1972,
+    eric: {
+      options: ["G-ARPI", "G-ARPR", "G-ARPA", "G-ARPH"],
+      correct: 0,
+      explanation: "G-ARPI ('Papa India'). Captain Stanley Key (51) had an arterial tear likely caused by a heated argument about an industrial dispute. The leading-edge droops were retracted too early, leading to a deep stall — a condition from which T-tail aircraft cannot recover. It remains the UK's deadliest non-terrorist air accident."
+    },
+    ruth: {
+      options: [
+        "G-ARPI — 'Papa India'",
+        "G-ARPI — 'Papa India'",
+        "G-ARPI — 'Papa India'",
+        "G-ARPI — 'Papa India'"
+      ],
+      correct: 0,
+      explanation: "G-ARPI, known as 'Papa India.' A tragic accident caused by a deep stall just 150 seconds after take-off."
+    }
+  },
+  {
+    id: 248,
+    category: "general",
+    question: "In the Staines disaster, Second Officer Keighley had how many hours as P2 (co-pilot)?",
+    year: 1972,
+    eric: {
+      options: ["29 hours", "49 hours", "79 hours", "129 hours"],
+      correct: 0,
+      explanation: "Just 29 hours — he had joined line flying only 6 weeks earlier. He was 22 years old. The public inquiry noted that such inexperience contributed to his inability to intervene when Captain Key failed to maintain airspeed."
+    },
+    ruth: {
+      options: [
+        "Only 29 hours — barely started!",
+        "Only 29 hours — barely started!",
+        "Thousands (he was very experienced — he wasn't)",
+        "Not enough (that's the point)"
+      ],
+      correct: 0,
+      explanation: "Just 29 hours as co-pilot. He was 22 years old and had been flying the line for only 6 weeks."
+    }
+  },
+  {
+    id: 249,
+    category: "general",
+    question: "Which was the largest export customer for the Trident, taking 39 aircraft?",
+    year: null,
+    eric: {
+      options: ["CAAC (China)", "Pakistan International Airlines", "Kuwait Airways", "Cyprus Airways"],
+      correct: 0,
+      explanation: "CAAC (Civil Aviation Administration of China) received 4 ex-PIA Trident 1Es, 33 new Trident 2Es, and 2 Super Trident 3Bs — 39 aircraft total. Chinese Tridents were the last to fly anywhere in the world, retiring around 1995."
+    },
+    ruth: {
+      options: [
+        "China! They bought 39 of them!",
+        "China! They bought 39 of them!",
+        "Nobody — they couldn't give them away",
+        "Eric (he collects Tridents in his garage)"
+      ],
+      correct: 0,
+      explanation: "China bought 39 Tridents — more than any other export customer. They kept flying them until 1995!"
+    }
+  },
+  {
+    id: 250,
+    category: "general",
+    question: "When was BA's last Trident flight in the UK?",
+    year: 1985,
+    eric: {
+      options: ["31 December 1985", "12 September 1985", "31 March 1986", "1 January 1986"],
+      correct: 0,
+      explanation: "31 December 1985, Manchester to London Heathrow. ICAO Chapter 2 noise regulations (effective January 1986) sealed the Trident's fate — the noisy, smoke-belching Speys couldn't comply. Chinese Tridents flew on until ~1995."
+    },
+    ruth: {
+      options: [
+        "31 December 1985 — New Year's Eve!",
+        "31 December 1985 — New Year's Eve!",
+        "Last Tuesday (they're still flying — they're not)",
+        "Eric was on the last one (probably)"
+      ],
+      correct: 0,
+      explanation: "New Year's Eve 1985 — the Trident's final UK flight. Noise regulations killed it off the very next day."
+    }
+  },
+  {
+    id: 251,
+    category: "general",
+    question: "The BA Edinburgh-London Shuttle started in 1975 on the Glasgow route. When was Edinburgh added?",
+    year: 1976,
+    eric: {
+      options: ["1 April 1976", "12 January 1976", "1 October 1975", "1 April 1977"],
+      correct: 0,
+      explanation: "Edinburgh was added on 1 April 1976. The shuttle had launched on 12 January 1975 (Glasgow). Belfast followed on 1 April 1977 and Manchester on 28 October 1979."
+    },
+    ruth: {
+      options: [
+        "1 April 1976",
+        "1 April 1976",
+        "Before Glasgow (Edinburgh always goes first — it didn't)",
+        "Nobody remembers (Eric does)"
+      ],
+      correct: 0,
+      explanation: "1 April 1976 — Edinburgh was the second city to get the shuttle, after Glasgow."
+    }
+  },
+  {
+    id: 252,
+    category: "general",
+    question: "What was revolutionary about the original BA Shuttle concept?",
+    year: 1975,
+    eric: {
+      options: [
+        "No reservation needed; guaranteed a seat; could pay on board",
+        "First class only; champagne service; no hand luggage",
+        "Standing room allowed; no seats required; 5-minute check-in",
+        "Free flights for frequent flyers; no ticket needed; unlimited luggage"
+      ],
+      correct: 0,
+      explanation: "Turn up and fly — no reservation, guaranteed a seat (backup aircraft on standby if full), and you could pay cash or credit card on board. Just be at the gate 10 minutes before departure. Modelled on Eastern Air Lines' US shuttle."
+    },
+    ruth: {
+      options: [
+        "Just turn up — guaranteed a seat, pay on board!",
+        "Just turn up — guaranteed a seat, pay on board!",
+        "Free flights for everyone (too good to be true)",
+        "You had to bring your own wings"
+      ],
+      correct: 0,
+      explanation: "No booking needed! Just turn up, get on, and pay on the plane. If it was full, they'd bring another aircraft. Amazing."
+    }
+  },
+  {
+    id: 253,
+    category: "general",
+    question: "What event effectively ended the BA Shuttle's walk-on, no-booking-required concept?",
+    year: 2001,
+    eric: {
+      options: [
+        "The September 11 attacks (2001)",
+        "The introduction of easyJet (1995)",
+        "BA's merger with BMI (2012)",
+        "The opening of Terminal 5 (2008)"
+      ],
+      correct: 0,
+      explanation: "9/11 effectively killed the walk-on concept overnight. Enhanced security requirements made it impossible for passengers to simply turn up and board without pre-booking. The 'Shuttle' name persisted but the original concept was dead."
+    },
+    ruth: {
+      options: [
+        "9/11 — security changed everything",
+        "9/11 — security changed everything",
+        "Eric complained too much (not the real reason)",
+        "They ran out of backup aircraft"
+      ],
+      correct: 0,
+      explanation: "9/11 changed airport security forever. After that, everyone needed a pre-booked ticket and full security screening."
+    }
+  },
+  {
+    id: 254,
+    category: "general",
+    question: "On 30 August 1983, the BA Shuttle was rebranded. What was the new name?",
+    year: 1983,
+    eric: {
+      options: ["Super Shuttle", "Shuttle Plus", "Premium Shuttle", "Express Shuttle"],
+      correct: 0,
+      explanation: "Super Shuttle — launched across all four routes (Glasgow, Edinburgh, Belfast, Manchester) in response to British Midland's competitive 'Diamond Service.' It added complimentary hot meals, free bar, and new seat covers."
+    },
+    ruth: {
+      options: [
+        "Super Shuttle!",
+        "Super Shuttle!",
+        "The Really Good Shuttle",
+        "The Shuttle That's Better Than BMI's"
+      ],
+      correct: 0,
+      explanation: "Super Shuttle! With free meals and drinks — take that, British Midland!"
+    }
+  },
+  {
+    id: 255,
+    category: "general",
+    question: "A Trident 1C cockpit is preserved at the National Museum of Flight near Edinburgh. What is its registration?",
+    year: null,
+    eric: {
+      options: ["G-ARPH", "G-ARPI", "G-ARPA", "G-ARPP"],
+      correct: 0,
+      explanation: "G-ARPH is at the National Museum of Flight at East Fortune, near Edinburgh. G-ARPI was the Staines crash aircraft. G-ARPA was the first prototype. G-ARPP's cockpit is at the Solway Aviation Museum, Carlisle."
+    },
+    ruth: {
+      options: [
+        "G-ARPH — you can visit it at East Fortune!",
+        "G-ARPH — you can visit it at East Fortune!",
+        "G-ERIC (named after a famous pilot)",
+        "It's at Edinburgh Airport (it's not, it's at East Fortune)"
+      ],
+      correct: 0,
+      explanation: "G-ARPH — on display at the National Museum of Flight at East Fortune, not far from Edinburgh!"
+    }
+  },
+  {
+    id: 256,
+    category: "general",
+    question: "How much did a BA Super Shuttle ticket cost when it launched in 1983?",
+    year: 1983,
+    eric: {
+      options: ["£56", "£46", "£66", "£76"],
+      correct: 0,
+      explanation: "£56 for a walk-on, pay-on-board shuttle ticket in 1983. That's roughly £180 in today's money. Current BA Edinburgh-Heathrow fares start from about £63-75 one-way in economy."
+    },
+    ruth: {
+      options: [
+        "£56 — not bad for a walk-on flight!",
+        "£56 — not bad for a walk-on flight!",
+        "50p (those were the days)",
+        "Free (it was a shuttle, not a charity)"
+      ],
+      correct: 0,
+      explanation: "£56 — and that included a hot meal and free drinks! Those really were the days."
+    }
+  },
+  {
+    id: 257,
+    category: "general",
+    question: "Which competitor started Edinburgh-Heathrow services in 1983, challenging BA's monopoly?",
+    year: 1983,
+    eric: {
+      options: ["British Midland (BMI)", "Dan-Air", "Air UK", "Laker Airways"],
+      correct: 0,
+      explanation: "British Midland began Edinburgh-Heathrow service in 1983 with DC-9s, branding it 'Diamond Service.' This directly prompted BA's Super Shuttle rebranding. BMI was eventually absorbed into BA/IAG in 2012."
+    },
+    ruth: {
+      options: [
+        "British Midland — the 'Diamond Service'!",
+        "British Midland — the 'Diamond Service'!",
+        "easyJet (they weren't around yet)",
+        "Eric Airlines (sadly not a real airline)"
+      ],
+      correct: 0,
+      explanation: "British Midland with their 'Diamond Service' — the first real competitor on the Edinburgh-London route!"
+    }
+  },
+  {
+    id: 258,
+    category: "general",
+    question: "The Trident's cruise speed was Mach 0.88. What made this remarkable?",
+    year: null,
+    eric: {
+      options: [
+        "It was one of the fastest subsonic commercial airliners of its era",
+        "It was faster than the Boeing 727",
+        "It could briefly exceed Mach 1.0 in a dive",
+        "It was the fastest aircraft ever to use the Spey engine"
+      ],
+      correct: 0,
+      explanation: "Mach 0.88 (about 610 mph) made it one of the fastest subsonic airliners ever. Maximum demonstrated speed was Mach 0.96. Former pilot Captain John Rankin said it 'felt like a finely tuned sports car' compared to Boeings that 'felt like a Cadillac.'"
+    },
+    ruth: {
+      options: [
+        "It was incredibly fast for its day!",
+        "It was incredibly fast for its day!",
+        "It was actually quite slow (it wasn't)",
+        "Mach 0.88 — that's nearly the speed of sound!"
+      ],
+      correct: 0,
+      explanation: "Mach 0.88 — incredibly fast! Pilots loved it. One said it felt like a sports car compared to the American jets."
+    }
+  },
+  {
+    id: 259,
+    category: "general",
+    question: "The Trident 3B's boost engine, the RB.162, weighed only 280 lb. What was its thrust?",
+    year: null,
+    eric: {
+      options: ["5,250 lb", "4,250 lb", "6,250 lb", "3,250 lb"],
+      correct: 0,
+      explanation: "5,250 lb of thrust from an engine weighing just 280 lb — a thrust-to-weight ratio of 18.75:1. Originally developed as a lift engine for VTOL aircraft. It used the world's first fibreglass compressor casings and plastic compressor blades. Added only 5% to aircraft weight but gave 15% extra thrust at take-off."
+    },
+    ruth: {
+      options: [
+        "5,250 lb of thrust from a 280 lb engine!",
+        "5,250 lb of thrust from a 280 lb engine!",
+        "About the same as a hairdryer",
+        "Enough to make Eric's tea go cold"
+      ],
+      correct: 0,
+      explanation: "5,250 lb of thrust from something weighing only 280 lb! Nearly 19 times its own weight in thrust. Incredible engineering."
+    }
+  },
+  {
+    id: 260,
+    category: "general",
+    question: "The original DH.121 design used which engine, 40% more powerful than the Spey that BEA demanded?",
+    year: null,
+    eric: {
+      options: ["Rolls-Royce Medway", "Rolls-Royce Conway", "Rolls-Royce Avon", "Rolls-Royce Tyne"],
+      correct: 0,
+      explanation: "The Rolls-Royce Medway at 13,790 lb thrust each — 40% more powerful than the Spey 505 (10,410 lb). BEA demanded the cheaper, less powerful Spey, hobbling the aircraft's performance and export potential. Boeing used similar-class engines on the 727 and sold 1,832."
+    },
+    ruth: {
+      options: [
+        "The Rolls-Royce Medway — much more powerful!",
+        "The Rolls-Royce Medway — much more powerful!",
+        "A Rolls-Royce car engine (not quite right)",
+        "Eric's lawn mower engine (definitely not right)"
+      ],
+      correct: 0,
+      explanation: "The Medway — 40% more powerful than what BEA insisted on. If they'd kept it, the Trident might have outsold the 727!"
+    }
+  },
+  {
+    id: 261,
+    category: "general",
+    question: "There is a marooned Cyprus Airways Trident at old Nicosia Airport. Why can't anyone reach it?",
+    year: 1974,
+    eric: {
+      options: [
+        "It's inside the UN buffer zone, inaccessible since the 1974 Turkish invasion",
+        "The airport is flooded and the aircraft is partially submerged",
+        "The Turkish military uses it as a decoy and restricts access",
+        "It was deliberately buried as part of the runway reconstruction"
+      ],
+      correct: 0,
+      explanation: "Trident 2E 5B-DAB sits in old Cyprus Airways colours at the former Nicosia International Airport, marooned inside the UN buffer zone since the 1974 Turkish invasion of Cyprus. The airport has been frozen in time for over 50 years."
+    },
+    ruth: {
+      options: [
+        "It's stuck in a UN buffer zone — nobody can get to it!",
+        "It's stuck in a UN buffer zone — nobody can get to it!",
+        "It flew away (planes do that)",
+        "Eric is guarding it (he takes his hobbies seriously)"
+      ],
+      correct: 0,
+      explanation: "Trapped in the UN buffer zone since 1974! The whole airport is frozen in time — like a time capsule with a Trident in it."
+    }
+  },
+  {
+    id: 262,
+    category: "general",
+    question: "The BA Shuttle originally operated from which Heathrow terminal, before moving to Terminal 5 in 2008?",
+    year: 1975,
+    eric: {
+      options: ["Terminal 1", "Terminal 2", "Terminal 3", "Terminal 4"],
+      correct: 0,
+      explanation: "Terminal 1 was the primary domestic terminal at Heathrow for decades. BA domestic flights moved to Terminal 5 when it opened on 27 March 2008. Terminal 1 finally closed on 29 June 2015."
+    },
+    ruth: {
+      options: [
+        "Terminal 1",
+        "Terminal 1",
+        "Terminal 42 (doesn't exist)",
+        "Whichever one had the shortest queue"
+      ],
+      correct: 0,
+      explanation: "Terminal 1 — the domestic terminal for decades before Terminal 5 took over in 2008."
+    }
   }
 
 ];
