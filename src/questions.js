@@ -6614,6 +6614,253 @@ export const questions = [
       correct: 0,
       explanation: "Maximum cringe! There's nothing more embarrassing than a grandparent misusing teen slang. Eric has lost 500 aura points. No cap."
     }
+  },
+
+  // ─── BBC Weather Presenters ───────────────────────────────────
+  {
+    id: 283,
+    category: "general",
+    question: "Who was the first in-vision BBC TV weather presenter, and when did he first appear?",
+    year: 1954,
+    eric: {
+      options: [
+        "George Cowling, 11 January 1954",
+        "Michael Fish, 11 January 1954",
+        "George Cowling, 11 January 1952",
+        "Bert Foord, 11 January 1954"
+      ],
+      correct: 0,
+      explanation: "George Cowling presented the first in-vision weather forecast on 11 January 1954 from BBC Lime Grove Studios at 7:55 PM. He stood in front of a hand-drawn map, using charcoal to illustrate fronts. Before this, weather maps appeared on screen with an off-screen announcer."
+    },
+    ruth: {
+      options: [
+        "George Cowling in 1954!",
+        "George Cowling in 1954!",
+        "Michael Fish (he wasn't first, but he's the most famous)",
+        "Eric (he knows everything about the weather)"
+      ],
+      correct: 0,
+      explanation: "George Cowling, 11 January 1954 — the first person to stand in front of a weather map on BBC TV!"
+    }
+  },
+  {
+    id: 284,
+    category: "general",
+    question: "Complete Michael Fish's famous 1987 quote: 'Earlier on today, apparently, a woman rang the BBC and said she heard there was a hurricane on the way. Well, if you're watching...'",
+    year: 1987,
+    eric: {
+      options: [
+        "...don't worry, there isn't!",
+        "...she was absolutely right!",
+        "...I can confirm we're expecting some wind!",
+        "...please stay indoors tonight!"
+      ],
+      correct: 0,
+      explanation: "'Don't worry, there isn't!' — broadcast on the evening of 15 October 1987, hours before the Great Storm struck overnight. 18 people died, 15 million trees were felled, and it cost insurers £2 billion. Fish later claimed he was referring to a Florida hurricane, not the UK."
+    },
+    ruth: {
+      options: [
+        "Don't worry, there isn't! (There absolutely was)",
+        "Don't worry, there isn't! (There absolutely was)",
+        "Run for your lives! (he didn't say that)",
+        "I've lost my notes (also didn't say that)"
+      ],
+      correct: 0,
+      explanation: "'Don't worry, there isn't!' — then 15 million trees blew down overnight. The most famous weather forecast in British history."
+    }
+  },
+  {
+    id: 285,
+    category: "general",
+    question: "How many trees were felled in the Great Storm of October 1987?",
+    year: 1987,
+    eric: {
+      options: ["About 15 million", "About 10 million", "About 20 million", "About 8 million"],
+      correct: 0,
+      explanation: "Approximately 15 million trees were felled, including six of the seven oaks in Sevenoaks. Wind speeds exceeded 100 mph in places. 18 people died in the UK. Fish received an MBE (not OBE) in the 2004 Birthday Honours despite the gaffe."
+    },
+    ruth: {
+      options: [
+        "15 million trees!",
+        "15 million trees!",
+        "Just the one (it was a very important tree)",
+        "None — Michael Fish said there was no hurricane"
+      ],
+      correct: 0,
+      explanation: "15 million trees! Including six of the seven oaks in Sevenoaks. They had to rename it Oneoak. (They didn't, but they should have.)"
+    }
+  },
+  {
+    id: 286,
+    category: "general",
+    question: "Who designed the BBC's magnetic weather symbols (rubber symbols on steel boards), introduced on 16 August 1975?",
+    year: 1975,
+    eric: {
+      options: [
+        "Mark Allen, a Norwich School of Art student (his final year project)",
+        "The BBC Graphics Department",
+        "The Met Office design team",
+        "Michael Fish, who was also an amateur artist"
+      ],
+      correct: 0,
+      explanation: "Mark Allen designed them as his final year project at Norwich School of Art in 1974. Over 36 rubber symbols with magnetic backs, placed on steel map boards. They lasted until computer graphics replaced them on 18 February 1985."
+    },
+    ruth: {
+      options: [
+        "A student! It was his final year art project!",
+        "A student! It was his final year art project!",
+        "NASA (they had experience with magnetic things)",
+        "Eric (he's good with magnets)"
+      ],
+      correct: 0,
+      explanation: "An art student called Mark Allen designed them for his degree! The most successful final year project in history."
+    }
+  },
+  {
+    id: 287,
+    category: "general",
+    question: "Which BBC weather presenter had a Spitting Image puppet and was voted 'Britain's sexiest weather presenter' in 1994?",
+    year: 1994,
+    eric: {
+      options: ["Ian McCaskill", "Michael Fish", "Bill Giles", "John Kettley"],
+      correct: 0,
+      explanation: "Ian McCaskill — the gentle-voiced Scotsman who presented from 1978 to 1998. Known for his famous 'Hullo!' greeting. Also impersonated by Rory Bremner. He died on 10 December 2016, aged 78."
+    },
+    ruth: {
+      options: [
+        "Ian McCaskill — the Scottish charmer!",
+        "Ian McCaskill — the Scottish charmer!",
+        "Eric (he's very sexy, according to Ruth)",
+        "All of them (weathermen are irresistible)"
+      ],
+      correct: 0,
+      explanation: "Ian McCaskill! A Scotsman with a gentle voice and a Spitting Image puppet. Officially Britain's sexiest weather presenter."
+    }
+  },
+  {
+    id: 288,
+    category: "general",
+    question: "What did Tomasz Schafernaker do on live BBC News on 18 August 2010?",
+    year: 2010,
+    eric: {
+      options: [
+        "Stuck up his middle finger, thinking he was off-camera",
+        "Fell asleep during his own forecast",
+        "Accidentally forecast snow in July",
+        "Read out the football results instead of the weather"
+      ],
+      correct: 0,
+      explanation: "After presenter Simon McCoy teased him, Schafernaker stuck up his middle finger — thinking he was off-camera. The camera cut live to the weather studio. He tried to disguise it by scratching his chin. The clip got 5.5 million YouTube views."
+    },
+    ruth: {
+      options: [
+        "He stuck up his middle finger on live TV!",
+        "He stuck up his middle finger on live TV!",
+        "He said a rude word (he didn't, but the finger was enough)",
+        "He predicted sunshine (that's not scandalous at all)"
+      ],
+      correct: 0,
+      explanation: "The middle finger! He thought he was off-camera. He wasn't. 5.5 million people watched it on YouTube."
+    }
+  },
+  {
+    id: 289,
+    category: "general",
+    question: "How many TRIC Awards for Best TV Weather Presenter has Carol Kirkwood won?",
+    year: null,
+    eric: {
+      options: ["Nine", "Seven", "Five", "Eleven"],
+      correct: 0,
+      explanation: "Carol Kirkwood has won nine TRIC Awards (2003, 2008, 2009, 2012, 2013, 2014, 2015, 2016, 2017). She joined BBC News in April 1998 — over 28 years of presenting by 2026. The 2003 award was the first time weather was included as a category."
+    },
+    ruth: {
+      options: [
+        "Nine! More than anyone else!",
+        "Nine! More than anyone else!",
+        "All of them (she wins every year)",
+        "None (she was robbed)"
+      ],
+      correct: 0,
+      explanation: "Nine TRIC Awards! Carol Kirkwood is the undisputed queen of BBC weather presenting."
+    }
+  },
+  {
+    id: 290,
+    category: "general",
+    question: "What was controversial about the BBC weather map redesign in May 2005?",
+    year: 2005,
+    eric: {
+      options: [
+        "The 3D tilted view made Scotland appear tiny — over 4,000 complaints",
+        "They removed Northern Ireland from the map entirely",
+        "The new colours were garish and hard to read",
+        "They accidentally reversed north and south"
+      ],
+      correct: 0,
+      explanation: "The 3D perspective tilted the map so Scotland appeared 'little larger than Devon' and Shetland was almost invisible. Over 4,000 complaints were received. SNP MP Angus Macneil raised it in Parliament. The BBC adjusted the view within two weeks."
+    },
+    ruth: {
+      options: [
+        "Scotland looked tiny! 4,000 people complained!",
+        "Scotland looked tiny! 4,000 people complained!",
+        "They forgot to include the weather (just showed a map)",
+        "Eric complained (he always complains about the weather)"
+      ],
+      correct: 0,
+      explanation: "The new 3D tilted map made Scotland look minuscule! 4,000 complaints and a question in Parliament. They had to fix it within two weeks."
+    }
+  },
+  {
+    id: 291,
+    category: "general",
+    question: "What was Bill Giles' trademark sign-off gesture during his 25 years presenting BBC weather?",
+    year: null,
+    eric: {
+      options: [
+        "A cheery wink",
+        "A thumbs up",
+        "A salute",
+        "A wave with both hands"
+      ],
+      correct: 0,
+      explanation: "Bill Giles' trademark cheery wink became iconic during his 25 years on TV (1975-2000). He led the BBC Met Office forecasting team from 1983 and received an OBE in 1995 for services to broadcast meteorology."
+    },
+    ruth: {
+      options: [
+        "A cheery wink!",
+        "A cheery wink!",
+        "A little dance (weather presenters are jolly people)",
+        "He threw his notes in the air (very dramatic)"
+      ],
+      correct: 0,
+      explanation: "Bill Giles' famous wink! 25 years of winking at the nation. An OBE for services to broadcast meteorology and winking."
+    }
+  },
+  {
+    id: 292,
+    category: "general",
+    question: "When was the very first BBC weather forecast broadcast?",
+    year: 1922,
+    eric: {
+      options: [
+        "14 November 1922 (a shipping forecast on radio)",
+        "11 January 1954 (George Cowling on TV)",
+        "26 March 1923 (the first daily radio forecast)",
+        "1 January 1924 (shipping forecast in Morse code)"
+      ],
+      correct: 0,
+      explanation: "The first BBC weather forecast was a shipping forecast on radio on 14 November 1922. The first daily forecast followed on 26 March 1923. Morse code shipping forecasts started 1 January 1924. George Cowling's TV debut wasn't until 1954."
+    },
+    ruth: {
+      options: [
+        "14 November 1922 — on the radio!",
+        "14 November 1922 — on the radio!",
+        "Nobody knows (weather has always existed)",
+        "The same day as Eric's birthday (it wasn't)"
+      ],
+      correct: 0,
+      explanation: "14 November 1922 — a shipping forecast on BBC radio. Over 100 years of telling people it's going to rain!"
+    }
   }
 
 ];
