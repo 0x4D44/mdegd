@@ -9,7 +9,7 @@ export const questions = [
 
   {
     id: 1,
-    category: "us-state-history",
+    category: "general",
     question: "On March 21, 1864, Lincoln signed the Nevada Enabling Act. What number state did Nevada become?",
     year: 1864,
     eric: {
@@ -25,7 +25,7 @@ export const questions = [
   },
   {
     id: 2,
-    category: "us-state-history",
+    category: "general",
     question: "Nevada's state motto is 'Battle Born.' On what date was it formally admitted as a state?",
     year: 1864,
     eric: {
@@ -41,7 +41,7 @@ export const questions = [
   },
   {
     id: 3,
-    category: "us-state-history",
+    category: "general",
     question: "The Butler Act, signed on March 21, 1925, prohibited teaching what in Tennessee public schools?",
     year: 1925,
     eric: {
@@ -67,7 +67,7 @@ export const questions = [
   },
   {
     id: 4,
-    category: "us-state-history",
+    category: "general",
     question: "Who introduced the Butler Act that was signed into law on March 21, 1925?",
     year: 1925,
     eric: {
@@ -93,7 +93,7 @@ export const questions = [
   },
   {
     id: 5,
-    category: "us-state-history",
+    category: "general",
     question: "The Butler Act (March 21, 1925) led to the Scopes Trial. When was the Act finally repealed?",
     year: 1925,
     eric: {
@@ -109,7 +109,7 @@ export const questions = [
   },
   {
     id: 6,
-    category: "us-state-history",
+    category: "general",
     question: "Which Tennessee Governor signed the Butler Act into law on March 21, 1925?",
     year: 1925,
     eric: {
@@ -125,7 +125,7 @@ export const questions = [
   },
   {
     id: 7,
-    category: "us-state-history",
+    category: "general",
     question: "The Scopes Trial of July 1925 resulted from the Butler Act (signed March 21). What was Scopes convicted of?",
     year: 1925,
     eric: {
@@ -151,7 +151,7 @@ export const questions = [
   },
   {
     id: 8,
-    category: "us-state-history",
+    category: "general",
     question: "The Great New Orleans Fire of March 21, 1788 destroyed how many of the city's ~1,100 structures?",
     year: 1788,
     eric: {
@@ -167,7 +167,7 @@ export const questions = [
   },
   {
     id: 9,
-    category: "us-state-history",
+    category: "general",
     question: "During the Great New Orleans Fire (March 21, 1788), the city was under which colonial power?",
     year: 1788,
     eric: {
@@ -188,7 +188,7 @@ export const questions = [
   },
   {
     id: 10,
-    category: "us-state-history",
+    category: "general",
     question: "Why didn't church bells ring as an alarm during the Great New Orleans Fire of March 21, 1788?",
     year: 1788,
     eric: {
@@ -214,7 +214,7 @@ export const questions = [
   },
   {
     id: 11,
-    category: "us-state-history",
+    category: "general",
     question: "The Great New Orleans Fire (March 21, 1788) started at 619 Chartres Street. Whose home was this?",
     year: 1788,
     eric: {
@@ -240,7 +240,7 @@ export const questions = [
   },
   {
     id: 12,
-    category: "us-state-history",
+    category: "general",
     question: "How long did it take for the Great New Orleans Fire (March 21, 1788) to spread through the city?",
     year: 1788,
     eric: {
@@ -256,7 +256,7 @@ export const questions = [
   },
   {
     id: 13,
-    category: "us-state-history",
+    category: "general",
     question: "On March 21, 1965, how many marchers set out from Selma to Montgomery?",
     year: 1965,
     eric: {
@@ -272,7 +272,7 @@ export const questions = [
   },
   {
     id: 14,
-    category: "us-state-history",
+    category: "general",
     question: "The Selma to Montgomery march (starting March 21, 1965) covered how many miles over how many days?",
     year: 1965,
     eric: {
@@ -288,7 +288,7 @@ export const questions = [
   },
   {
     id: 15,
-    category: "us-state-history",
+    category: "general",
     question: "The failed first attempt at the Selma to Montgomery march, known as 'Bloody Sunday,' occurred on what date?",
     year: 1965,
     eric: {
@@ -304,7 +304,7 @@ export const questions = [
   },
   {
     id: 16,
-    category: "us-state-history",
+    category: "general",
     question: "The Selma to Montgomery march (March 21, 1965) directly led to which legislation?",
     year: 1965,
     eric: {
@@ -330,7 +330,7 @@ export const questions = [
   },
   {
     id: 17,
-    category: "us-state-history",
+    category: "general",
     question: "On March 21, 1946, Kenny Washington signed with the LA Rams. What barrier did this break?",
     year: 1946,
     eric: {
@@ -356,7 +356,7 @@ export const questions = [
   },
   {
     id: 18,
-    category: "us-state-history",
+    category: "general",
     question: "Kenny Washington's NFL signing (March 21, 1946) preceded which other famous barrier-breaking moment?",
     year: 1946,
     eric: {
@@ -382,7 +382,7 @@ export const questions = [
   },
   {
     id: 19,
-    category: "us-state-history",
+    category: "general",
     question: "How long had the NFL's color barrier been in place when Kenny Washington signed on March 21, 1946?",
     year: 1946,
     eric: {
@@ -398,7 +398,7 @@ export const questions = [
   },
   {
     id: 20,
-    category: "us-state-history",
+    category: "general",
     question: "New Orleans had a second great fire after the March 21, 1788 one. When was it, and how many buildings were destroyed?",
     year: 1788,
     eric: {
@@ -429,7 +429,7 @@ export const questions = [
 
   {
     id: 21,
-    category: "us-states-attributes",
+    category: "general",
     question: "Nevada's motto is 'Battle Born.' What does this refer to?",
     year: 1864,
     eric: {
@@ -455,7 +455,7 @@ export const questions = [
   },
   {
     id: 22,
-    category: "us-states-attributes",
+    category: "general",
     question: "Tennessee is known as the 'Volunteer State.' The Butler Act (March 21, 1925) was passed there. What is the state capital?",
     year: 1925,
     eric: {
@@ -471,7 +471,7 @@ export const questions = [
   },
   {
     id: 23,
-    category: "us-states-attributes",
+    category: "general",
     question: "Louisiana, home of New Orleans (Great Fire of March 21, 1788), is unique among US states for what legal distinction?",
     year: 1788,
     eric: {
@@ -497,7 +497,7 @@ export const questions = [
   },
   {
     id: 24,
-    category: "us-states-attributes",
+    category: "general",
     question: "Alabama, where the Selma to Montgomery march ended on March 25, 1965, has what state motto?",
     year: 1965,
     eric: {
@@ -523,7 +523,7 @@ export const questions = [
   },
   {
     id: 25,
-    category: "us-states-attributes",
+    category: "general",
     question: "The Voting Rights Act (prompted by the March 21, 1965 march) was signed on what date?",
     year: 1965,
     eric: {
@@ -544,7 +544,7 @@ export const questions = [
   },
   {
     id: 26,
-    category: "us-states-attributes",
+    category: "general",
     question: "Nevada (Enabling Act signed March 21, 1864) gets its name from 'Sierra Nevada.' What does 'nevada' mean in Spanish?",
     year: 1864,
     eric: {
@@ -565,7 +565,7 @@ export const questions = [
   },
   {
     id: 27,
-    category: "us-states-attributes",
+    category: "general",
     question: "The French Quarter, rebuilt after the March 21, 1788 fire, is in which Louisiana parish?",
     year: 1788,
     eric: {
@@ -586,7 +586,7 @@ export const questions = [
   },
   {
     id: 28,
-    category: "us-states-attributes",
+    category: "general",
     question: "The Selma to Montgomery march (March 21, 1965) crossed the Edmund Pettus Bridge. In which Alabama county is Selma?",
     year: 1965,
     eric: {
@@ -607,7 +607,7 @@ export const questions = [
   },
   {
     id: 29,
-    category: "us-states-attributes",
+    category: "general",
     question: "On March 21, 1788, New Orleans burned. Today, Louisiana is the only US state whose legal system is based on what?",
     year: 1788,
     eric: {
@@ -633,7 +633,7 @@ export const questions = [
   },
   {
     id: 30,
-    category: "us-states-attributes",
+    category: "general",
     question: "Nevada became 'Battle Born' thanks to the March 21, 1864 Enabling Act. Which side of the Civil War was Nevada admitted to support?",
     year: 1864,
     eric: {
@@ -659,7 +659,7 @@ export const questions = [
   },
   {
     id: 31,
-    category: "us-states-attributes",
+    category: "general",
     question: "The marchers on March 21, 1965 were protected by federalized National Guard troops. Who ordered their deployment?",
     year: 1965,
     eric: {
@@ -685,7 +685,7 @@ export const questions = [
   },
   {
     id: 32,
-    category: "us-states-attributes",
+    category: "general",
     question: "The Great Fire of March 21, 1788 happened on Good Friday. What style was New Orleans rebuilt in?",
     year: 1788,
     eric: {
@@ -716,7 +716,7 @@ export const questions = [
 
   {
     id: 33,
-    category: "bridge",
+    category: "general",
     question: "Contract bridge was invented in 1925 — the same year the Butler Act was signed (March 21). Who invented it?",
     year: 1925,
     eric: {
@@ -737,7 +737,7 @@ export const questions = [
   },
   {
     id: 34,
-    category: "bridge",
+    category: "general",
     question: "Harold Vanderbilt invented contract bridge in 1925 aboard which ship?",
     year: 1925,
     eric: {
@@ -758,7 +758,7 @@ export const questions = [
   },
   {
     id: 35,
-    category: "bridge",
+    category: "general",
     question: "In contract bridge, how are the four suits ranked from highest to lowest in bidding?",
     year: 1925,
     eric: {
@@ -784,7 +784,7 @@ export const questions = [
   },
   {
     id: 36,
-    category: "bridge",
+    category: "general",
     question: "In bridge, a 'grand slam' means winning how many of the 13 possible tricks?",
     year: 1925,
     eric: {
@@ -805,7 +805,7 @@ export const questions = [
   },
   {
     id: 37,
-    category: "bridge",
+    category: "general",
     question: "A 'yarborough' in bridge is a hand with no card above what rank?",
     year: 1925,
     eric: {
@@ -826,7 +826,7 @@ export const questions = [
   },
   {
     id: 38,
-    category: "bridge",
+    category: "general",
     question: "Lord Yarborough offered 1,000:1 against being dealt a yarborough. What are the true odds?",
     year: 1925,
     eric: {
@@ -847,7 +847,7 @@ export const questions = [
   },
   {
     id: 39,
-    category: "bridge",
+    category: "general",
     question: "Charles Goren, who dominated bridge in the mid-20th century, was born on March 4, 1901. How close to March 21?",
     year: 1901,
     eric: {
@@ -868,7 +868,7 @@ export const questions = [
   },
   {
     id: 40,
-    category: "bridge",
+    category: "general",
     question: "The 1965 Reese-Schapiro cheating scandal occurred at the Bermuda Bowl. What were they accused of?",
     year: 1965,
     eric: {
@@ -894,7 +894,7 @@ export const questions = [
   },
   {
     id: 41,
-    category: "bridge",
+    category: "general",
     question: "The Reese-Schapiro scandal took place at the 1965 Bermuda Bowl in which city?",
     year: 1965,
     eric: {
@@ -915,7 +915,7 @@ export const questions = [
   },
   {
     id: 42,
-    category: "bridge",
+    category: "general",
     question: "The ACBL (American Contract Bridge League) was founded in which year?",
     year: 1937,
     eric: {
@@ -936,7 +936,7 @@ export const questions = [
   },
   {
     id: 43,
-    category: "bridge",
+    category: "general",
     question: "Duplicate bridge differs from rubber bridge primarily because it:",
     year: 1925,
     eric: {
@@ -962,7 +962,7 @@ export const questions = [
   },
   {
     id: 44,
-    category: "bridge",
+    category: "general",
     question: "Who popularized contract bridge in the 1930s through media, books, and famous challenge matches?",
     year: 1930,
     eric: {
@@ -988,7 +988,7 @@ export const questions = [
 
   {
     id: 45,
-    category: "cards",
+    category: "general",
     question: "The classic card cheating manual 'The Expert at the Card Table' was published in 1902. Who wrote it?",
     year: 1902,
     eric: {
@@ -1014,7 +1014,7 @@ export const questions = [
   },
   {
     id: 46,
-    category: "cards",
+    category: "general",
     question: "Dai Vernon, 'The Professor,' was the most influential close-up magician of the 20th century. When did he live?",
     year: 1894,
     eric: {
@@ -1035,7 +1035,7 @@ export const questions = [
   },
   {
     id: 47,
-    category: "cards",
+    category: "general",
     question: "Richard Turner is considered possibly the greatest card mechanic alive. What makes his skill especially remarkable?",
     year: 2006,
     eric: {
@@ -1061,7 +1061,7 @@ export const questions = [
   },
   {
     id: 48,
-    category: "cards",
+    category: "general",
     question: "In card cheating, a 'second deal' refers to what technique?",
     year: 1902,
     eric: {
@@ -1087,7 +1087,7 @@ export const questions = [
   },
   {
     id: 49,
-    category: "cards",
+    category: "general",
     question: "The 'mechanic's grip' in card handling is a way of holding the deck that allows a cheat to:",
     year: 1902,
     eric: {
@@ -1113,7 +1113,7 @@ export const questions = [
   },
   {
     id: 50,
-    category: "cards",
+    category: "general",
     question: "What are the standard dimensions of a playing card?",
     year: 1902,
     eric: {
@@ -1139,7 +1139,7 @@ export const questions = [
   },
   {
     id: 51,
-    category: "cards",
+    category: "general",
     question: "Victorian-era card cheats used 'holdout' devices. What were these?",
     year: 1902,
     eric: {
@@ -1165,7 +1165,7 @@ export const questions = [
   },
   {
     id: 52,
-    category: "cards",
+    category: "general",
     question: "Card cheats use several methods to mark cards during play. Which of these is a real technique?",
     year: 1902,
     eric: {
@@ -1191,7 +1191,7 @@ export const questions = [
   },
   {
     id: 53,
-    category: "cards",
+    category: "general",
     question: "The 'Duke of Cumberland's hand' is a famous story in card history. What is it about?",
     year: 1902,
     eric: {
@@ -1217,7 +1217,7 @@ export const questions = [
   },
   {
     id: 54,
-    category: "cards",
+    category: "general",
     question: "How many cards are in a standard deck, as used in both bridge and poker?",
     year: 1902,
     eric: {
@@ -1238,7 +1238,7 @@ export const questions = [
   },
   {
     id: 55,
-    category: "cards",
+    category: "general",
     question: "In bridge, all 52 cards are dealt to 4 players. How many cards does each player receive?",
     year: 1925,
     eric: {
@@ -1259,7 +1259,7 @@ export const questions = [
   },
   {
     id: 56,
-    category: "cards",
+    category: "general",
     question: "What is a 'small slam' in bridge — how many tricks must you win?",
     year: 1925,
     eric: {
@@ -1285,7 +1285,7 @@ export const questions = [
 
   {
     id: 57,
-    category: "nsheb",
+    category: "general",
     question: "The Cooper Committee, which led to the creation of NSHEB, was established in October 1941. Who set it up?",
     year: 1941,
     eric: {
@@ -1306,7 +1306,7 @@ export const questions = [
   },
   {
     id: 58,
-    category: "nsheb",
+    category: "general",
     question: "The Cooper Committee report of December 15, 1942 estimated how many separate hydro schemes were needed?",
     year: 1942,
     eric: {
@@ -1327,7 +1327,7 @@ export const questions = [
   },
   {
     id: 59,
-    category: "nsheb",
+    category: "general",
     question: "The 1943 Hydro Act included a unique 'social clause.' What did it require the Board to pursue?",
     year: 1943,
     eric: {
@@ -1353,7 +1353,7 @@ export const questions = [
   },
   {
     id: 60,
-    category: "nsheb",
+    category: "general",
     question: "The 1943 Hydro Act received Royal Assent on August 5, 1943. What was notable about its passage through Parliament?",
     year: 1943,
     eric: {
@@ -1379,7 +1379,7 @@ export const questions = [
   },
   {
     id: 61,
-    category: "nsheb",
+    category: "general",
     question: "Who was the first chairman of the NSHEB, and who succeeded as the dominant chairman?",
     year: 1943,
     eric: {
@@ -1405,7 +1405,7 @@ export const questions = [
   },
   {
     id: 62,
-    category: "nsheb",
+    category: "general",
     question: "Sir Edward MacColl was NSHEB's engineering driving force. What was his official title?",
     year: 1943,
     eric: {
@@ -1431,7 +1431,7 @@ export const questions = [
   },
   {
     id: 63,
-    category: "nsheb",
+    category: "general",
     question: "Sir Edward MacColl died on July 15, 1951. What was tragic about the timing?",
     year: 1951,
     eric: {
@@ -1457,7 +1457,7 @@ export const questions = [
   },
   {
     id: 64,
-    category: "nsheb",
+    category: "general",
     question: "Loch Sloy was NSHEB's Scheme No. 1. When was it approved?",
     year: 1945,
     eric: {
@@ -1478,7 +1478,7 @@ export const questions = [
   },
   {
     id: 65,
-    category: "nsheb",
+    category: "general",
     question: "'Loch Sloy!' was the battle cry of which Scottish clan?",
     year: 1945,
     eric: {
@@ -1499,7 +1499,7 @@ export const questions = [
   },
   {
     id: 66,
-    category: "nsheb",
+    category: "general",
     question: "How many workers died during the construction of Loch Sloy?",
     year: 1950,
     eric: {
@@ -1520,7 +1520,7 @@ export const questions = [
   },
   {
     id: 67,
-    category: "nsheb",
+    category: "general",
     question: "When did MacColl switch on the first Loch Sloy generator, and what was the total capacity?",
     year: 1950,
     eric: {
@@ -1546,7 +1546,7 @@ export const questions = [
   },
   {
     id: 68,
-    category: "nsheb",
+    category: "general",
     question: "Cruachan, 'The Hollow Mountain,' has its machine hall inside Ben Cruachan. What are its dimensions?",
     year: 1965,
     eric: {
@@ -1572,7 +1572,7 @@ export const questions = [
   },
   {
     id: 69,
-    category: "nsheb",
+    category: "general",
     question: "Cruachan was opened on October 15, 1965 by Queen Elizabeth II. How many workers died during construction?",
     year: 1965,
     eric: {
@@ -1593,7 +1593,7 @@ export const questions = [
   },
   {
     id: 70,
-    category: "nsheb",
+    category: "general",
     question: "Cruachan was a pioneering engineering achievement. What was it the first of in the world?",
     year: 1965,
     eric: {
@@ -1619,7 +1619,7 @@ export const questions = [
   },
   {
     id: 71,
-    category: "nsheb",
+    category: "general",
     question: "On October 27, 1955, Tunnel Tigers at St Fillans set a tunnelling record. How much rock did they cut in 7 days?",
     year: 1955,
     eric: {
@@ -2321,7 +2321,7 @@ export const questions = [
   // ─── Bonus NSHEB deep-knowledge questions ─────────────────────
   {
     id: 101,
-    category: "nsheb",
+    category: "general",
     question: "Inside Cruachan's turbine hall there is a remarkable mural. Who created it?",
     year: 1965,
     eric: {
@@ -2342,7 +2342,7 @@ export const questions = [
   },
   {
     id: 102,
-    category: "nsheb",
+    category: "general",
     question: "Foyers was the last major hydro project undertaken by the NSHEB. What was its capacity?",
     year: 1975,
     eric: {
@@ -2363,7 +2363,7 @@ export const questions = [
   },
   {
     id: 103,
-    category: "nsheb",
+    category: "general",
     question: "The famous Pitlochry fish ladder has allowed how many salmon to pass since it opened in 1951?",
     year: 1951,
     eric: {
@@ -2384,7 +2384,7 @@ export const questions = [
   },
   {
     id: 104,
-    category: "nsheb",
+    category: "general",
     question: "When Tom Johnston retired as NSHEB chairman in 1959, roughly what percentage of Highland residents had mains electricity?",
     year: 1959,
     eric: {
@@ -2405,7 +2405,7 @@ export const questions = [
   },
   {
     id: 105,
-    category: "nsheb",
+    category: "general",
     question: "The 'Tunnel Tigers' who carved the hydro tunnels earned roughly how much per week in the late 1940s?",
     year: 1950,
     eric: {
@@ -2428,7 +2428,7 @@ export const questions = [
   // ─── Insider NSHEB questions ────────────────────────────────────
   {
     id: 116,
-    category: "nsheb",
+    category: "general",
     question: "Foyers pumped-storage station (300 MW) had an unusual and risky design feature. What was it?",
     year: 1975,
     eric: {
@@ -2454,7 +2454,7 @@ export const questions = [
   },
   {
     id: 117,
-    category: "nsheb",
+    category: "general",
     question: "During the Sloy refurbishment, four new 40 MW runners were purchased. But G4's new runner went somewhere else. Where?",
     year: null,
     eric: {
@@ -2547,7 +2547,7 @@ export const questions = [
   // ─── Famous bridge moments ─────────────────────────────────────
   {
     id: 109,
-    category: "bridge",
+    category: "general",
     question: "In the infamous 1965 Bermuda Bowl in Buenos Aires, Reese and Schapiro were accused of using finger signals. What were they allegedly communicating?",
     year: 1965,
     eric: {
@@ -2573,7 +2573,7 @@ export const questions = [
   },
   {
     id: 110,
-    category: "bridge",
+    category: "general",
     question: "In the 1981 Bermuda Bowl final, Jeff Meckstroth made a legendary sacrifice bid of 7♠ on just 5 HCP. How many tricks was he down, doubled?",
     year: 1981,
     eric: {
@@ -2594,7 +2594,7 @@ export const questions = [
   },
   {
     id: 111,
-    category: "bridge",
+    category: "general",
     question: "The 1931-32 'Bridge Battle of the Century' between Culbertson and Lenz was front-page news in 30 countries. Who was Ely Culbertson's partner?",
     year: 1931,
     eric: {
@@ -2620,7 +2620,7 @@ export const questions = [
   },
   {
     id: 112,
-    category: "bridge",
+    category: "general",
     question: "Italy's Blue Team dominated world bridge from 1957-1969. Of the 13 available world team championships in that period, how many did they win?",
     year: 1957,
     eric: {
@@ -2641,7 +2641,7 @@ export const questions = [
   },
   {
     id: 113,
-    category: "bridge",
+    category: "general",
     question: "Meckstroth's 1981 7♠ sacrifice exposed a flaw in bridge scoring. What specific rule change followed in 1987?",
     year: 1981,
     eric: {
@@ -2786,7 +2786,7 @@ export const questions = [
   },
   {
     id: 121,
-    category: "nsheb",
+    category: "general",
     question: "The NSHEB line icing warning system on the Lecht used a rather unusual alarm technology. What was it?",
     year: null,
     eric: {
@@ -2812,7 +2812,7 @@ export const questions = [
   },
   {
     id: 122,
-    category: "nsheb",
+    category: "general",
     question: "To operate the earth switches at the Glen Truim tee-off for de-icing the Corrieyairack Pass line, the engineer first had to go to a telephone box. In which town?",
     year: null,
     eric: {
@@ -2962,7 +2962,7 @@ export const questions = [
   // ─── NORBIT (Eric's technology) ───────────────────────────────
   {
     id: 128,
-    category: "nsheb",
+    category: "general",
     question: "Eric worked with NORBIT modules for control systems. Which company developed the NORBIT system?",
     year: 1960,
     eric: {
@@ -2983,7 +2983,7 @@ export const questions = [
   },
   {
     id: 129,
-    category: "nsheb",
+    category: "general",
     question: "The NORBIT 2 (NORBIT-S) modules introduced in 1967 operated at what supply voltage?",
     year: 1967,
     eric: {
@@ -4928,7 +4928,7 @@ export const questions = [
   // ─── Pylons and transmission conductors ───────────────────────
   {
     id: 213,
-    category: "nsheb",
+    category: "general",
     question: "Where was the first National Grid pylon erected, and when?",
     year: 1928,
     eric: {
@@ -4954,7 +4954,7 @@ export const questions = [
   },
   {
     id: 214,
-    category: "nsheb",
+    category: "general",
     question: "Who coined the word 'pylon' for electricity transmission towers, naming them after the Egyptian word for 'gateway'?",
     year: 1928,
     eric: {
@@ -4975,7 +4975,7 @@ export const questions = [
   },
   {
     id: 215,
-    category: "nsheb",
+    category: "general",
     question: "In the ACSR conductor naming system, what is the nominal aluminium area of a 'Zebra' conductor?",
     year: null,
     eric: {
@@ -4996,7 +4996,7 @@ export const questions = [
   },
   {
     id: 216,
-    category: "nsheb",
+    category: "general",
     question: "What does ACSR stand for in conductor terminology?",
     year: null,
     eric: {
@@ -5022,7 +5022,7 @@ export const questions = [
   },
   {
     id: 217,
-    category: "nsheb",
+    category: "general",
     question: "The L6 tower series was introduced to accommodate what conductor configuration?",
     year: null,
     eric: {
@@ -5048,7 +5048,7 @@ export const questions = [
   },
   {
     id: 218,
-    category: "nsheb",
+    category: "general",
     question: "What is a Stockbridge damper, and what problem does it solve?",
     year: null,
     eric: {
@@ -5074,7 +5074,7 @@ export const questions = [
   },
   {
     id: 219,
-    category: "nsheb",
+    category: "general",
     question: "What causes 'galloping' in overhead conductors?",
     year: null,
     eric: {
@@ -5100,7 +5100,7 @@ export const questions = [
   },
   {
     id: 220,
-    category: "nsheb",
+    category: "general",
     question: "Why do power lines hum at 100Hz rather than the 50Hz supply frequency?",
     year: null,
     eric: {
@@ -5126,7 +5126,7 @@ export const questions = [
   },
   {
     id: 221,
-    category: "nsheb",
+    category: "general",
     question: "Approximately how many insulator discs are in a string for a 400kV line?",
     year: null,
     eric: {
@@ -5147,7 +5147,7 @@ export const questions = [
   },
   {
     id: 222,
-    category: "nsheb",
+    category: "general",
     question: "In Scotland, 132kV is classified differently from England and Wales. How?",
     year: null,
     eric: {
@@ -5173,7 +5173,7 @@ export const questions = [
   },
   {
     id: 223,
-    category: "nsheb",
+    category: "general",
     question: "What is OPGW and what dual purpose does it serve on transmission towers?",
     year: null,
     eric: {
@@ -5199,7 +5199,7 @@ export const questions = [
   },
   {
     id: 224,
-    category: "nsheb",
+    category: "general",
     question: "The Beauly-Denny 400kV line in Scotland is 137 miles long. How many objections were lodged against it?",
     year: 2007,
     eric: {
@@ -5220,7 +5220,7 @@ export const questions = [
   },
   {
     id: 225,
-    category: "nsheb",
+    category: "general",
     question: "What is the minimum conductor-to-ground clearance at maximum sag under UK regulations?",
     year: null,
     eric: {
@@ -5241,7 +5241,7 @@ export const questions = [
   },
   {
     id: 226,
-    category: "nsheb",
+    category: "general",
     question: "The UK's first 275kV Supergrid circuit was energised in what year?",
     year: 1953,
     eric: {
@@ -5262,7 +5262,7 @@ export const questions = [
   },
   {
     id: 227,
-    category: "nsheb",
+    category: "general",
     question: "What distinguishes the L12 tower series visually from the L2 and L6?",
     year: null,
     eric: {
@@ -5288,7 +5288,7 @@ export const questions = [
   },
   {
     id: 228,
-    category: "nsheb",
+    category: "general",
     question: "Phase transposition on a transmission line is recommended approximately how often?",
     year: null,
     eric: {
@@ -5309,7 +5309,7 @@ export const questions = [
   },
   {
     id: 229,
-    category: "nsheb",
+    category: "general",
     question: "In the ACSR animal naming system, what size is a 'Dog' conductor?",
     year: null,
     eric: {
@@ -5330,7 +5330,7 @@ export const questions = [
   },
   {
     id: 230,
-    category: "nsheb",
+    category: "general",
     question: "The Scottish Highland 132kV 'trident' wood pole design has what unusual feature regarding earth wires?",
     year: null,
     eric: {
@@ -5356,7 +5356,7 @@ export const questions = [
   },
   {
     id: 231,
-    category: "nsheb",
+    category: "general",
     question: "What is the parabolic formula for conductor sag?",
     year: null,
     eric: {
@@ -5382,7 +5382,7 @@ export const questions = [
   },
   {
     id: 232,
-    category: "nsheb",
+    category: "general",
     question: "The T-pylon design was unveiled in 2015. Who designed it?",
     year: 2015,
     eric: {
@@ -5408,7 +5408,7 @@ export const questions = [
   },
   {
     id: 233,
-    category: "nsheb",
+    category: "general",
     question: "The 1926 Electricity (Supply) Act that created the National Grid was based on the recommendations of which committee?",
     year: 1926,
     eric: {
@@ -5429,7 +5429,7 @@ export const questions = [
   },
   {
     id: 234,
-    category: "nsheb",
+    category: "general",
     question: "What is the typical span length between 400kV transmission towers?",
     year: null,
     eric: {
@@ -5450,7 +5450,7 @@ export const questions = [
   },
   {
     id: 235,
-    category: "nsheb",
+    category: "general",
     question: "ACCC conductor uses a composite core of carbon and glass fibre. What advantage does this give over ACSR?",
     year: null,
     eric: {
@@ -5476,7 +5476,7 @@ export const questions = [
   },
   {
     id: 236,
-    category: "nsheb",
+    category: "general",
     question: "What is the purpose of a tension (strain) tower versus a suspension tower?",
     year: null,
     eric: {
@@ -5502,7 +5502,7 @@ export const questions = [
   },
   {
     id: 237,
-    category: "nsheb",
+    category: "general",
     question: "Why are bundle conductors (twin, triple, or quad) used on high-voltage lines rather than a single larger conductor?",
     year: null,
     eric: {
@@ -5528,7 +5528,7 @@ export const questions = [
   },
   {
     id: 238,
-    category: "nsheb",
+    category: "general",
     question: "In the ACSR naming system, which is larger: a Moose or a Zebra?",
     year: null,
     eric: {
@@ -5554,7 +5554,7 @@ export const questions = [
   },
   {
     id: 239,
-    category: "nsheb",
+    category: "general",
     question: "The flapper-type bird flight diverter achieves what percentage reduction in avian mortality on power lines?",
     year: null,
     eric: {
@@ -5575,7 +5575,7 @@ export const questions = [
   },
   {
     id: 240,
-    category: "nsheb",
+    category: "general",
     question: "When was the first 400kV section of the Supergrid commissioned, and where did it run?",
     year: 1965,
     eric: {
@@ -5601,7 +5601,7 @@ export const questions = [
   },
   {
     id: 241,
-    category: "nsheb",
+    category: "general",
     question: "Aeolian vibration in conductors is caused by what phenomenon?",
     year: null,
     eric: {
@@ -5627,7 +5627,7 @@ export const questions = [
   },
   {
     id: 242,
-    category: "nsheb",
+    category: "general",
     question: "What is the approximate cost per kilometre of Earthed Steel Trident Structures (EaSTS) for 132kV lines in Scotland, versus steel lattice towers?",
     year: null,
     eric: {
