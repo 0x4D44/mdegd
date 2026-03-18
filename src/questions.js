@@ -4923,6 +4923,733 @@ export const questions = [
       correct: 0,
       explanation: "28 routes and 400 trams! Edinburgh's system was massive — five times bigger than Aberdeen's."
     }
+  },
+
+  // ─── Pylons and transmission conductors ───────────────────────
+  {
+    id: 213,
+    category: "nsheb",
+    question: "Where was the first National Grid pylon erected, and when?",
+    year: 1928,
+    eric: {
+      options: [
+        "Bonnyfield near Falkirk, 14 July 1928",
+        "Barking, Essex, 14 July 1928",
+        "Bonnyfield near Falkirk, 14 July 1927",
+        "Ironbridge, Shropshire, 14 March 1928"
+      ],
+      correct: 0,
+      explanation: "The first pylon was erected at Bonnyfield near Falkirk, Scotland, on 14 July 1928. The basic lattice A-frame design has remained essentially the same for nearly 100 years."
+    },
+    ruth: {
+      options: [
+        "Bonnyfield near Falkirk, Scotland — 1928!",
+        "Bonnyfield near Falkirk, Scotland — 1928!",
+        "Eric's back garden",
+        "Nobody knows — they just appeared overnight"
+      ],
+      correct: 0,
+      explanation: "Bonnyfield near Falkirk — the first pylon in Scotland and the whole UK!"
+    }
+  },
+  {
+    id: 214,
+    category: "nsheb",
+    question: "Who coined the word 'pylon' for electricity transmission towers, naming them after the Egyptian word for 'gateway'?",
+    year: 1928,
+    eric: {
+      options: ["Sir Reginald Blomfield", "Lord Weir", "Charles Merz", "Sebastian de Ferranti"],
+      correct: 0,
+      explanation: "Architect Sir Reginald Blomfield (also designer of London's Lambeth Bridge) chose the latticed A-frame structure and named them 'pylons' from the Egyptian. The design was by Milliken Brothers, an American engineering firm."
+    },
+    ruth: {
+      options: [
+        "Sir Reginald Blomfield — inspired by Egypt!",
+        "Sir Reginald Blomfield — inspired by Egypt!",
+        "The Pharaohs (they had electricity, apparently)",
+        "Eric (he names everything)"
+      ],
+      correct: 0,
+      explanation: "Sir Reginald Blomfield named them after Egyptian gateways! Quite glamorous for a steel tower in a field."
+    }
+  },
+  {
+    id: 215,
+    category: "nsheb",
+    question: "In the ACSR conductor naming system, what is the nominal aluminium area of a 'Zebra' conductor?",
+    year: null,
+    eric: {
+      options: ["400 mm²", "429 mm²", "450 mm²", "475 mm²"],
+      correct: 1,
+      explanation: "Zebra is 428.9 mm² (54/3.18 + 7/3.18 stranding). Used on 275kV and 400kV lines. Other common sizes: Dog = 100mm², Wolf = 150mm², Lynx = 183mm², Panther = 200mm², Moose = 500mm²."
+    },
+    ruth: {
+      options: [
+        "About 429 mm² (Zebra — because of the stripes!)",
+        "About 429 mm² (Zebra — because of the stripes!)",
+        "Zebras don't conduct electricity (do they?)",
+        "Very large (it's named after a big animal)"
+      ],
+      correct: 0,
+      explanation: "429 mm²! Electrical conductors are named after animals — bigger animal, bigger conductor. Zebra is one of the chunkier ones."
+    }
+  },
+  {
+    id: 216,
+    category: "nsheb",
+    question: "What does ACSR stand for in conductor terminology?",
+    year: null,
+    eric: {
+      options: [
+        "Aluminium Conductor Steel Reinforced",
+        "Aluminium Core Steel Reinforced",
+        "Aluminium Conductor Steel Rated",
+        "Aluminium Clad Steel Reinforced"
+      ],
+      correct: 0,
+      explanation: "Aluminium Conductor Steel Reinforced — concentrically stranded with aluminium wire layers around a galvanised steel core. The steel provides strength; the aluminium carries the current."
+    },
+    ruth: {
+      options: [
+        "Aluminium Conductor Steel Reinforced",
+        "Aluminium Conductor Steel Reinforced",
+        "A Completely Sensible Response (wrong acronym)",
+        "Another Confusing Scottish Regulation"
+      ],
+      correct: 0,
+      explanation: "Aluminium Conductor Steel Reinforced — aluminium for conducting, steel for strength!"
+    }
+  },
+  {
+    id: 217,
+    category: "nsheb",
+    question: "The L6 tower series was introduced to accommodate what conductor configuration?",
+    year: null,
+    eric: {
+      options: [
+        "Quad bundle (4 sub-conductors per phase)",
+        "Twin bundle (2 sub-conductors per phase)",
+        "Triple bundle (3 sub-conductors per phase)",
+        "Single conductor with OPGW earth wire"
+      ],
+      correct: 0,
+      explanation: "L6 towers carry quad conductor bundles (four cables per phase) at 400kV. The extra weight requires taller, stronger towers — suspension towers range from 49.1 to 50.6 metres. The L2 series (introduced earlier) carries twin bundles."
+    },
+    ruth: {
+      options: [
+        "Four conductors per phase — quad bundles!",
+        "Four conductors per phase — quad bundles!",
+        "One really big cable",
+        "Eric can explain this better than anyone"
+      ],
+      correct: 0,
+      explanation: "Four conductors bundled together per phase! The extra cables reduce corona discharge and increase capacity."
+    }
+  },
+  {
+    id: 218,
+    category: "nsheb",
+    question: "What is a Stockbridge damper, and what problem does it solve?",
+    year: null,
+    eric: {
+      options: [
+        "A tuned mass damper that suppresses aeolian vibration in conductors",
+        "A hydraulic device that reduces tower sway in high winds",
+        "A grounding device that dissipates lightning energy",
+        "A tensioning device that compensates for thermal expansion"
+      ],
+      correct: 0,
+      explanation: "Invented in the 1920s by George H. Stockbridge of Southern California Edison (patent 1928). A dumbbell-shaped tuned mass damper clamped to the conductor — vibrations flex the damper cable, dissipating energy and preventing strand fatigue failure from aeolian vibration."
+    },
+    ruth: {
+      options: [
+        "It stops power lines vibrating in the wind!",
+        "It stops power lines vibrating in the wind!",
+        "It's a type of bridge (the clue's in the name)",
+        "A device for damping Eric's enthusiasm"
+      ],
+      correct: 0,
+      explanation: "It stops wind-induced vibration in power lines! Invented in the 1920s by a man called Stockbridge. Two weights on a cable, clamped to the wire."
+    }
+  },
+  {
+    id: 219,
+    category: "nsheb",
+    question: "What causes 'galloping' in overhead conductors?",
+    year: null,
+    eric: {
+      options: [
+        "Ice destroys the circular cross-section, and wind creates aerofoil-like lift",
+        "Resonant coupling between wind frequency and the conductor's natural frequency",
+        "Uneven thermal expansion causing differential sag between phases",
+        "Electromagnetic repulsion between parallel conductors during fault conditions"
+      ],
+      correct: 0,
+      explanation: "Ice accumulates asymmetrically on the conductor, destroying its circular profile. Wind then acts on the iced conductor like an aerofoil, creating lift that varies with angle of attack, exciting high-amplitude oscillation. Can cause phase-to-phase flashover."
+    },
+    ruth: {
+      options: [
+        "Ice on the cables makes them swing wildly in the wind!",
+        "Ice on the cables makes them swing wildly in the wind!",
+        "The cables are trying to run away",
+        "Horses (conductors gallop, horses gallop, coincidence?)"
+      ],
+      correct: 0,
+      explanation: "Ice changes the shape of the cable from round to aerofoil-shaped, and wind makes them swing dramatically. Very dramatic and very dangerous!"
+    }
+  },
+  {
+    id: 220,
+    category: "nsheb",
+    question: "Why do power lines hum at 100Hz rather than the 50Hz supply frequency?",
+    year: null,
+    eric: {
+      options: [
+        "Corona discharge occurs on both positive and negative half-cycles",
+        "The steel core resonates at double the supply frequency",
+        "Electromagnetic interaction between the three phases doubles the frequency",
+        "Wind-induced vibration happens to match 100Hz"
+      ],
+      correct: 0,
+      explanation: "Corona discharge (ionisation of air around the conductor) occurs during both the positive and negative peaks of the 50Hz AC waveform, producing micro-discharges twice per cycle — hence the 100Hz buzz. Worse in wet or humid conditions."
+    },
+    ruth: {
+      options: [
+        "The buzzing happens twice every cycle — positive and negative!",
+        "The buzzing happens twice every cycle — positive and negative!",
+        "The pylons are singing (they're quite musical)",
+        "Nobody knows — it's one of life's mysteries"
+      ],
+      correct: 0,
+      explanation: "The buzzing happens on both halves of the electrical cycle — so 50Hz doubled to 100Hz! It's called corona discharge."
+    }
+  },
+  {
+    id: 221,
+    category: "nsheb",
+    question: "Approximately how many insulator discs are in a string for a 400kV line?",
+    year: null,
+    eric: {
+      options: ["15-16", "18-19", "22-23", "27-28"],
+      correct: 2,
+      explanation: "400kV lines use 22-23 disc insulators per string. For comparison: 132kV uses ~9-10, and 275kV uses ~15-16. Each disc is rated for approximately 11-15kV. Tension strings generally have more discs than suspension strings."
+    },
+    ruth: {
+      options: [
+        "22 to 23 little discs!",
+        "22 to 23 little discs!",
+        "Just the one (a very good one)",
+        "Eric knows the exact number for every pylon in Scotland"
+      ],
+      correct: 0,
+      explanation: "22 to 23 discs! Each one adds a bit more insulation. More volts = more discs."
+    }
+  },
+  {
+    id: 222,
+    category: "nsheb",
+    question: "In Scotland, 132kV is classified differently from England and Wales. How?",
+    year: null,
+    eric: {
+      options: [
+        "In Scotland 132kV is transmission; in England it's distribution",
+        "In Scotland 132kV is distribution; in England it's transmission",
+        "In Scotland 132kV requires twin bundles; in England single conductors",
+        "In Scotland 132kV uses wood poles; in England only lattice towers"
+      ],
+      correct: 0,
+      explanation: "132kV is classified as transmission voltage in Scotland (operated by SSEN Transmission and SP Transmission) but as distribution voltage in England and Wales (operated by DNOs). A historical legacy of separate Scottish electricity development."
+    },
+    ruth: {
+      options: [
+        "It's transmission in Scotland but distribution in England!",
+        "It's transmission in Scotland but distribution in England!",
+        "Scotland does everything differently (on principle)",
+        "Eric can explain this at length — at great length"
+      ],
+      correct: 0,
+      explanation: "Same voltage, different classification! In Scotland 132kV is transmission; south of the border it's distribution. Historical reasons."
+    }
+  },
+  {
+    id: 223,
+    category: "nsheb",
+    question: "What is OPGW and what dual purpose does it serve on transmission towers?",
+    year: null,
+    eric: {
+      options: [
+        "Optical Ground Wire — lightning protection and telecommunications",
+        "Overhead Protection Ground Wire — fault detection and earthing",
+        "Optical Phase Guard Wire — phase monitoring and data transmission",
+        "Overhead Power Ground Wire — lightning protection and corona suppression"
+      ],
+      correct: 0,
+      explanation: "Optical Ground Wire — contains optical fibres inside a structure surrounded by steel and aluminium wire. It runs along the top of pylons, providing both lightning/earthing protection AND telecommunications for grid control. Same weight as conventional earth wire."
+    },
+    ruth: {
+      options: [
+        "Optical Ground Wire — lightning protection AND communications!",
+        "Optical Ground Wire — lightning protection AND communications!",
+        "Oh Please Go Wrong (what engineers say on Mondays)",
+        "A very fancy type of washing line"
+      ],
+      correct: 0,
+      explanation: "Optical Ground Wire — it protects against lightning AND carries fibre-optic communications. Two jobs, one wire!"
+    }
+  },
+  {
+    id: 224,
+    category: "nsheb",
+    question: "The Beauly-Denny 400kV line in Scotland is 137 miles long. How many objections were lodged against it?",
+    year: 2007,
+    eric: {
+      options: ["12,295", "15,295", "17,295", "19,295"],
+      correct: 2,
+      explanation: "17,295 objections were lodged. The public inquiry ran from February to December 2007 — Scotland's longest and most expensive (~£10 million). 300 witnesses were heard over 105 days. Approved January 2010; cost ~£600 million; operational 2015. Uses SSE400 towers."
+    },
+    ruth: {
+      options: [
+        "Over 17,000 objections!",
+        "Over 17,000 objections!",
+        "Just the one (Eric's)",
+        "None — everyone loves pylons"
+      ],
+      correct: 0,
+      explanation: "Over 17,000 objections! Scotland's longest public inquiry. The line was eventually approved and now carries renewable energy from the Highlands."
+    }
+  },
+  {
+    id: 225,
+    category: "nsheb",
+    question: "What is the minimum conductor-to-ground clearance at maximum sag under UK regulations?",
+    year: null,
+    eric: {
+      options: ["5.3 metres", "6.3 metres", "7.3 metres", "8.3 metres"],
+      correct: 2,
+      explanation: "7.3 metres minimum clearance to ground at maximum sag, per the Electricity Safety, Quality and Continuity Regulations (ESQCR) 2002. Where a person can stand, the minimum is 5.3 metres."
+    },
+    ruth: {
+      options: [
+        "7.3 metres — don't fly your kite there!",
+        "7.3 metres — don't fly your kite there!",
+        "About the height of Eric",
+        "High enough (hopefully)"
+      ],
+      correct: 0,
+      explanation: "7.3 metres — roughly the height of a double-decker bus and a bit. Stay well clear!"
+    }
+  },
+  {
+    id: 226,
+    category: "nsheb",
+    question: "The UK's first 275kV Supergrid circuit was energised in what year?",
+    year: 1953,
+    eric: {
+      options: ["1951", "1953", "1955", "1957"],
+      correct: 1,
+      explanation: "Summer 1953 — the first 275kV circuit-breaker closed and the Supergrid was energised. The original 132kV grid had been built from 1928-1933. The first 400kV section followed in 1965 (Sundon to West Burton)."
+    },
+    ruth: {
+      options: [
+        "1953 — the Supergrid was born!",
+        "1953 — the Supergrid was born!",
+        "Last week (it's surprisingly new)",
+        "Eric remembers it well (he doesn't, he wasn't born yet)"
+      ],
+      correct: 0,
+      explanation: "1953! The 275kV Supergrid was energised for the first time. A huge leap from the original 132kV grid."
+    }
+  },
+  {
+    id: 227,
+    category: "nsheb",
+    question: "What distinguishes the L12 tower series visually from the L2 and L6?",
+    year: null,
+    eric: {
+      options: [
+        "Slim body and slightly upturned crossarms",
+        "Wider base and downward-angled crossarms",
+        "Tubular steel poles instead of lattice",
+        "Shorter height with horizontal crossarms"
+      ],
+      correct: 0,
+      explanation: "The L12 (c.1980) uses high tensile steel for a slim tower body, and has slightly upturned crossarms that make it instantly identifiable. It takes twin conductors up to 850mm²."
+    },
+    ruth: {
+      options: [
+        "The crossarms point slightly upward!",
+        "The crossarms point slightly upward!",
+        "It has a flag on top (for decoration)",
+        "Eric can spot one from 5 miles away"
+      ],
+      correct: 0,
+      explanation: "The L12 has distinctive upturned crossarms and a slim body — Eric can probably identify one at a glance!"
+    }
+  },
+  {
+    id: 228,
+    category: "nsheb",
+    question: "Phase transposition on a transmission line is recommended approximately how often?",
+    year: null,
+    eric: {
+      options: ["Every 50 miles", "Every 75 miles", "Every 100 miles", "Every 150 miles"],
+      correct: 2,
+      explanation: "Approximately every 100 miles (160km). Transposition exchanges the vertical positions of the three phases to equalise impedance and capacitance relative to ground. Uses special DX (double circuit) or SX (single circuit) transposition towers."
+    },
+    ruth: {
+      options: [
+        "Every 100 miles — to keep the phases balanced!",
+        "Every 100 miles — to keep the phases balanced!",
+        "Every time Eric drives past",
+        "Whenever they feel like it"
+      ],
+      correct: 0,
+      explanation: "Every 100 miles! The three phases swap positions to keep the electrical load balanced."
+    }
+  },
+  {
+    id: 229,
+    category: "nsheb",
+    question: "In the ACSR animal naming system, what size is a 'Dog' conductor?",
+    year: null,
+    eric: {
+      options: ["75 mm²", "100 mm²", "125 mm²", "150 mm²"],
+      correct: 1,
+      explanation: "Dog = 100mm² (stranding 6/4.72 + 7/1.57). Used on 33kV distribution. The system goes from small animals (Squirrel=20mm², Weasel=30mm²) to large ones (Moose=500mm²). Wolf=150mm², Lynx=183mm², Panther=200mm²."
+    },
+    ruth: {
+      options: [
+        "100 mm² — not a big Dog!",
+        "100 mm² — not a big Dog!",
+        "Woof-sized (that's a technical term)",
+        "Dogs can't conduct electricity (the cable can though)"
+      ],
+      correct: 0,
+      explanation: "100 mm²! The conductor naming goes from tiny animals to big ones — Squirrel (small) to Moose (huge)."
+    }
+  },
+  {
+    id: 230,
+    category: "nsheb",
+    question: "The Scottish Highland 132kV 'trident' wood pole design has what unusual feature regarding earth wires?",
+    year: null,
+    eric: {
+      options: [
+        "It has no earth wire — the middle phase conductor carries fibre-optic instead",
+        "The earth wire is underground rather than overhead",
+        "It uses a combined earth/phase wire on the top crossarm",
+        "Earth wires are replaced by surge arresters on every third pole"
+      ],
+      correct: 0,
+      explanation: "The trident design has no separate earth wire. Instead, the middle phase conductor incorporates a fibre-optic telecommunications wire for control purposes. EaSTS (Earthed Steel Trident Structures) cost approximately £700k/km vs £3M/km for lattice towers."
+    },
+    ruth: {
+      options: [
+        "No earth wire at all!",
+        "No earth wire at all!",
+        "The earth wire is invisible (very advanced)",
+        "Eric designed it (he didn't, but he's proud of it)"
+      ],
+      correct: 0,
+      explanation: "No earth wire! The trident design skips it entirely and puts fibre-optic in the middle conductor instead."
+    }
+  },
+  {
+    id: 231,
+    category: "nsheb",
+    question: "What is the parabolic formula for conductor sag?",
+    year: null,
+    eric: {
+      options: [
+        "Sag = wL²/8T",
+        "Sag = wL²/4T",
+        "Sag = wL/8T²",
+        "Sag = w²L/8T"
+      ],
+      correct: 0,
+      explanation: "Sag = wL²/8T, where w = weight per unit length, L = span, T = horizontal tension. The parabolic approximation is accurate within 1% when sag is less than 10% of span length. The true curve is a catenary."
+    },
+    ruth: {
+      options: [
+        "Sag = wL²/8T (ask Eric, he can explain)",
+        "Sag = wL²/8T (ask Eric, he can explain)",
+        "Sag = old age (a different kind of sag)",
+        "Maths again? It's a birthday party!"
+      ],
+      correct: 0,
+      explanation: "Sag = wL²/8T! Eric can probably calculate this in his head for any span length."
+    }
+  },
+  {
+    id: 232,
+    category: "nsheb",
+    question: "The T-pylon design was unveiled in 2015. Who designed it?",
+    year: 2015,
+    eric: {
+      options: [
+        "Bystrup (Danish firm)",
+        "Foster + Partners",
+        "Arup",
+        "Mott MacDonald"
+      ],
+      correct: 0,
+      explanation: "Danish firm Bystrup won the 2011 competition. The T-pylon is 35m tall (a third shorter than lattice), can be erected in two days by a team of five, and was first used connecting Hinkley Point C. National Grid has since mothballed the design."
+    },
+    ruth: {
+      options: [
+        "A Danish company called Bystrup!",
+        "A Danish company called Bystrup!",
+        "IKEA (they make everything else)",
+        "Eric (he had a spare weekend)"
+      ],
+      correct: 0,
+      explanation: "Bystrup from Denmark! The T-pylon is shorter and sleeker than traditional pylons, but National Grid mothballed the design."
+    }
+  },
+  {
+    id: 233,
+    category: "nsheb",
+    question: "The 1926 Electricity (Supply) Act that created the National Grid was based on the recommendations of which committee?",
+    year: 1926,
+    eric: {
+      options: ["The Weir Committee", "The Cooper Committee", "The Merz Committee", "The Ferranti Committee"],
+      correct: 0,
+      explanation: "Lord Weir's committee (1925), consulting engineer Charles Merz, recommended a synchronised 132kV, 50Hz national grid connecting 122 efficient power stations. The resulting 6,400km grid was completed by September 1933. The Cooper Committee (1941) was the NSHEB one."
+    },
+    ruth: {
+      options: [
+        "The Weir Committee — Lord Weir from Glasgow!",
+        "The Weir Committee — Lord Weir from Glasgow!",
+        "The 'We Need Electricity' Committee",
+        "A committee (everything in Britain needs a committee)"
+      ],
+      correct: 0,
+      explanation: "Lord Weir's committee! A Glasgow industrialist who gave Britain its national electricity grid."
+    }
+  },
+  {
+    id: 234,
+    category: "nsheb",
+    question: "What is the typical span length between 400kV transmission towers?",
+    year: null,
+    eric: {
+      options: ["200-300 metres", "300-500 metres", "500-700 metres", "700-900 metres"],
+      correct: 1,
+      explanation: "400kV lines have typical spans of 300-500 metres (standard design ~370m). By comparison: 275kV spans are 200-350m, and 132kV spans are 150-250m."
+    },
+    ruth: {
+      options: [
+        "300 to 500 metres between towers!",
+        "300 to 500 metres between towers!",
+        "About as far as Eric can see without his glasses",
+        "Very far apart (pylons like their personal space)"
+      ],
+      correct: 0,
+      explanation: "300 to 500 metres! That's up to a third of a mile between towers."
+    }
+  },
+  {
+    id: 235,
+    category: "nsheb",
+    question: "ACCC conductor uses a composite core of carbon and glass fibre. What advantage does this give over ACSR?",
+    year: null,
+    eric: {
+      options: [
+        "Nearly doubles transmission capacity in the same diameter",
+        "Halves the weight of the conductor",
+        "Eliminates the need for Stockbridge dampers",
+        "Allows conductors to be used underwater"
+      ],
+      correct: 0,
+      explanation: "Replacing the steel core with composite in the same diameter nearly doubles transmission capacity. Thermal expansion is ~10x less than steel (reducing sag at high temperatures), and it reduces CO2 emissions from line losses by 27-31%. Costs 2.5-3x as much as ACSR."
+    },
+    ruth: {
+      options: [
+        "Nearly double the capacity in the same size cable!",
+        "Nearly double the capacity in the same size cable!",
+        "It glows in the dark (it doesn't)",
+        "Eric approves (and that's the highest endorsement)"
+      ],
+      correct: 0,
+      explanation: "Nearly double the capacity! Carbon fibre instead of steel — lighter, stronger, carries more power."
+    }
+  },
+  {
+    id: 236,
+    category: "nsheb",
+    question: "What is the purpose of a tension (strain) tower versus a suspension tower?",
+    year: null,
+    eric: {
+      options: [
+        "Tension towers anchor conductors at direction changes; suspension towers support them on straight sections",
+        "Tension towers carry higher voltage; suspension towers carry lower voltage",
+        "Tension towers are at river crossings; suspension towers are on flat ground",
+        "Tension towers have quad bundles; suspension towers have twin bundles"
+      ],
+      correct: 0,
+      explanation: "Suspension towers support conductors vertically using hanging insulators on straight runs (~90% of a line). Tension/strain towers anchor conductors and resist large longitudinal forces at direction changes, line terminations, or long spans. They're heavier, stronger, and costlier."
+    },
+    ruth: {
+      options: [
+        "Tension towers handle corners; suspension towers do straight bits!",
+        "Tension towers handle corners; suspension towers do straight bits!",
+        "One is tense and the other is relaxed",
+        "Eric knows the difference (he can explain for hours)"
+      ],
+      correct: 0,
+      explanation: "Tension towers anchor the cables where the line changes direction — they have to resist much bigger forces than the straight-line suspension towers."
+    }
+  },
+  {
+    id: 237,
+    category: "nsheb",
+    question: "Why are bundle conductors (twin, triple, or quad) used on high-voltage lines rather than a single larger conductor?",
+    year: null,
+    eric: {
+      options: [
+        "To reduce corona discharge, increase capacity, and reduce losses",
+        "To provide redundancy in case one conductor breaks",
+        "To reduce the total weight on each tower",
+        "To allow different phases to share the same insulator string"
+      ],
+      correct: 0,
+      explanation: "Bundle conductors reduce corona discharge (which causes energy loss, noise, and radio interference), increase current-carrying capacity, reduce mutual coupling and resistive losses, and improve voltage regulation. Sub-conductors are typically spaced 300-450mm apart."
+    },
+    ruth: {
+      options: [
+        "Less buzzing, more power, less wasted energy!",
+        "Less buzzing, more power, less wasted energy!",
+        "They look nicer in bundles",
+        "Conductors are social — they don't like being alone"
+      ],
+      correct: 0,
+      explanation: "Multiple cables together reduce that annoying buzzing (corona) and carry more power more efficiently!"
+    }
+  },
+  {
+    id: 238,
+    category: "nsheb",
+    question: "In the ACSR naming system, which is larger: a Moose or a Zebra?",
+    year: null,
+    eric: {
+      options: [
+        "Moose (500mm²) is larger than Zebra (429mm²)",
+        "Zebra (500mm²) is larger than Moose (429mm²)",
+        "They are the same size (both 450mm²)",
+        "Moose (429mm²) is larger than Zebra (400mm²)"
+      ],
+      correct: 0,
+      explanation: "Moose is 500mm², Zebra is 429mm². The animal naming convention roughly follows size: Squirrel (20mm²), Weasel (30mm²), Rabbit (50mm²), Dog (100mm²), Wolf (150mm²), Lynx (183mm²), Panther (200mm²), Zebra (429mm²), Moose (500mm²)."
+    },
+    ruth: {
+      options: [
+        "Moose is bigger! 500mm² vs 429mm²!",
+        "Moose is bigger! 500mm² vs 429mm²!",
+        "In real life, Moose is definitely bigger too",
+        "Neither — they're cables, not animals!"
+      ],
+      correct: 0,
+      explanation: "Moose wins at 500mm² vs Zebra's 429mm²! The bigger the animal, the bigger the cable."
+    }
+  },
+  {
+    id: 239,
+    category: "nsheb",
+    question: "The flapper-type bird flight diverter achieves what percentage reduction in avian mortality on power lines?",
+    year: null,
+    eric: {
+      options: ["50.2%", "60.2%", "70.2%", "80.2%"],
+      correct: 2,
+      explanation: "The flapper flight diverter achieves a 70.2% lower mean avian mortality rate. Migratory birds are most at risk from the thin earth wire — they adjust course to avoid the visible phase conductors but fly upward into the harder-to-see earth wire."
+    },
+    ruth: {
+      options: [
+        "70% fewer bird strikes!",
+        "70% fewer bird strikes!",
+        "100% (the birds read the warning signs)",
+        "Eric fitted them himself (he didn't, but he cares about birds)"
+      ],
+      correct: 0,
+      explanation: "70% fewer bird deaths! The flapping devices make the wires visible to birds flying at speed."
+    }
+  },
+  {
+    id: 240,
+    category: "nsheb",
+    question: "When was the first 400kV section of the Supergrid commissioned, and where did it run?",
+    year: 1965,
+    eric: {
+      options: [
+        "1965, Sundon to West Burton",
+        "1963, Dungeness to Canterbury",
+        "1965, Ratcliffe to Drakelow",
+        "1967, Sundon to West Burton"
+      ],
+      correct: 0,
+      explanation: "The first 400kV section was commissioned in 1965, running approximately 150 miles from Sundon (Bedfordshire) to West Burton (Nottinghamshire). The original 275kV grid had been designed from the outset with the potential to uprate to 400kV."
+    },
+    ruth: {
+      options: [
+        "1965, Sundon to West Burton!",
+        "1965, Sundon to West Burton!",
+        "Last year (very modern, these pylons)",
+        "Eric was there (he wasn't, but he wishes he was)"
+      ],
+      correct: 0,
+      explanation: "1965 — the first 400kV power line, from Sundon to West Burton. Britain's electricity backbone was growing!"
+    }
+  },
+  {
+    id: 241,
+    category: "nsheb",
+    question: "Aeolian vibration in conductors is caused by what phenomenon?",
+    year: null,
+    eric: {
+      options: [
+        "Alternating vortex shedding on the leeward side in steady wind",
+        "Resonant electromagnetic coupling between parallel conductors",
+        "Differential thermal expansion causing standing wave patterns",
+        "Ice-induced aerofoil effects at high altitude"
+      ],
+      correct: 0,
+      explanation: "Aeolian vibration is caused by alternating vortex shedding (Von Kármán vortex street) on the leeward side of the conductor in steady moderate wind, creating standing waves at 3-150Hz. It's the principal cause of conductor strand fatigue failure, worst at clamped ends. Stockbridge dampers are the standard remedy."
+    },
+    ruth: {
+      options: [
+        "Wind creates tiny whirlpools that make the cable vibrate!",
+        "Wind creates tiny whirlpools that make the cable vibrate!",
+        "The cables are shivering (it's cold in Scotland)",
+        "Physics (the answer to everything Eric says)"
+      ],
+      correct: 0,
+      explanation: "Wind creates tiny spinning vortices behind the cable — these make it vibrate like a guitar string. Stockbridge dampers fix it!"
+    }
+  },
+  {
+    id: 242,
+    category: "nsheb",
+    question: "What is the approximate cost per kilometre of Earthed Steel Trident Structures (EaSTS) for 132kV lines in Scotland, versus steel lattice towers?",
+    year: null,
+    eric: {
+      options: [
+        "£700k/km (EaSTS) vs £3M/km (lattice)",
+        "£500k/km (EaSTS) vs £2M/km (lattice)",
+        "£1M/km (EaSTS) vs £4M/km (lattice)",
+        "£700k/km (EaSTS) vs £2M/km (lattice)"
+      ],
+      correct: 0,
+      explanation: "EaSTS costs approximately £700k per kilometre vs £3 million per kilometre for steel lattice towers — roughly a quarter of the price. The trident design uses wood or steel poles and is extensively used in the Scottish Highlands for 132kV."
+    },
+    ruth: {
+      options: [
+        "About £700k vs £3 million — a huge saving!",
+        "About £700k vs £3 million — a huge saving!",
+        "Cheap ones: 50p. Expensive ones: a lot more",
+        "Eric could build them cheaper (probably)"
+      ],
+      correct: 0,
+      explanation: "£700k versus £3 million per kilometre! The trident design saves a fortune compared to the big lattice towers."
+    }
   }
 
 ];
