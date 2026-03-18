@@ -1645,7 +1645,7 @@ export const questions = [
 
   {
     id: 72,
-    category: "nsheb",
+    category: "march-21st",
     question: "The Napoleonic Code was enacted on March 21, 1804. Napoleon personally attended how many of the 80+ drafting sessions?",
     year: 1804,
     eric: {
@@ -1671,7 +1671,7 @@ export const questions = [
   },
   {
     id: 73,
-    category: "nsheb",
+    category: "march-21st",
     question: "Alcatraz prison closed on March 21, 1963. How many prisoners were in the final transfer?",
     year: 1963,
     eric: {
@@ -1692,7 +1692,7 @@ export const questions = [
   },
   {
     id: 74,
-    category: "nsheb",
+    category: "march-21st",
     question: "Who ordered the closure of Alcatraz on March 21, 1963?",
     year: 1963,
     eric: {
@@ -1718,7 +1718,7 @@ export const questions = [
   },
   {
     id: 75,
-    category: "nsheb",
+    category: "march-21st",
     question: "Alcatraz operated for how many years before closing on March 21, 1963?",
     year: 1963,
     eric: {
@@ -1739,7 +1739,7 @@ export const questions = [
   },
   {
     id: 76,
-    category: "nsheb",
+    category: "march-21st",
     question: "Who was the last inmate to leave Alcatraz when it closed on March 21, 1963?",
     year: 1963,
     eric: {
@@ -1760,7 +1760,7 @@ export const questions = [
   },
   {
     id: 77,
-    category: "nsheb",
+    category: "march-21st",
     question: "The Moondog Coronation Ball on March 21, 1952 is considered the first what?",
     year: 1952,
     eric: {
@@ -1786,7 +1786,7 @@ export const questions = [
   },
   {
     id: 78,
-    category: "nsheb",
+    category: "march-21st",
     question: "The Moondog Coronation Ball (March 21, 1952) at Cleveland Arena was shut down early. Why?",
     year: 1952,
     eric: {
@@ -1812,7 +1812,7 @@ export const questions = [
   },
   {
     id: 79,
-    category: "nsheb",
+    category: "march-21st",
     question: "Which DJ organized the Moondog Coronation Ball of March 21, 1952?",
     year: 1952,
     eric: {
@@ -1833,7 +1833,7 @@ export const questions = [
   },
   {
     id: 80,
-    category: "nsheb",
+    category: "march-21st",
     question: "The first tweet was posted on March 21, 2006. What did it say?",
     year: 2006,
     eric: {
