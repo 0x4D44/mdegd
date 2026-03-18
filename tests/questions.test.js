@@ -2,12 +2,13 @@ import { describe, it, expect } from 'vitest';
 import { questions } from '../src/questions.js';
 
 const VALID_CATEGORIES = [
-  'us-state-history',
-  'us-states-attributes',
-  'bridge',
-  'cards',
-  'nsheb',
-  'general',
+  'march-21st', 'bridge', 'cards', 'nsheb', 'family',
+  'edinburgh-airport', 'e-numbers', 'scottish-roads',
+  'vauxhall-cavalier', 'buy-cheap', 'toyota-aygo',
+  'yes-minister', 'trams', 'pylons', 'trident-shuttle',
+  'teenage-slang', 'bbc-weather', 'perth-scotland',
+  'perth-australia', 'coronation-st', 'scotland-the-what',
+  'forfar-bridies', 'ntnon', 'doric',
 ];
 
 // Skip pool validation if the file hasn't been populated yet

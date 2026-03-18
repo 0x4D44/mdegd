@@ -404,12 +404,30 @@
     const QUESTIONS_PER_GAME = 12;
 
     const CATEGORY_LABELS = {
-      'us-state-history':     'US State History',
-      'us-states-attributes': 'US States',
-      'bridge':               'Bridge',
-      'cards':                'Cards & Sleeves',
-      'nsheb':                'Scottish Hydro',
-      'general':              'March 21st',
+      'march-21st':         'March 21st',
+      'bridge':             'Bridge',
+      'cards':              'Cards & Sleeves',
+      'nsheb':              'Scottish Hydro',
+      'family':             'Family',
+      'edinburgh-airport':  'Edinburgh Airport',
+      'e-numbers':          'E Numbers',
+      'scottish-roads':     'Scottish Roads',
+      'vauxhall-cavalier':  'Vauxhall Cavalier',
+      'buy-cheap':          'Buy Cheap, Buy Again',
+      'toyota-aygo':        'Toyota Aygo',
+      'yes-minister':       'Yes Minister',
+      'trams':              'Trams',
+      'pylons':             'Pylons & Grid',
+      'trident-shuttle':    'Trident & Shuttle',
+      'teenage-slang':      'Teenage Slang',
+      'bbc-weather':        'BBC Weather',
+      'perth-scotland':     'Perth, Scotland',
+      'perth-australia':    'Perth, Australia',
+      'coronation-st':      'Coronation Street',
+      'scotland-the-what':  'Scotland the What?',
+      'forfar-bridies':     'Forfar Bridies',
+      'ntnon':              'Not the 9 O\'Clock News',
+      'doric':              'Doric',
     };
 
     // ─── Date check (March 21st easter egg) ───────────────────
@@ -480,7 +498,7 @@
     // ─── Start quiz ─────────────────────────────────────────────
     window.startQuiz = function(mode) {
       state.mode = mode;
-      state.questions = selectBalancedQuestions(questions, QUESTIONS_PER_GAME);
+      state.questions = selectQuestions(questions, QUESTIONS_PER_GAME);
       state.currentIndex = 0;
       state.answers = [];
       showQuestion();

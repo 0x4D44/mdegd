@@ -9,7 +9,7 @@ export const questions = [
 
   {
     id: 1,
-    category: "general",
+    category: "march-21st",
     question: "On March 21, 1864, Lincoln signed the Nevada Enabling Act. What number state did Nevada become?",
     year: 1864,
     eric: {
@@ -25,7 +25,7 @@ export const questions = [
   },
   {
     id: 2,
-    category: "general",
+    category: "march-21st",
     question: "Nevada's state motto is 'Battle Born.' On what date was it formally admitted as a state?",
     year: 1864,
     eric: {
@@ -41,7 +41,7 @@ export const questions = [
   },
   {
     id: 3,
-    category: "general",
+    category: "march-21st",
     question: "The Butler Act, signed on March 21, 1925, prohibited teaching what in Tennessee public schools?",
     year: 1925,
     eric: {
@@ -67,7 +67,7 @@ export const questions = [
   },
   {
     id: 4,
-    category: "general",
+    category: "march-21st",
     question: "Who introduced the Butler Act that was signed into law on March 21, 1925?",
     year: 1925,
     eric: {
@@ -93,7 +93,7 @@ export const questions = [
   },
   {
     id: 5,
-    category: "general",
+    category: "march-21st",
     question: "The Butler Act (March 21, 1925) led to the Scopes Trial. When was the Act finally repealed?",
     year: 1925,
     eric: {
@@ -109,7 +109,7 @@ export const questions = [
   },
   {
     id: 6,
-    category: "general",
+    category: "march-21st",
     question: "Which Tennessee Governor signed the Butler Act into law on March 21, 1925?",
     year: 1925,
     eric: {
@@ -125,7 +125,7 @@ export const questions = [
   },
   {
     id: 7,
-    category: "general",
+    category: "march-21st",
     question: "The Scopes Trial of July 1925 resulted from the Butler Act (signed March 21). What was Scopes convicted of?",
     year: 1925,
     eric: {
@@ -151,7 +151,7 @@ export const questions = [
   },
   {
     id: 8,
-    category: "general",
+    category: "march-21st",
     question: "The Great New Orleans Fire of March 21, 1788 destroyed how many of the city's ~1,100 structures?",
     year: 1788,
     eric: {
@@ -167,7 +167,7 @@ export const questions = [
   },
   {
     id: 9,
-    category: "general",
+    category: "march-21st",
     question: "During the Great New Orleans Fire (March 21, 1788), the city was under which colonial power?",
     year: 1788,
     eric: {
@@ -188,7 +188,7 @@ export const questions = [
   },
   {
     id: 10,
-    category: "general",
+    category: "march-21st",
     question: "Why didn't church bells ring as an alarm during the Great New Orleans Fire of March 21, 1788?",
     year: 1788,
     eric: {
@@ -214,7 +214,7 @@ export const questions = [
   },
   {
     id: 11,
-    category: "general",
+    category: "march-21st",
     question: "The Great New Orleans Fire (March 21, 1788) started at 619 Chartres Street. Whose home was this?",
     year: 1788,
     eric: {
@@ -240,7 +240,7 @@ export const questions = [
   },
   {
     id: 12,
-    category: "general",
+    category: "march-21st",
     question: "How long did it take for the Great New Orleans Fire (March 21, 1788) to spread through the city?",
     year: 1788,
     eric: {
@@ -256,7 +256,7 @@ export const questions = [
   },
   {
     id: 13,
-    category: "general",
+    category: "march-21st",
     question: "On March 21, 1965, how many marchers set out from Selma to Montgomery?",
     year: 1965,
     eric: {
@@ -272,7 +272,7 @@ export const questions = [
   },
   {
     id: 14,
-    category: "general",
+    category: "march-21st",
     question: "The Selma to Montgomery march (starting March 21, 1965) covered how many miles over how many days?",
     year: 1965,
     eric: {
@@ -288,7 +288,7 @@ export const questions = [
   },
   {
     id: 15,
-    category: "general",
+    category: "march-21st",
     question: "The failed first attempt at the Selma to Montgomery march, known as 'Bloody Sunday,' occurred on what date?",
     year: 1965,
     eric: {
@@ -304,7 +304,7 @@ export const questions = [
   },
   {
     id: 16,
-    category: "general",
+    category: "march-21st",
     question: "The Selma to Montgomery march (March 21, 1965) directly led to which legislation?",
     year: 1965,
     eric: {
@@ -330,7 +330,7 @@ export const questions = [
   },
   {
     id: 17,
-    category: "general",
+    category: "march-21st",
     question: "On March 21, 1946, Kenny Washington signed with the LA Rams. What barrier did this break?",
     year: 1946,
     eric: {
@@ -356,7 +356,7 @@ export const questions = [
   },
   {
     id: 18,
-    category: "general",
+    category: "march-21st",
     question: "Kenny Washington's NFL signing (March 21, 1946) preceded which other famous barrier-breaking moment?",
     year: 1946,
     eric: {
@@ -382,7 +382,7 @@ export const questions = [
   },
   {
     id: 19,
-    category: "general",
+    category: "march-21st",
     question: "How long had the NFL's color barrier been in place when Kenny Washington signed on March 21, 1946?",
     year: 1946,
     eric: {
@@ -398,7 +398,7 @@ export const questions = [
   },
   {
     id: 20,
-    category: "general",
+    category: "march-21st",
     question: "New Orleans had a second great fire after the March 21, 1788 one. When was it, and how many buildings were destroyed?",
     year: 1788,
     eric: {
@@ -429,7 +429,7 @@ export const questions = [
 
   {
     id: 21,
-    category: "general",
+    category: "march-21st",
     question: "Nevada's motto is 'Battle Born.' What does this refer to?",
     year: 1864,
     eric: {
@@ -455,7 +455,7 @@ export const questions = [
   },
   {
     id: 22,
-    category: "general",
+    category: "march-21st",
     question: "Tennessee is known as the 'Volunteer State.' The Butler Act (March 21, 1925) was passed there. What is the state capital?",
     year: 1925,
     eric: {
@@ -471,7 +471,7 @@ export const questions = [
   },
   {
     id: 23,
-    category: "general",
+    category: "march-21st",
     question: "Louisiana, home of New Orleans (Great Fire of March 21, 1788), is unique among US states for what legal distinction?",
     year: 1788,
     eric: {
@@ -497,7 +497,7 @@ export const questions = [
   },
   {
     id: 24,
-    category: "general",
+    category: "march-21st",
     question: "Alabama, where the Selma to Montgomery march ended on March 25, 1965, has what state motto?",
     year: 1965,
     eric: {
@@ -523,7 +523,7 @@ export const questions = [
   },
   {
     id: 25,
-    category: "general",
+    category: "march-21st",
     question: "The Voting Rights Act (prompted by the March 21, 1965 march) was signed on what date?",
     year: 1965,
     eric: {
@@ -544,7 +544,7 @@ export const questions = [
   },
   {
     id: 26,
-    category: "general",
+    category: "march-21st",
     question: "Nevada (Enabling Act signed March 21, 1864) gets its name from 'Sierra Nevada.' What does 'nevada' mean in Spanish?",
     year: 1864,
     eric: {
@@ -565,7 +565,7 @@ export const questions = [
   },
   {
     id: 27,
-    category: "general",
+    category: "march-21st",
     question: "The French Quarter, rebuilt after the March 21, 1788 fire, is in which Louisiana parish?",
     year: 1788,
     eric: {
@@ -586,7 +586,7 @@ export const questions = [
   },
   {
     id: 28,
-    category: "general",
+    category: "march-21st",
     question: "The Selma to Montgomery march (March 21, 1965) crossed the Edmund Pettus Bridge. In which Alabama county is Selma?",
     year: 1965,
     eric: {
@@ -607,7 +607,7 @@ export const questions = [
   },
   {
     id: 29,
-    category: "general",
+    category: "march-21st",
     question: "On March 21, 1788, New Orleans burned. Today, Louisiana is the only US state whose legal system is based on what?",
     year: 1788,
     eric: {
@@ -633,7 +633,7 @@ export const questions = [
   },
   {
     id: 30,
-    category: "general",
+    category: "march-21st",
     question: "Nevada became 'Battle Born' thanks to the March 21, 1864 Enabling Act. Which side of the Civil War was Nevada admitted to support?",
     year: 1864,
     eric: {
@@ -659,7 +659,7 @@ export const questions = [
   },
   {
     id: 31,
-    category: "general",
+    category: "march-21st",
     question: "The marchers on March 21, 1965 were protected by federalized National Guard troops. Who ordered their deployment?",
     year: 1965,
     eric: {
@@ -685,7 +685,7 @@ export const questions = [
   },
   {
     id: 32,
-    category: "general",
+    category: "march-21st",
     question: "The Great Fire of March 21, 1788 happened on Good Friday. What style was New Orleans rebuilt in?",
     year: 1788,
     eric: {
@@ -716,7 +716,7 @@ export const questions = [
 
   {
     id: 33,
-    category: "general",
+    category: "bridge",
     question: "Contract bridge was invented in 1925 — the same year the Butler Act was signed (March 21). Who invented it?",
     year: 1925,
     eric: {
@@ -737,7 +737,7 @@ export const questions = [
   },
   {
     id: 34,
-    category: "general",
+    category: "bridge",
     question: "Harold Vanderbilt invented contract bridge in 1925 aboard which ship?",
     year: 1925,
     eric: {
@@ -758,7 +758,7 @@ export const questions = [
   },
   {
     id: 35,
-    category: "general",
+    category: "bridge",
     question: "In contract bridge, how are the four suits ranked from highest to lowest in bidding?",
     year: 1925,
     eric: {
@@ -784,7 +784,7 @@ export const questions = [
   },
   {
     id: 36,
-    category: "general",
+    category: "bridge",
     question: "In bridge, a 'grand slam' means winning how many of the 13 possible tricks?",
     year: 1925,
     eric: {
@@ -805,7 +805,7 @@ export const questions = [
   },
   {
     id: 37,
-    category: "general",
+    category: "bridge",
     question: "A 'yarborough' in bridge is a hand with no card above what rank?",
     year: 1925,
     eric: {
@@ -826,7 +826,7 @@ export const questions = [
   },
   {
     id: 38,
-    category: "general",
+    category: "bridge",
     question: "Lord Yarborough offered 1,000:1 against being dealt a yarborough. What are the true odds?",
     year: 1925,
     eric: {
@@ -847,7 +847,7 @@ export const questions = [
   },
   {
     id: 39,
-    category: "general",
+    category: "bridge",
     question: "Charles Goren, who dominated bridge in the mid-20th century, was born on March 4, 1901. How close to March 21?",
     year: 1901,
     eric: {
@@ -868,7 +868,7 @@ export const questions = [
   },
   {
     id: 40,
-    category: "general",
+    category: "bridge",
     question: "The 1965 Reese-Schapiro cheating scandal occurred at the Bermuda Bowl. What were they accused of?",
     year: 1965,
     eric: {
@@ -894,7 +894,7 @@ export const questions = [
   },
   {
     id: 41,
-    category: "general",
+    category: "bridge",
     question: "The Reese-Schapiro scandal took place at the 1965 Bermuda Bowl in which city?",
     year: 1965,
     eric: {
@@ -915,7 +915,7 @@ export const questions = [
   },
   {
     id: 42,
-    category: "general",
+    category: "bridge",
     question: "The ACBL (American Contract Bridge League) was founded in which year?",
     year: 1937,
     eric: {
@@ -936,7 +936,7 @@ export const questions = [
   },
   {
     id: 43,
-    category: "general",
+    category: "bridge",
     question: "Duplicate bridge differs from rubber bridge primarily because it:",
     year: 1925,
     eric: {
@@ -962,7 +962,7 @@ export const questions = [
   },
   {
     id: 44,
-    category: "general",
+    category: "bridge",
     question: "Who popularized contract bridge in the 1930s through media, books, and famous challenge matches?",
     year: 1930,
     eric: {
@@ -988,7 +988,7 @@ export const questions = [
 
   {
     id: 45,
-    category: "general",
+    category: "cards",
     question: "The classic card cheating manual 'The Expert at the Card Table' was published in 1902. Who wrote it?",
     year: 1902,
     eric: {
@@ -1014,7 +1014,7 @@ export const questions = [
   },
   {
     id: 46,
-    category: "general",
+    category: "cards",
     question: "Dai Vernon, 'The Professor,' was the most influential close-up magician of the 20th century. When did he live?",
     year: 1894,
     eric: {
@@ -1035,7 +1035,7 @@ export const questions = [
   },
   {
     id: 47,
-    category: "general",
+    category: "cards",
     question: "Richard Turner is considered possibly the greatest card mechanic alive. What makes his skill especially remarkable?",
     year: 2006,
     eric: {
@@ -1061,7 +1061,7 @@ export const questions = [
   },
   {
     id: 48,
-    category: "general",
+    category: "cards",
     question: "In card cheating, a 'second deal' refers to what technique?",
     year: 1902,
     eric: {
@@ -1087,7 +1087,7 @@ export const questions = [
   },
   {
     id: 49,
-    category: "general",
+    category: "cards",
     question: "The 'mechanic's grip' in card handling is a way of holding the deck that allows a cheat to:",
     year: 1902,
     eric: {
@@ -1113,7 +1113,7 @@ export const questions = [
   },
   {
     id: 50,
-    category: "general",
+    category: "cards",
     question: "What are the standard dimensions of a playing card?",
     year: 1902,
     eric: {
@@ -1139,7 +1139,7 @@ export const questions = [
   },
   {
     id: 51,
-    category: "general",
+    category: "cards",
     question: "Victorian-era card cheats used 'holdout' devices. What were these?",
     year: 1902,
     eric: {
@@ -1165,7 +1165,7 @@ export const questions = [
   },
   {
     id: 52,
-    category: "general",
+    category: "cards",
     question: "Card cheats use several methods to mark cards during play. Which of these is a real technique?",
     year: 1902,
     eric: {
@@ -1191,7 +1191,7 @@ export const questions = [
   },
   {
     id: 53,
-    category: "general",
+    category: "cards",
     question: "The 'Duke of Cumberland's hand' is a famous story in card history. What is it about?",
     year: 1902,
     eric: {
@@ -1217,7 +1217,7 @@ export const questions = [
   },
   {
     id: 54,
-    category: "general",
+    category: "cards",
     question: "How many cards are in a standard deck, as used in both bridge and poker?",
     year: 1902,
     eric: {
@@ -1238,7 +1238,7 @@ export const questions = [
   },
   {
     id: 55,
-    category: "general",
+    category: "cards",
     question: "In bridge, all 52 cards are dealt to 4 players. How many cards does each player receive?",
     year: 1925,
     eric: {
@@ -1259,7 +1259,7 @@ export const questions = [
   },
   {
     id: 56,
-    category: "general",
+    category: "cards",
     question: "What is a 'small slam' in bridge — how many tricks must you win?",
     year: 1925,
     eric: {
@@ -1285,7 +1285,7 @@ export const questions = [
 
   {
     id: 57,
-    category: "general",
+    category: "nsheb",
     question: "The Cooper Committee, which led to the creation of NSHEB, was established in October 1941. Who set it up?",
     year: 1941,
     eric: {
@@ -1306,7 +1306,7 @@ export const questions = [
   },
   {
     id: 58,
-    category: "general",
+    category: "nsheb",
     question: "The Cooper Committee report of December 15, 1942 estimated how many separate hydro schemes were needed?",
     year: 1942,
     eric: {
@@ -1327,7 +1327,7 @@ export const questions = [
   },
   {
     id: 59,
-    category: "general",
+    category: "nsheb",
     question: "The 1943 Hydro Act included a unique 'social clause.' What did it require the Board to pursue?",
     year: 1943,
     eric: {
@@ -1353,7 +1353,7 @@ export const questions = [
   },
   {
     id: 60,
-    category: "general",
+    category: "nsheb",
     question: "The 1943 Hydro Act received Royal Assent on August 5, 1943. What was notable about its passage through Parliament?",
     year: 1943,
     eric: {
@@ -1379,7 +1379,7 @@ export const questions = [
   },
   {
     id: 61,
-    category: "general",
+    category: "nsheb",
     question: "Who was the first chairman of the NSHEB, and who succeeded as the dominant chairman?",
     year: 1943,
     eric: {
@@ -1405,7 +1405,7 @@ export const questions = [
   },
   {
     id: 62,
-    category: "general",
+    category: "nsheb",
     question: "Sir Edward MacColl was NSHEB's engineering driving force. What was his official title?",
     year: 1943,
     eric: {
@@ -1431,7 +1431,7 @@ export const questions = [
   },
   {
     id: 63,
-    category: "general",
+    category: "nsheb",
     question: "Sir Edward MacColl died on July 15, 1951. What was tragic about the timing?",
     year: 1951,
     eric: {
@@ -1457,7 +1457,7 @@ export const questions = [
   },
   {
     id: 64,
-    category: "general",
+    category: "nsheb",
     question: "Loch Sloy was NSHEB's Scheme No. 1. When was it approved?",
     year: 1945,
     eric: {
@@ -1478,7 +1478,7 @@ export const questions = [
   },
   {
     id: 65,
-    category: "general",
+    category: "nsheb",
     question: "'Loch Sloy!' was the battle cry of which Scottish clan?",
     year: 1945,
     eric: {
@@ -1499,7 +1499,7 @@ export const questions = [
   },
   {
     id: 66,
-    category: "general",
+    category: "nsheb",
     question: "How many workers died during the construction of Loch Sloy?",
     year: 1950,
     eric: {
@@ -1520,7 +1520,7 @@ export const questions = [
   },
   {
     id: 67,
-    category: "general",
+    category: "nsheb",
     question: "When did MacColl switch on the first Loch Sloy generator, and what was the total capacity?",
     year: 1950,
     eric: {
@@ -1546,7 +1546,7 @@ export const questions = [
   },
   {
     id: 68,
-    category: "general",
+    category: "nsheb",
     question: "Cruachan, 'The Hollow Mountain,' has its machine hall inside Ben Cruachan. What are its dimensions?",
     year: 1965,
     eric: {
@@ -1572,7 +1572,7 @@ export const questions = [
   },
   {
     id: 69,
-    category: "general",
+    category: "nsheb",
     question: "Cruachan was opened on October 15, 1965 by Queen Elizabeth II. How many workers died during construction?",
     year: 1965,
     eric: {
@@ -1593,7 +1593,7 @@ export const questions = [
   },
   {
     id: 70,
-    category: "general",
+    category: "nsheb",
     question: "Cruachan was a pioneering engineering achievement. What was it the first of in the world?",
     year: 1965,
     eric: {
@@ -1619,7 +1619,7 @@ export const questions = [
   },
   {
     id: 71,
-    category: "general",
+    category: "nsheb",
     question: "On October 27, 1955, Tunnel Tigers at St Fillans set a tunnelling record. How much rock did they cut in 7 days?",
     year: 1955,
     eric: {
@@ -1645,7 +1645,7 @@ export const questions = [
 
   {
     id: 72,
-    category: "general",
+    category: "nsheb",
     question: "The Napoleonic Code was enacted on March 21, 1804. Napoleon personally attended how many of the 80+ drafting sessions?",
     year: 1804,
     eric: {
@@ -1671,7 +1671,7 @@ export const questions = [
   },
   {
     id: 73,
-    category: "general",
+    category: "nsheb",
     question: "Alcatraz prison closed on March 21, 1963. How many prisoners were in the final transfer?",
     year: 1963,
     eric: {
@@ -1692,7 +1692,7 @@ export const questions = [
   },
   {
     id: 74,
-    category: "general",
+    category: "nsheb",
     question: "Who ordered the closure of Alcatraz on March 21, 1963?",
     year: 1963,
     eric: {
@@ -1718,7 +1718,7 @@ export const questions = [
   },
   {
     id: 75,
-    category: "general",
+    category: "nsheb",
     question: "Alcatraz operated for how many years before closing on March 21, 1963?",
     year: 1963,
     eric: {
@@ -1739,7 +1739,7 @@ export const questions = [
   },
   {
     id: 76,
-    category: "general",
+    category: "nsheb",
     question: "Who was the last inmate to leave Alcatraz when it closed on March 21, 1963?",
     year: 1963,
     eric: {
@@ -1760,7 +1760,7 @@ export const questions = [
   },
   {
     id: 77,
-    category: "general",
+    category: "nsheb",
     question: "The Moondog Coronation Ball on March 21, 1952 is considered the first what?",
     year: 1952,
     eric: {
@@ -1786,7 +1786,7 @@ export const questions = [
   },
   {
     id: 78,
-    category: "general",
+    category: "nsheb",
     question: "The Moondog Coronation Ball (March 21, 1952) at Cleveland Arena was shut down early. Why?",
     year: 1952,
     eric: {
@@ -1812,7 +1812,7 @@ export const questions = [
   },
   {
     id: 79,
-    category: "general",
+    category: "nsheb",
     question: "Which DJ organized the Moondog Coronation Ball of March 21, 1952?",
     year: 1952,
     eric: {
@@ -1833,7 +1833,7 @@ export const questions = [
   },
   {
     id: 80,
-    category: "general",
+    category: "nsheb",
     question: "The first tweet was posted on March 21, 2006. What did it say?",
     year: 2006,
     eric: {
@@ -1859,7 +1859,7 @@ export const questions = [
   },
   {
     id: 81,
-    category: "general",
+    category: "march-21st",
     question: "Jack Dorsey's first tweet (March 21, 2006) was later sold as an NFT. For how much?",
     year: 2006,
     eric: {
@@ -1880,7 +1880,7 @@ export const questions = [
   },
   {
     id: 82,
-    category: "general",
+    category: "march-21st",
     question: "On March 21, 1935, Persia officially became Iran. What occasion did Reza Shah Pahlavi choose for the change?",
     year: 1935,
     eric: {
@@ -1906,7 +1906,7 @@ export const questions = [
   },
   {
     id: 83,
-    category: "general",
+    category: "march-21st",
     question: "March 21 is UNESCO's International Day for the Elimination of Racial Discrimination. What 1960 event inspired this?",
     year: 1960,
     eric: {
@@ -1932,7 +1932,7 @@ export const questions = [
   },
   {
     id: 84,
-    category: "general",
+    category: "march-21st",
     question: "Namibia gained independence on March 21, 1990. Who was sworn in as its first president?",
     year: 1990,
     eric: {
@@ -1953,7 +1953,7 @@ export const questions = [
   },
   {
     id: 85,
-    category: "general",
+    category: "march-21st",
     question: "Thomas Cranmer was burned at the stake on March 21, 1556. What was his claim to fame?",
     year: 1556,
     eric: {
@@ -1979,7 +1979,7 @@ export const questions = [
   },
   {
     id: 86,
-    category: "general",
+    category: "march-21st",
     question: "When Thomas Cranmer was burned on March 21, 1556, what famous act did he perform at the stake?",
     year: 1556,
     eric: {
@@ -2005,7 +2005,7 @@ export const questions = [
   },
   {
     id: 87,
-    category: "general",
+    category: "march-21st",
     question: "Johann Sebastian Bach was born on March 21, 1685. But that's the Julian calendar date. What's the Gregorian equivalent?",
     year: 1685,
     eric: {
@@ -2026,7 +2026,7 @@ export const questions = [
   },
   {
     id: 88,
-    category: "general",
+    category: "march-21st",
     question: "Benito Juárez, born March 21, 1806, served as president of which country?",
     year: 1806,
     eric: {
@@ -2047,7 +2047,7 @@ export const questions = [
   },
   {
     id: 89,
-    category: "general",
+    category: "march-21st",
     question: "Ayrton Senna, born March 21, 1960, won how many Formula 1 World Championships?",
     year: 1960,
     eric: {
@@ -2068,7 +2068,7 @@ export const questions = [
   },
   {
     id: 90,
-    category: "general",
+    category: "march-21st",
     question: "Ayrton Senna (born March 21, 1960) died tragically during which Grand Prix?",
     year: 1960,
     eric: {
@@ -2094,7 +2094,7 @@ export const questions = [
   },
   {
     id: 91,
-    category: "general",
+    category: "march-21st",
     question: "The first Earth Day proclamation was made on March 21, 1970 by which mayor?",
     year: 1970,
     eric: {
@@ -2120,7 +2120,7 @@ export const questions = [
   },
   {
     id: 92,
-    category: "general",
+    category: "march-21st",
     question: "The March 21, 1970 Earth Day was inspired by which peace activist?",
     year: 1970,
     eric: {
@@ -2141,7 +2141,7 @@ export const questions = [
   },
   {
     id: 93,
-    category: "general",
+    category: "march-21st",
     question: "San Diego Comic-Con held its first event on March 21, 1970. How many people attended?",
     year: 1970,
     eric: {
@@ -2162,7 +2162,7 @@ export const questions = [
   },
   {
     id: 94,
-    category: "general",
+    category: "march-21st",
     question: "The first San Diego Comic-Con (March 21, 1970) was held at which hotel?",
     year: 1970,
     eric: {
@@ -2183,7 +2183,7 @@ export const questions = [
   },
   {
     id: 95,
-    category: "general",
+    category: "march-21st",
     question: "Gary Oldman, born March 21, 1958, won his Oscar for playing which historical figure?",
     year: 1958,
     eric: {
@@ -2204,7 +2204,7 @@ export const questions = [
   },
   {
     id: 96,
-    category: "general",
+    category: "march-21st",
     question: "Ronaldinho, born March 21, 1980, won FIFA World Player of the Year how many times?",
     year: 1980,
     eric: {
@@ -2225,7 +2225,7 @@ export const questions = [
   },
   {
     id: 97,
-    category: "general",
+    category: "nsheb",
     question: "The NSHEB was dissolved in March 1990 — the same month as Namibian independence. What did it become?",
     year: 1990,
     eric: {
@@ -2251,7 +2251,7 @@ export const questions = [
   },
   {
     id: 98,
-    category: "general",
+    category: "nsheb",
     question: "In 1943, less than 1% of rural Highland homes had electricity. By 1959, what was the figure?",
     year: 1943,
     eric: {
@@ -2272,7 +2272,7 @@ export const questions = [
   },
   {
     id: 99,
-    category: "general",
+    category: "nsheb",
     question: "The Tunnel Tigers who built NSHEB's hydro schemes earned £35/week. How much did a Highland estate worker earn?",
     year: 1955,
     eric: {
@@ -2293,7 +2293,7 @@ export const questions = [
   },
   {
     id: 100,
-    category: "general",
+    category: "nsheb",
     question: "By 1965, the NSHEB had built an enormous infrastructure across the Highlands. How many power stations, dams, and km of tunnel?",
     year: 1965,
     eric: {
@@ -2321,7 +2321,7 @@ export const questions = [
   // ─── Bonus NSHEB deep-knowledge questions ─────────────────────
   {
     id: 101,
-    category: "general",
+    category: "nsheb",
     question: "Inside Cruachan's turbine hall there is a remarkable mural. Who created it?",
     year: 1965,
     eric: {
@@ -2342,7 +2342,7 @@ export const questions = [
   },
   {
     id: 102,
-    category: "general",
+    category: "nsheb",
     question: "Foyers was the last major hydro project undertaken by the NSHEB. What was its capacity?",
     year: 1975,
     eric: {
@@ -2363,7 +2363,7 @@ export const questions = [
   },
   {
     id: 103,
-    category: "general",
+    category: "nsheb",
     question: "The famous Pitlochry fish ladder has allowed how many salmon to pass since it opened in 1951?",
     year: 1951,
     eric: {
@@ -2384,7 +2384,7 @@ export const questions = [
   },
   {
     id: 104,
-    category: "general",
+    category: "nsheb",
     question: "When Tom Johnston retired as NSHEB chairman in 1959, roughly what percentage of Highland residents had mains electricity?",
     year: 1959,
     eric: {
@@ -2405,7 +2405,7 @@ export const questions = [
   },
   {
     id: 105,
-    category: "general",
+    category: "nsheb",
     question: "The 'Tunnel Tigers' who carved the hydro tunnels earned roughly how much per week in the late 1940s?",
     year: 1950,
     eric: {
@@ -2428,7 +2428,7 @@ export const questions = [
   // ─── Insider NSHEB questions ────────────────────────────────────
   {
     id: 116,
-    category: "general",
+    category: "nsheb",
     question: "Foyers pumped-storage station (300 MW) had an unusual and risky design feature. What was it?",
     year: 1975,
     eric: {
@@ -2454,7 +2454,7 @@ export const questions = [
   },
   {
     id: 117,
-    category: "general",
+    category: "nsheb",
     question: "During the Sloy refurbishment, four new 40 MW runners were purchased. But G4's new runner went somewhere else. Where?",
     year: null,
     eric: {
@@ -2482,7 +2482,7 @@ export const questions = [
   // ─── Maths operator precedence ────────────────────────────────
   {
     id: 106,
-    category: "general",
+    category: "family",
     question: "Birthday maths! What is 21 + 3 × 4² - 6 ÷ 2 + (-1)³ × 5?",
     year: null,
     eric: {
@@ -2503,7 +2503,7 @@ export const questions = [
   },
   {
     id: 107,
-    category: "general",
+    category: "family",
     question: "Operator precedence challenge: what is -3² + (-3)² + 2 × (4 - 6)³ ÷ 4 - 1?",
     year: null,
     eric: {
@@ -2524,7 +2524,7 @@ export const questions = [
   },
   {
     id: 108,
-    category: "general",
+    category: "family",
     question: "The big one. What is (2⁴ - 3 × 5) × (7 - 2³) + (9 ÷ 3)² - (4² - 15) × 8?",
     year: null,
     eric: {
@@ -2547,7 +2547,7 @@ export const questions = [
   // ─── Famous bridge moments ─────────────────────────────────────
   {
     id: 109,
-    category: "general",
+    category: "bridge",
     question: "In the infamous 1965 Bermuda Bowl in Buenos Aires, Reese and Schapiro were accused of using finger signals. What were they allegedly communicating?",
     year: 1965,
     eric: {
@@ -2573,7 +2573,7 @@ export const questions = [
   },
   {
     id: 110,
-    category: "general",
+    category: "bridge",
     question: "In the 1981 Bermuda Bowl final, Jeff Meckstroth made a legendary sacrifice bid of 7♠ on just 5 HCP. How many tricks was he down, doubled?",
     year: 1981,
     eric: {
@@ -2594,7 +2594,7 @@ export const questions = [
   },
   {
     id: 111,
-    category: "general",
+    category: "bridge",
     question: "The 1931-32 'Bridge Battle of the Century' between Culbertson and Lenz was front-page news in 30 countries. Who was Ely Culbertson's partner?",
     year: 1931,
     eric: {
@@ -2620,7 +2620,7 @@ export const questions = [
   },
   {
     id: 112,
-    category: "general",
+    category: "bridge",
     question: "Italy's Blue Team dominated world bridge from 1957-1969. Of the 13 available world team championships in that period, how many did they win?",
     year: 1957,
     eric: {
@@ -2641,7 +2641,7 @@ export const questions = [
   },
   {
     id: 113,
-    category: "general",
+    category: "bridge",
     question: "Meckstroth's 1981 7♠ sacrifice exposed a flaw in bridge scoring. What specific rule change followed in 1987?",
     year: 1981,
     eric: {
@@ -2669,7 +2669,7 @@ export const questions = [
   // ─── Family jokes ─────────────────────────────────────────────
   {
     id: 114,
-    category: "general",
+    category: "family",
     question: "According to leading cake scientists, what is the optimal colour for birthday cake icing?",
     year: null,
     eric: {
@@ -2695,7 +2695,7 @@ export const questions = [
   },
   {
     id: 115,
-    category: "general",
+    category: "family",
     question: "According to Eric, what is the best thing he has ever done?",
     year: null,
     eric: {
@@ -2723,7 +2723,7 @@ export const questions = [
   // ─── Personal / family questions ──────────────────────────────
   {
     id: 118,
-    category: "general",
+    category: "edinburgh-airport",
     question: "On flight BA1462 from Heathrow Terminal 5 to Edinburgh, what seat was Eric assigned?",
     year: 2014,
     eric: {
@@ -2744,7 +2744,7 @@ export const questions = [
   },
   {
     id: 119,
-    category: "general",
+    category: "edinburgh-airport",
     question: "Eric has flown on how many of the 24 BA shuttle BIK* series aircraft (G-BIKA through G-BIKS, no Q)?",
     year: null,
     eric: {
@@ -2765,7 +2765,7 @@ export const questions = [
   },
   {
     id: 120,
-    category: "general",
+    category: "edinburgh-airport",
     question: "What was the registration of the first Boeing 757 Eric ever flew on?",
     year: 1985,
     eric: {
@@ -2786,7 +2786,7 @@ export const questions = [
   },
   {
     id: 121,
-    category: "general",
+    category: "nsheb",
     question: "The NSHEB line icing warning system on the Lecht used a rather unusual alarm technology. What was it?",
     year: null,
     eric: {
@@ -2812,7 +2812,7 @@ export const questions = [
   },
   {
     id: 122,
-    category: "general",
+    category: "nsheb",
     question: "To operate the earth switches at the Glen Truim tee-off for de-icing the Corrieyairack Pass line, the engineer first had to go to a telephone box. In which town?",
     year: null,
     eric: {
@@ -2833,7 +2833,7 @@ export const questions = [
   },
   {
     id: 123,
-    category: "general",
+    category: "family",
     question: "In May 2025, Eric's suitcase went on its own European adventure while he was on a cruise. How many flights did the suitcase take?",
     year: 2025,
     eric: {
@@ -2856,7 +2856,7 @@ export const questions = [
   // ─── E for Additives (Ruth's territory) ───────────────────────
   {
     id: 124,
-    category: "general",
+    category: "e-numbers",
     question: "In Maurice Hanssen's bestselling book 'E for Additives,' what does the food additive E102 (Tartrazine) do?",
     year: 1985,
     eric: {
@@ -2882,7 +2882,7 @@ export const questions = [
   },
   {
     id: 125,
-    category: "general",
+    category: "e-numbers",
     question: "What is the common name for food additive E621, which Ruth's 'E for Additives' book warned about?",
     year: 1985,
     eric: {
@@ -2908,7 +2908,7 @@ export const questions = [
   },
   {
     id: 126,
-    category: "general",
+    category: "e-numbers",
     question: "E330 is one of the most common food additives and is completely natural. What is it?",
     year: 1985,
     eric: {
@@ -2934,7 +2934,7 @@ export const questions = [
   },
   {
     id: 127,
-    category: "general",
+    category: "e-numbers",
     question: "E300 sounds ominous, but what everyday substance is it?",
     year: 1985,
     eric: {
@@ -2962,7 +2962,7 @@ export const questions = [
   // ─── NORBIT (Eric's technology) ───────────────────────────────
   {
     id: 128,
-    category: "general",
+    category: "nsheb",
     question: "Eric worked with NORBIT modules for control systems. Which company developed the NORBIT system?",
     year: 1960,
     eric: {
@@ -2983,7 +2983,7 @@ export const questions = [
   },
   {
     id: 129,
-    category: "general",
+    category: "nsheb",
     question: "The NORBIT 2 (NORBIT-S) modules introduced in 1967 operated at what supply voltage?",
     year: 1967,
     eric: {
@@ -3006,7 +3006,7 @@ export const questions = [
   // ─── Scottish roads ───────────────────────────────────────────
   {
     id: 130,
-    category: "general",
+    category: "scottish-roads",
     question: "The A9 is the longest road in Scotland. How long is it?",
     year: null,
     eric: {
@@ -3027,7 +3027,7 @@ export const questions = [
   },
   {
     id: 131,
-    category: "general",
+    category: "scottish-roads",
     question: "The highest point on the A9 is the Pass of Drumochter. What altitude does the road reach?",
     year: null,
     eric: {
@@ -3048,7 +3048,7 @@ export const questions = [
   },
   {
     id: 132,
-    category: "general",
+    category: "scottish-roads",
     question: "What is the second longest A-road in Scotland?",
     year: null,
     eric: {
@@ -3071,7 +3071,7 @@ export const questions = [
   // ─── Edinburgh Airport ────────────────────────────────────────
   {
     id: 133,
-    category: "general",
+    category: "edinburgh-airport",
     question: "Edinburgh Airport's current terminal was officially opened on 27 May 1977. By whom?",
     year: 1977,
     eric: {
@@ -3092,7 +3092,7 @@ export const questions = [
   },
   {
     id: 134,
-    category: "general",
+    category: "edinburgh-airport",
     question: "Who designed Edinburgh Airport's 1977 terminal building?",
     year: 1977,
     eric: {
@@ -3113,7 +3113,7 @@ export const questions = [
   },
   {
     id: 135,
-    category: "general",
+    category: "edinburgh-airport",
     question: "What river was diverted to make way for Edinburgh Airport's 1970s redevelopment?",
     year: 1973,
     eric: {
@@ -3134,7 +3134,7 @@ export const questions = [
   },
   {
     id: 136,
-    category: "general",
+    category: "edinburgh-airport",
     question: "Before it became a civilian airport, Edinburgh's Turnhouse was an RAF base. Which squadron, based there, shot down the first enemy aircraft over Britain in WWII?",
     year: 1939,
     eric: {
@@ -3155,7 +3155,7 @@ export const questions = [
   },
   {
     id: 137,
-    category: "general",
+    category: "edinburgh-airport",
     question: "By the time BAA took over Edinburgh Airport in 1971, the old terminal was operating at how many times its design capacity?",
     year: 1971,
     eric: {
@@ -3176,7 +3176,7 @@ export const questions = [
   },
   {
     id: 138,
-    category: "general",
+    category: "edinburgh-airport",
     question: "What was Edinburgh Airport's first scheduled direct route to continental Europe, and when?",
     year: 1975,
     eric: {
@@ -3197,7 +3197,7 @@ export const questions = [
   },
   {
     id: 139,
-    category: "general",
+    category: "edinburgh-airport",
     question: "How long is Edinburgh Airport's main runway (06/24)?",
     year: 1977,
     eric: {
@@ -3218,7 +3218,7 @@ export const questions = [
   },
   {
     id: 140,
-    category: "general",
+    category: "edinburgh-airport",
     question: "In what year did Edinburgh become the first Scottish airport to exceed 10 million passengers?",
     year: 2014,
     eric: {
@@ -3239,7 +3239,7 @@ export const questions = [
   },
   {
     id: 141,
-    category: "general",
+    category: "edinburgh-airport",
     question: "How much did Global Infrastructure Partners (GIP) pay for Edinburgh Airport in 2012?",
     year: 2012,
     eric: {
@@ -3260,7 +3260,7 @@ export const questions = [
   },
   {
     id: 142,
-    category: "general",
+    category: "edinburgh-airport",
     question: "On 30 November 1994, an unusual aircraft operated the Edinburgh-Heathrow shuttle. What was it?",
     year: 1994,
     eric: {
@@ -3281,7 +3281,7 @@ export const questions = [
   },
   {
     id: 143,
-    category: "general",
+    category: "edinburgh-airport",
     question: "How tall is Edinburgh Airport's control tower, opened in 2005?",
     year: 2005,
     eric: {
@@ -3302,7 +3302,7 @@ export const questions = [
   },
   {
     id: 144,
-    category: "general",
+    category: "edinburgh-airport",
     question: "When did the Edinburgh tram finally reach the airport?",
     year: 2014,
     eric: {
@@ -3323,7 +3323,7 @@ export const questions = [
   },
   {
     id: 145,
-    category: "general",
+    category: "edinburgh-airport",
     question: "What was the first aircraft type to make a commercial flight from Edinburgh Airport on 19 May 1947?",
     year: 1947,
     eric: {
@@ -3344,7 +3344,7 @@ export const questions = [
   },
   {
     id: 146,
-    category: "general",
+    category: "edinburgh-airport",
     question: "What is Edinburgh Airport's ICAO code?",
     year: null,
     eric: {
@@ -3365,7 +3365,7 @@ export const questions = [
   },
   {
     id: 147,
-    category: "general",
+    category: "edinburgh-airport",
     question: "When was Edinburgh Airport's old crosswind runway 12/30 officially closed?",
     year: 2018,
     eric: {
@@ -3386,7 +3386,7 @@ export const questions = [
   },
   {
     id: 148,
-    category: "general",
+    category: "edinburgh-airport",
     question: "Which airline launched Edinburgh's first direct service to the Middle East in 2014?",
     year: 2014,
     eric: {
@@ -3407,7 +3407,7 @@ export const questions = [
   },
   {
     id: 149,
-    category: "general",
+    category: "edinburgh-airport",
     question: "What was Edinburgh Airport's all-time passenger record before COVID, set in 2019?",
     year: 2019,
     eric: {
@@ -3428,7 +3428,7 @@ export const questions = [
   },
   {
     id: 150,
-    category: "general",
+    category: "edinburgh-airport",
     question: "Which Spanish construction company owned Edinburgh Airport (via BAA) from 2006 to 2012?",
     year: 2006,
     eric: {
@@ -3449,7 +3449,7 @@ export const questions = [
   },
   {
     id: 151,
-    category: "general",
+    category: "edinburgh-airport",
     question: "A fibreglass Spitfire replica serves as a gate guardian at Edinburgh Airport. Which squadron's markings does it carry?",
     year: null,
     eric: {
@@ -3470,7 +3470,7 @@ export const questions = [
   },
   {
     id: 152,
-    category: "general",
+    category: "edinburgh-airport",
     question: "How much over budget was the Edinburgh tram project that reached the airport in 2014?",
     year: 2014,
     eric: {
@@ -3493,7 +3493,7 @@ export const questions = [
   // ─── Vauxhall Cavalier ────────────────────────────────────────
   {
     id: 153,
-    category: "general",
+    category: "vauxhall-cavalier",
     question: "The Vauxhall Cavalier Mk2 estate had its rear tailgates manufactured in an unlikely location. Where?",
     year: 1983,
     eric: {
@@ -3519,7 +3519,7 @@ export const questions = [
   },
   {
     id: 154,
-    category: "general",
+    category: "vauxhall-cavalier",
     question: "The Mk2 Cavalier Calibre special edition (1987-88) was styled by Aston Martin Tickford. How many were built, and in what colour?",
     year: 1987,
     eric: {
@@ -3545,7 +3545,7 @@ export const questions = [
   },
   {
     id: 155,
-    category: "general",
+    category: "vauxhall-cavalier",
     question: "The Mk3 Cavalier's 2.0-litre 16-valve Ecotec cylinder head was co-developed with which unlikely engineering partner?",
     year: 1994,
     eric: {
@@ -3566,7 +3566,7 @@ export const questions = [
   },
   {
     id: 156,
-    category: "general",
+    category: "vauxhall-cavalier",
     question: "What was the engine displacement of the Cavalier Mk1's launch engine in November 1975?",
     year: 1975,
     eric: {
@@ -3587,7 +3587,7 @@ export const questions = [
   },
   {
     id: 157,
-    category: "general",
+    category: "vauxhall-cavalier",
     question: "Vauxhall refused to rename the Cavalier to 'Vectra' for the Mk3. Why?",
     year: 1988,
     eric: {
@@ -3613,7 +3613,7 @@ export const questions = [
   },
   {
     id: 158,
-    category: "general",
+    category: "vauxhall-cavalier",
     question: "The Cavalier Turbo 4x4 (Mk3, 1992-94) had a C20LET engine. What was its power output and 0-60 time?",
     year: 1992,
     eric: {
@@ -3639,7 +3639,7 @@ export const questions = [
   },
   {
     id: 159,
-    category: "general",
+    category: "vauxhall-cavalier",
     question: "The Mk2 Cavalier was runner-up for European Car of the Year in 1982. Which car beat it?",
     year: 1982,
     eric: {
@@ -3660,7 +3660,7 @@ export const questions = [
   },
   {
     id: 160,
-    category: "general",
+    category: "vauxhall-cavalier",
     question: "The Mk3 Cavalier's 1.7 turbodiesel engine was built by which Japanese manufacturer?",
     year: 1992,
     eric: {
@@ -3681,7 +3681,7 @@ export const questions = [
   },
   {
     id: 161,
-    category: "general",
+    category: "vauxhall-cavalier",
     question: "John Cleland won the 1995 BTCC championship driving a Cavalier. How much power did his race car produce?",
     year: 1995,
     eric: {
@@ -3702,7 +3702,7 @@ export const questions = [
   },
   {
     id: 162,
-    category: "general",
+    category: "vauxhall-cavalier",
     question: "How many Mk1 Cavalier Centaur convertibles were built between 1978 and 1979?",
     year: 1978,
     eric: {
@@ -3725,7 +3725,7 @@ export const questions = [
   // ─── Buy cheap, buy again ─────────────────────────────────────
   {
     id: 163,
-    category: "general",
+    category: "buy-cheap",
     question: "Terry Pratchett's 'Sam Vimes Boots Theory of Socioeconomic Unfairness' appears in which 1993 Discworld novel?",
     year: 1993,
     eric: {
@@ -3746,7 +3746,7 @@ export const questions = [
   },
   {
     id: 164,
-    category: "general",
+    category: "buy-cheap",
     question: "In Terry Pratchett's boots theory, how much did a good pair of boots cost, and how long did they last?",
     year: 1993,
     eric: {
@@ -3772,7 +3772,7 @@ export const questions = [
   },
   {
     id: 165,
-    category: "general",
+    category: "buy-cheap",
     question: "The quote 'It's unwise to pay too much, but it's worse to pay too little' is often attributed to which 19th-century figure?",
     year: null,
     eric: {
@@ -3793,7 +3793,7 @@ export const questions = [
   },
   {
     id: 166,
-    category: "general",
+    category: "buy-cheap",
     question: "What is the economic term for a saving that actually costs you more in the long run?",
     year: null,
     eric: {
@@ -3814,7 +3814,7 @@ export const questions = [
   },
   {
     id: 167,
-    category: "general",
+    category: "buy-cheap",
     question: "Cheap cling film won't cling, cheap bin bags split, cheap sellotape won't stick. What Scottish engineer said 'there is hardly anything in the world that some man cannot make a little worse and sell a little cheaper'?",
     year: null,
     eric: {
@@ -3835,7 +3835,7 @@ export const questions = [
   },
   {
     id: 168,
-    category: "general",
+    category: "buy-cheap",
     question: "A cheap screwdriver that strips on first use, a cheap paintbrush that sheds bristles, cheap shoes that leak after a week. Which of these is NOT a real consumer rights term?",
     year: null,
     eric: {
@@ -3861,7 +3861,7 @@ export const questions = [
   },
   {
     id: 169,
-    category: "general",
+    category: "buy-cheap",
     question: "If a cheap £10 kettle lasts 2 years but a quality £40 kettle lasts 10 years, how much do you spend on cheap kettles over 10 years?",
     year: null,
     eric: {
@@ -3882,7 +3882,7 @@ export const questions = [
   },
   {
     id: 170,
-    category: "general",
+    category: "buy-cheap",
     question: "The phrase 'buy cheap, buy twice' has an even more Scottish variant. What is it?",
     year: null,
     eric: {
@@ -3908,7 +3908,7 @@ export const questions = [
   },
   {
     id: 171,
-    category: "general",
+    category: "buy-cheap",
     question: "The Buy Me Once movement promotes buying quality items that last a lifetime. Their website lists products with the longest warranties. What is the key principle?",
     year: null,
     eric: {
@@ -3934,7 +3934,7 @@ export const questions = [
   },
   {
     id: 172,
-    category: "general",
+    category: "buy-cheap",
     question: "Eric's philosophy of 'buy cheap, buy again' applies especially to tools. What did Philip of Macedon supposedly say about cheapness?",
     year: null,
     eric: {
@@ -3962,7 +3962,7 @@ export const questions = [
   // ─── Toyota Aygo (the gloriously basic car) ───────────────────
   {
     id: 193,
-    category: "general",
+    category: "toyota-aygo",
     question: "The Toyota Aygo's boot holds just 139 litres. How does this compare to a standard UK wheelie bin?",
     year: 2005,
     eric: {
@@ -3988,7 +3988,7 @@ export const questions = [
   },
   {
     id: 194,
-    category: "general",
+    category: "toyota-aygo",
     question: "The first-generation Toyota Aygo has a top speed that fails to reach what milestone?",
     year: 2005,
     eric: {
@@ -4014,7 +4014,7 @@ export const questions = [
   },
   {
     id: 195,
-    category: "general",
+    category: "toyota-aygo",
     question: "Toyota's 2014 marketing slogan for the Aygo was phonetically unfortunate. What was it?",
     year: 2014,
     eric: {
@@ -4040,7 +4040,7 @@ export const questions = [
   },
   {
     id: 196,
-    category: "general",
+    category: "toyota-aygo",
     question: "The Aygo, Citroen C1, and Peugeot 107 were built on the same production line. Where?",
     year: 2005,
     eric: {
@@ -4066,7 +4066,7 @@ export const questions = [
   },
   {
     id: 197,
-    category: "general",
+    category: "toyota-aygo",
     question: "The Aygo weighs about 840 kg. How many polar bears is that equivalent to?",
     year: 2005,
     eric: {
@@ -4094,7 +4094,7 @@ export const questions = [
   // ─── Yes Minister / Yes Prime Minister ────────────────────────
   {
     id: 198,
-    category: "general",
+    category: "toyota-aygo",
     question: "In Yes Minister, when Sir Humphrey describes a ministerial decision as 'courageous,' what does he really mean?",
     year: 1980,
     eric: {
@@ -4120,7 +4120,7 @@ export const questions = [
   },
   {
     id: 199,
-    category: "general",
+    category: "toyota-aygo",
     question: "What is Sir Humphrey Appleby's full set of honours?",
     year: 1980,
     eric: {
@@ -4146,7 +4146,7 @@ export const questions = [
   },
   {
     id: 200,
-    category: "general",
+    category: "toyota-aygo",
     question: "In 'The Compassionate Society,' what is remarkable about the brand-new hospital?",
     year: 1981,
     eric: {
@@ -4172,7 +4172,7 @@ export const questions = [
   },
   {
     id: 201,
-    category: "general",
+    category: "toyota-aygo",
     question: "What fictional government department does Jim Hacker run in Yes Minister?",
     year: 1980,
     eric: {
@@ -4198,7 +4198,7 @@ export const questions = [
   },
   {
     id: 202,
-    category: "general",
+    category: "toyota-aygo",
     question: "Jim Hacker's political party is never named. What colour rosette does he wear at his constituency declaration?",
     year: 1980,
     eric: {
@@ -4219,7 +4219,7 @@ export const questions = [
   },
   {
     id: 203,
-    category: "general",
+    category: "yes-minister",
     question: "Yes Minister was inspired by the published diaries of which Labour cabinet minister?",
     year: 1980,
     eric: {
@@ -4240,7 +4240,7 @@ export const questions = [
   },
   {
     id: 204,
-    category: "general",
+    category: "yes-minister",
     question: "On 20 January 1984, Margaret Thatcher performed a sketch with the Yes Minister cast. What was the premise?",
     year: 1984,
     eric: {
@@ -4266,7 +4266,7 @@ export const questions = [
   },
   {
     id: 205,
-    category: "general",
+    category: "yes-minister",
     question: "How many total episodes were made across Yes Minister and Yes, Prime Minister (original run)?",
     year: 1988,
     eric: {
@@ -4287,7 +4287,7 @@ export const questions = [
   },
   {
     id: 206,
-    category: "general",
+    category: "yes-minister",
     question: "Who composed the Yes Minister theme tune, incorporating Big Ben chimes?",
     year: 1980,
     eric: {
@@ -4308,7 +4308,7 @@ export const questions = [
   },
   {
     id: 207,
-    category: "general",
+    category: "yes-minister",
     question: "Bernard Woolley's 'irregular verb' conjugation includes: 'I give confidential press briefings; you leak; he...'?",
     year: 1980,
     eric: {
@@ -4334,7 +4334,7 @@ export const questions = [
   },
   {
     id: 208,
-    category: "general",
+    category: "yes-minister",
     question: "How many BAFTAs for Best Comedy Series did Yes Minister win consecutively?",
     year: 1982,
     eric: {
@@ -4355,7 +4355,7 @@ export const questions = [
   },
   {
     id: 209,
-    category: "general",
+    category: "yes-minister",
     question: "What are the three articles of Civil Service faith according to Yes Minister?",
     year: 1980,
     eric: {
@@ -4381,7 +4381,7 @@ export const questions = [
   },
   {
     id: 210,
-    category: "general",
+    category: "yes-minister",
     question: "Co-writer Jonathan Lynn also directed which Oscar-nominated courtroom comedy film?",
     year: 1992,
     eric: {
@@ -4402,7 +4402,7 @@ export const questions = [
   },
   {
     id: 211,
-    category: "general",
+    category: "yes-minister",
     question: "In the 'Party Games' Christmas special, how does Hacker become Prime Minister?",
     year: 1984,
     eric: {
@@ -4428,7 +4428,7 @@ export const questions = [
   },
   {
     id: 212,
-    category: "general",
+    category: "yes-minister",
     question: "Where did Yes Minister rank in the BFI's list of 100 Greatest British Television Programmes?",
     year: 2000,
     eric: {
@@ -4451,7 +4451,7 @@ export const questions = [
   // ─── Aberdeen & Edinburgh Trams ───────────────────────────────
   {
     id: 173,
-    category: "general",
+    category: "trams",
     question: "When did Aberdeen's last tram run, and what was the tram number?",
     year: 1958,
     eric: {
@@ -4472,7 +4472,7 @@ export const questions = [
   },
   {
     id: 174,
-    category: "general",
+    category: "trams",
     question: "After closure, what happened to Aberdeen's remaining tram fleet?",
     year: 1958,
     eric: {
@@ -4498,7 +4498,7 @@ export const questions = [
   },
   {
     id: 175,
-    category: "general",
+    category: "trams",
     question: "Aberdeen holds what distinction among UK municipal tramways?",
     year: null,
     eric: {
@@ -4524,7 +4524,7 @@ export const questions = [
   },
   {
     id: 176,
-    category: "general",
+    category: "trams",
     question: "Aberdeen's Queen's Cross tram depot was sold in 1960. What was it converted into?",
     year: 1960,
     eric: {
@@ -4550,7 +4550,7 @@ export const questions = [
   },
   {
     id: 177,
-    category: "general",
+    category: "trams",
     question: "Who built Aberdeen's last new trams in 1949?",
     year: 1949,
     eric: {
@@ -4576,7 +4576,7 @@ export const questions = [
   },
   {
     id: 178,
-    category: "general",
+    category: "trams",
     question: "Edinburgh's original tram system was one of the largest of what type in the world?",
     year: null,
     eric: {
@@ -4602,7 +4602,7 @@ export const questions = [
   },
   {
     id: 179,
-    category: "general",
+    category: "trams",
     question: "What was the 'Pilrig Muddle' on Edinburgh's tram system?",
     year: null,
     eric: {
@@ -4628,7 +4628,7 @@ export const questions = [
   },
   {
     id: 180,
-    category: "general",
+    category: "trams",
     question: "Edinburgh's tram No. 35 is unique in having operated on how many different tramway systems?",
     year: 1956,
     eric: {
@@ -4649,7 +4649,7 @@ export const questions = [
   },
   {
     id: 181,
-    category: "general",
+    category: "trams",
     question: "Edinburgh built most of its own trams at which depot/works?",
     year: null,
     eric: {
@@ -4670,7 +4670,7 @@ export const questions = [
   },
   {
     id: 182,
-    category: "general",
+    category: "trams",
     question: "Edinburgh's original tram livery of madder (dark red) and white is still used today by which company?",
     year: null,
     eric: {
@@ -4691,7 +4691,7 @@ export const questions = [
   },
   {
     id: 183,
-    category: "general",
+    category: "trams",
     question: "How long was Edinburgh without trams between the old system closing and the modern tram opening?",
     year: 2014,
     eric: {
@@ -4712,7 +4712,7 @@ export const questions = [
   },
   {
     id: 184,
-    category: "general",
+    category: "trams",
     question: "Edinburgh's Princes Street was converted from cable to electric tram traction in what dramatic fashion in October 1922?",
     year: 1922,
     eric: {
@@ -4738,7 +4738,7 @@ export const questions = [
   },
   {
     id: 185,
-    category: "general",
+    category: "trams",
     question: "When Edinburgh closed its tram system in 1956, what was notable about the timing in relation to passenger numbers?",
     year: 1956,
     eric: {
@@ -4764,7 +4764,7 @@ export const questions = [
   },
   {
     id: 186,
-    category: "general",
+    category: "trams",
     question: "Aberdeen's tram depot on King Street later became the headquarters of which major transport company?",
     year: null,
     eric: {
@@ -4785,7 +4785,7 @@ export const questions = [
   },
   {
     id: 187,
-    category: "general",
+    category: "trams",
     question: "Aberdeen's trams were famously fitted with what safety device, credited with saving many lives?",
     year: null,
     eric: {
@@ -4806,7 +4806,7 @@ export const questions = [
   },
   {
     id: 188,
-    category: "general",
+    category: "trams",
     question: "Edinburgh's last tram ran on 16 November 1956. How many trams were in the farewell procession?",
     year: 1956,
     eric: {
@@ -4827,7 +4827,7 @@ export const questions = [
   },
   {
     id: 189,
-    category: "general",
+    category: "trams",
     question: "How did Edinburgh's cable trams work?",
     year: null,
     eric: {
@@ -4853,7 +4853,7 @@ export const questions = [
   },
   {
     id: 190,
-    category: "general",
+    category: "trams",
     question: "When Aberdeen's tram closure was debated on 7 February 1955, Transport Convener Councillor Sinclair Hay compared the decision to what?",
     year: 1955,
     eric: {
@@ -4879,7 +4879,7 @@ export const questions = [
   },
   {
     id: 191,
-    category: "general",
+    category: "trams",
     question: "Edinburgh's old trams closed in 1956, Aberdeen's in 1958. Which Scottish city was the very last to close its tramway?",
     year: 1962,
     eric: {
@@ -4900,7 +4900,7 @@ export const questions = [
   },
   {
     id: 192,
-    category: "general",
+    category: "trams",
     question: "How many routes and trams did Edinburgh's system have at its peak in the early 1950s?",
     year: 1950,
     eric: {
@@ -4928,7 +4928,7 @@ export const questions = [
   // ─── Pylons and transmission conductors ───────────────────────
   {
     id: 213,
-    category: "general",
+    category: "pylons",
     question: "Where was the first National Grid pylon erected, and when?",
     year: 1928,
     eric: {
@@ -4954,7 +4954,7 @@ export const questions = [
   },
   {
     id: 214,
-    category: "general",
+    category: "pylons",
     question: "Who coined the word 'pylon' for electricity transmission towers, naming them after the Egyptian word for 'gateway'?",
     year: 1928,
     eric: {
@@ -4975,7 +4975,7 @@ export const questions = [
   },
   {
     id: 215,
-    category: "general",
+    category: "pylons",
     question: "In the ACSR conductor naming system, what is the nominal aluminium area of a 'Zebra' conductor?",
     year: null,
     eric: {
@@ -4996,7 +4996,7 @@ export const questions = [
   },
   {
     id: 216,
-    category: "general",
+    category: "pylons",
     question: "What does ACSR stand for in conductor terminology?",
     year: null,
     eric: {
@@ -5022,7 +5022,7 @@ export const questions = [
   },
   {
     id: 217,
-    category: "general",
+    category: "pylons",
     question: "The L6 tower series was introduced to accommodate what conductor configuration?",
     year: null,
     eric: {
@@ -5048,7 +5048,7 @@ export const questions = [
   },
   {
     id: 218,
-    category: "general",
+    category: "pylons",
     question: "What is a Stockbridge damper, and what problem does it solve?",
     year: null,
     eric: {
@@ -5074,7 +5074,7 @@ export const questions = [
   },
   {
     id: 219,
-    category: "general",
+    category: "pylons",
     question: "What causes 'galloping' in overhead conductors?",
     year: null,
     eric: {
@@ -5100,7 +5100,7 @@ export const questions = [
   },
   {
     id: 220,
-    category: "general",
+    category: "pylons",
     question: "Why do power lines hum at 100Hz rather than the 50Hz supply frequency?",
     year: null,
     eric: {
@@ -5126,7 +5126,7 @@ export const questions = [
   },
   {
     id: 221,
-    category: "general",
+    category: "pylons",
     question: "Approximately how many insulator discs are in a string for a 400kV line?",
     year: null,
     eric: {
@@ -5147,7 +5147,7 @@ export const questions = [
   },
   {
     id: 222,
-    category: "general",
+    category: "pylons",
     question: "In Scotland, 132kV is classified differently from England and Wales. How?",
     year: null,
     eric: {
@@ -5173,7 +5173,7 @@ export const questions = [
   },
   {
     id: 223,
-    category: "general",
+    category: "pylons",
     question: "What is OPGW and what dual purpose does it serve on transmission towers?",
     year: null,
     eric: {
@@ -5199,7 +5199,7 @@ export const questions = [
   },
   {
     id: 224,
-    category: "general",
+    category: "pylons",
     question: "The Beauly-Denny 400kV line in Scotland is 137 miles long. How many objections were lodged against it?",
     year: 2007,
     eric: {
@@ -5220,7 +5220,7 @@ export const questions = [
   },
   {
     id: 225,
-    category: "general",
+    category: "pylons",
     question: "What is the minimum conductor-to-ground clearance at maximum sag under UK regulations?",
     year: null,
     eric: {
@@ -5241,7 +5241,7 @@ export const questions = [
   },
   {
     id: 226,
-    category: "general",
+    category: "pylons",
     question: "The UK's first 275kV Supergrid circuit was energised in what year?",
     year: 1953,
     eric: {
@@ -5262,7 +5262,7 @@ export const questions = [
   },
   {
     id: 227,
-    category: "general",
+    category: "pylons",
     question: "What distinguishes the L12 tower series visually from the L2 and L6?",
     year: null,
     eric: {
@@ -5288,7 +5288,7 @@ export const questions = [
   },
   {
     id: 228,
-    category: "general",
+    category: "pylons",
     question: "Phase transposition on a transmission line is recommended approximately how often?",
     year: null,
     eric: {
@@ -5309,7 +5309,7 @@ export const questions = [
   },
   {
     id: 229,
-    category: "general",
+    category: "pylons",
     question: "In the ACSR animal naming system, what size is a 'Dog' conductor?",
     year: null,
     eric: {
@@ -5330,7 +5330,7 @@ export const questions = [
   },
   {
     id: 230,
-    category: "general",
+    category: "pylons",
     question: "The Scottish Highland 132kV 'trident' wood pole design has what unusual feature regarding earth wires?",
     year: null,
     eric: {
@@ -5356,7 +5356,7 @@ export const questions = [
   },
   {
     id: 231,
-    category: "general",
+    category: "pylons",
     question: "What is the parabolic formula for conductor sag?",
     year: null,
     eric: {
@@ -5382,7 +5382,7 @@ export const questions = [
   },
   {
     id: 232,
-    category: "general",
+    category: "pylons",
     question: "The T-pylon design was unveiled in 2015. Who designed it?",
     year: 2015,
     eric: {
@@ -5408,7 +5408,7 @@ export const questions = [
   },
   {
     id: 233,
-    category: "general",
+    category: "pylons",
     question: "The 1926 Electricity (Supply) Act that created the National Grid was based on the recommendations of which committee?",
     year: 1926,
     eric: {
@@ -5429,7 +5429,7 @@ export const questions = [
   },
   {
     id: 234,
-    category: "general",
+    category: "pylons",
     question: "What is the typical span length between 400kV transmission towers?",
     year: null,
     eric: {
@@ -5450,7 +5450,7 @@ export const questions = [
   },
   {
     id: 235,
-    category: "general",
+    category: "pylons",
     question: "ACCC conductor uses a composite core of carbon and glass fibre. What advantage does this give over ACSR?",
     year: null,
     eric: {
@@ -5476,7 +5476,7 @@ export const questions = [
   },
   {
     id: 236,
-    category: "general",
+    category: "pylons",
     question: "What is the purpose of a tension (strain) tower versus a suspension tower?",
     year: null,
     eric: {
@@ -5502,7 +5502,7 @@ export const questions = [
   },
   {
     id: 237,
-    category: "general",
+    category: "pylons",
     question: "Why are bundle conductors (twin, triple, or quad) used on high-voltage lines rather than a single larger conductor?",
     year: null,
     eric: {
@@ -5528,7 +5528,7 @@ export const questions = [
   },
   {
     id: 238,
-    category: "general",
+    category: "pylons",
     question: "In the ACSR naming system, which is larger: a Moose or a Zebra?",
     year: null,
     eric: {
@@ -5554,7 +5554,7 @@ export const questions = [
   },
   {
     id: 239,
-    category: "general",
+    category: "pylons",
     question: "The flapper-type bird flight diverter achieves what percentage reduction in avian mortality on power lines?",
     year: null,
     eric: {
@@ -5575,7 +5575,7 @@ export const questions = [
   },
   {
     id: 240,
-    category: "general",
+    category: "pylons",
     question: "When was the first 400kV section of the Supergrid commissioned, and where did it run?",
     year: 1965,
     eric: {
@@ -5601,7 +5601,7 @@ export const questions = [
   },
   {
     id: 241,
-    category: "general",
+    category: "pylons",
     question: "Aeolian vibration in conductors is caused by what phenomenon?",
     year: null,
     eric: {
@@ -5627,7 +5627,7 @@ export const questions = [
   },
   {
     id: 242,
-    category: "general",
+    category: "pylons",
     question: "What is the approximate cost per kilometre of Earthed Steel Trident Structures (EaSTS) for 132kV lines in Scotland, versus steel lattice towers?",
     year: null,
     eric: {
@@ -5655,7 +5655,7 @@ export const questions = [
   // ─── Trident aircraft and BA Shuttle ──────────────────────────
   {
     id: 243,
-    category: "general",
+    category: "trident-shuttle",
     question: "The Hawker Siddeley Trident had an unusual engine configuration. How many engines did the Trident 3B have?",
     year: 1969,
     eric: {
@@ -5676,7 +5676,7 @@ export const questions = [
   },
   {
     id: 244,
-    category: "general",
+    category: "trident-shuttle",
     question: "The Trident pioneered automatic landing in commercial service. When was the world's first autoland on a scheduled passenger flight?",
     year: 1965,
     eric: {
@@ -5697,7 +5697,7 @@ export const questions = [
   },
   {
     id: 245,
-    category: "general",
+    category: "trident-shuttle",
     question: "The original DH.121 design was much larger than what BEA demanded. By how much was the fuselage shortened?",
     year: null,
     eric: {
@@ -5718,7 +5718,7 @@ export const questions = [
   },
   {
     id: 246,
-    category: "general",
+    category: "trident-shuttle",
     question: "How many Tridents were built in total, compared to the rival Boeing 727?",
     year: null,
     eric: {
@@ -5739,7 +5739,7 @@ export const questions = [
   },
   {
     id: 247,
-    category: "general",
+    category: "trident-shuttle",
     question: "The 1972 Staines disaster (BEA Flight 548) killed 118 people. What was the aircraft registration?",
     year: 1972,
     eric: {
@@ -5760,7 +5760,7 @@ export const questions = [
   },
   {
     id: 248,
-    category: "general",
+    category: "trident-shuttle",
     question: "In the Staines disaster, Second Officer Keighley had how many hours as P2 (co-pilot)?",
     year: 1972,
     eric: {
@@ -5781,7 +5781,7 @@ export const questions = [
   },
   {
     id: 249,
-    category: "general",
+    category: "trident-shuttle",
     question: "Which was the largest export customer for the Trident, taking 39 aircraft?",
     year: null,
     eric: {
@@ -5802,7 +5802,7 @@ export const questions = [
   },
   {
     id: 250,
-    category: "general",
+    category: "trident-shuttle",
     question: "When was BA's last Trident flight in the UK?",
     year: 1985,
     eric: {
@@ -5823,7 +5823,7 @@ export const questions = [
   },
   {
     id: 251,
-    category: "general",
+    category: "trident-shuttle",
     question: "The BA Edinburgh-London Shuttle started in 1975 on the Glasgow route. When was Edinburgh added?",
     year: 1976,
     eric: {
@@ -5844,7 +5844,7 @@ export const questions = [
   },
   {
     id: 252,
-    category: "general",
+    category: "trident-shuttle",
     question: "What was revolutionary about the original BA Shuttle concept?",
     year: 1975,
     eric: {
@@ -5870,7 +5870,7 @@ export const questions = [
   },
   {
     id: 253,
-    category: "general",
+    category: "trident-shuttle",
     question: "What event effectively ended the BA Shuttle's walk-on, no-booking-required concept?",
     year: 2001,
     eric: {
@@ -5896,7 +5896,7 @@ export const questions = [
   },
   {
     id: 254,
-    category: "general",
+    category: "trident-shuttle",
     question: "On 30 August 1983, the BA Shuttle was rebranded. What was the new name?",
     year: 1983,
     eric: {
@@ -5917,7 +5917,7 @@ export const questions = [
   },
   {
     id: 255,
-    category: "general",
+    category: "trident-shuttle",
     question: "A Trident 1C cockpit is preserved at the National Museum of Flight near Edinburgh. What is its registration?",
     year: null,
     eric: {
@@ -5938,7 +5938,7 @@ export const questions = [
   },
   {
     id: 256,
-    category: "general",
+    category: "trident-shuttle",
     question: "How much did a BA Super Shuttle ticket cost when it launched in 1983?",
     year: 1983,
     eric: {
@@ -5959,7 +5959,7 @@ export const questions = [
   },
   {
     id: 257,
-    category: "general",
+    category: "trident-shuttle",
     question: "Which competitor started Edinburgh-Heathrow services in 1983, challenging BA's monopoly?",
     year: 1983,
     eric: {
@@ -5980,7 +5980,7 @@ export const questions = [
   },
   {
     id: 258,
-    category: "general",
+    category: "trident-shuttle",
     question: "The Trident's cruise speed was Mach 0.88. What made this remarkable?",
     year: null,
     eric: {
@@ -6006,7 +6006,7 @@ export const questions = [
   },
   {
     id: 259,
-    category: "general",
+    category: "trident-shuttle",
     question: "The Trident 3B's boost engine, the RB.162, weighed only 280 lb. What was its thrust?",
     year: null,
     eric: {
@@ -6027,7 +6027,7 @@ export const questions = [
   },
   {
     id: 260,
-    category: "general",
+    category: "trident-shuttle",
     question: "The original DH.121 design used which engine, 40% more powerful than the Spey that BEA demanded?",
     year: null,
     eric: {
@@ -6048,7 +6048,7 @@ export const questions = [
   },
   {
     id: 261,
-    category: "general",
+    category: "trident-shuttle",
     question: "There is a marooned Cyprus Airways Trident at old Nicosia Airport. Why can't anyone reach it?",
     year: 1974,
     eric: {
@@ -6074,7 +6074,7 @@ export const questions = [
   },
   {
     id: 262,
-    category: "general",
+    category: "trident-shuttle",
     question: "The BA Shuttle originally operated from which Heathrow terminal, before moving to Terminal 5 in 2008?",
     year: 1975,
     eric: {
@@ -6097,7 +6097,7 @@ export const questions = [
   // ─── Teenage slang (Eric vs his grandson) ─────────────────────
   {
     id: 263,
-    category: "general",
+    category: "teenage-slang",
     question: "Your grandson says dinner was 'bussin'.' Should you:",
     year: null,
     eric: {
@@ -6123,7 +6123,7 @@ export const questions = [
   },
   {
     id: 264,
-    category: "general",
+    category: "teenage-slang",
     question: "Your grandson texts 'no cap.' Does he mean:",
     year: null,
     eric: {
@@ -6149,7 +6149,7 @@ export const questions = [
   },
   {
     id: 265,
-    category: "general",
+    category: "teenage-slang",
     question: "Your grandson says his sister 'absolutely slayed' at her school concert. Should you:",
     year: null,
     eric: {
@@ -6175,7 +6175,7 @@ export const questions = [
   },
   {
     id: 266,
-    category: "general",
+    category: "teenage-slang",
     question: "Your grandson's friend says he's 'got mad rizz.' This means:",
     year: null,
     eric: {
@@ -6201,7 +6201,7 @@ export const questions = [
   },
   {
     id: 267,
-    category: "general",
+    category: "teenage-slang",
     question: "Your grandson calls a new film 'mid.' This means:",
     year: null,
     eric: {
@@ -6227,7 +6227,7 @@ export const questions = [
   },
   {
     id: 268,
-    category: "general",
+    category: "teenage-slang",
     question: "Your grandson says your new cardigan is 'fire.' You should:",
     year: null,
     eric: {
@@ -6253,7 +6253,7 @@ export const questions = [
   },
   {
     id: 269,
-    category: "general",
+    category: "teenage-slang",
     question: "Your grandson keeps saying 'skibidi.' What on earth does it mean?",
     year: null,
     eric: {
@@ -6279,7 +6279,7 @@ export const questions = [
   },
   {
     id: 270,
-    category: "general",
+    category: "teenage-slang",
     question: "Your grandson says you 'lost 50 aura points' when you tripped on the pavement. He means:",
     year: null,
     eric: {
@@ -6305,7 +6305,7 @@ export const questions = [
   },
   {
     id: 271,
-    category: "general",
+    category: "teenage-slang",
     question: "Your grandson texts 'SMH.' He means:",
     year: null,
     eric: {
@@ -6331,7 +6331,7 @@ export const questions = [
   },
   {
     id: 272,
-    category: "general",
+    category: "teenage-slang",
     question: "Your grandson says he has 'brainrot.' Should you:",
     year: null,
     eric: {
@@ -6357,7 +6357,7 @@ export const questions = [
   },
   {
     id: 273,
-    category: "general",
+    category: "teenage-slang",
     question: "You catch your grandson 'mewing.' He is:",
     year: null,
     eric: {
@@ -6383,7 +6383,7 @@ export const questions = [
   },
   {
     id: 274,
-    category: "general",
+    category: "teenage-slang",
     question: "Your grandson calls his teacher an 'NPC.' This means:",
     year: null,
     eric: {
@@ -6409,7 +6409,7 @@ export const questions = [
   },
   {
     id: 275,
-    category: "general",
+    category: "teenage-slang",
     question: "Your grandson says a pop star 'ate and left no crumbs.' He means:",
     year: null,
     eric: {
@@ -6435,7 +6435,7 @@ export const questions = [
   },
   {
     id: 276,
-    category: "general",
+    category: "teenage-slang",
     question: "Your grandson looks at your outfit and says 'It's giving 1970s geography teacher.' This means:",
     year: null,
     eric: {
@@ -6461,7 +6461,7 @@ export const questions = [
   },
   {
     id: 277,
-    category: "general",
+    category: "teenage-slang",
     question: "Your grandson says he was 'caught in 4K' eating the last biscuit. He means:",
     year: null,
     eric: {
@@ -6487,7 +6487,7 @@ export const questions = [
   },
   {
     id: 278,
-    category: "general",
+    category: "teenage-slang",
     question: "You tell your grandson to 'just pause the game' and come for dinner. Why does he look horrified?",
     year: null,
     eric: {
@@ -6513,7 +6513,7 @@ export const questions = [
   },
   {
     id: 279,
-    category: "general",
+    category: "teenage-slang",
     question: "Your grandson asks if you want to 'get on Discord.' He means:",
     year: null,
     eric: {
@@ -6539,7 +6539,7 @@ export const questions = [
   },
   {
     id: 280,
-    category: "general",
+    category: "teenage-slang",
     question: "Your grandson describes himself as 'a sigma.' This means:",
     year: null,
     eric: {
@@ -6565,7 +6565,7 @@ export const questions = [
   },
   {
     id: 281,
-    category: "general",
+    category: "teenage-slang",
     question: "Your grandson says his friend is 'delulu.' His friend is:",
     year: null,
     eric: {
@@ -6591,7 +6591,7 @@ export const questions = [
   },
   {
     id: 282,
-    category: "general",
+    category: "teenage-slang",
     question: "Eric tries to use teen slang at dinner. He says 'This casserole is very slay, isn't it?' His grandson's reaction is:",
     year: null,
     eric: {
@@ -6619,7 +6619,7 @@ export const questions = [
   // ─── BBC Weather Presenters ───────────────────────────────────
   {
     id: 283,
-    category: "general",
+    category: "bbc-weather",
     question: "Who was the first in-vision BBC TV weather presenter, and when did he first appear?",
     year: 1954,
     eric: {
@@ -6645,7 +6645,7 @@ export const questions = [
   },
   {
     id: 284,
-    category: "general",
+    category: "bbc-weather",
     question: "Complete Michael Fish's famous 1987 quote: 'Earlier on today, apparently, a woman rang the BBC and said she heard there was a hurricane on the way. Well, if you're watching...'",
     year: 1987,
     eric: {
@@ -6671,7 +6671,7 @@ export const questions = [
   },
   {
     id: 285,
-    category: "general",
+    category: "bbc-weather",
     question: "How many trees were felled in the Great Storm of October 1987?",
     year: 1987,
     eric: {
@@ -6692,7 +6692,7 @@ export const questions = [
   },
   {
     id: 286,
-    category: "general",
+    category: "bbc-weather",
     question: "Who designed the BBC's magnetic weather symbols (rubber symbols on steel boards), introduced on 16 August 1975?",
     year: 1975,
     eric: {
@@ -6718,7 +6718,7 @@ export const questions = [
   },
   {
     id: 287,
-    category: "general",
+    category: "bbc-weather",
     question: "Which BBC weather presenter had a Spitting Image puppet and was voted 'Britain's sexiest weather presenter' in 1994?",
     year: 1994,
     eric: {
@@ -6739,7 +6739,7 @@ export const questions = [
   },
   {
     id: 288,
-    category: "general",
+    category: "bbc-weather",
     question: "What did Tomasz Schafernaker do on live BBC News on 18 August 2010?",
     year: 2010,
     eric: {
@@ -6765,7 +6765,7 @@ export const questions = [
   },
   {
     id: 289,
-    category: "general",
+    category: "bbc-weather",
     question: "How many TRIC Awards for Best TV Weather Presenter has Carol Kirkwood won?",
     year: null,
     eric: {
@@ -6786,7 +6786,7 @@ export const questions = [
   },
   {
     id: 290,
-    category: "general",
+    category: "bbc-weather",
     question: "What was controversial about the BBC weather map redesign in May 2005?",
     year: 2005,
     eric: {
@@ -6812,7 +6812,7 @@ export const questions = [
   },
   {
     id: 291,
-    category: "general",
+    category: "bbc-weather",
     question: "What was Bill Giles' trademark sign-off gesture during his 25 years presenting BBC weather?",
     year: null,
     eric: {
@@ -6838,7 +6838,7 @@ export const questions = [
   },
   {
     id: 292,
-    category: "general",
+    category: "bbc-weather",
     question: "When was the very first BBC weather forecast broadcast?",
     year: 1922,
     eric: {
@@ -6866,7 +6866,7 @@ export const questions = [
   // ─── Perth, Scotland ──────────────────────────────────────────
   {
     id: 313,
-    category: "general",
+    category: "perth-scotland",
     question: "How many Tesco stores are there in Perth, Scotland?",
     year: null,
     eric: {
@@ -6882,7 +6882,7 @@ export const questions = [
   },
   {
     id: 314,
-    category: "general",
+    category: "perth-scotland",
     question: "King James I was murdered in Perth in 1437. How did his escape attempt through a sewer fail?",
     year: 1437,
     eric: {
@@ -6903,7 +6903,7 @@ export const questions = [
   },
   {
     id: 315,
-    category: "general",
+    category: "perth-scotland",
     question: "Why was horse racing moved from Perth's North Inch to Scone Palace grounds?",
     year: null,
     eric: {
@@ -6924,7 +6924,7 @@ export const questions = [
   },
   {
     id: 316,
-    category: "general",
+    category: "perth-scotland",
     question: "The British rod-caught salmon record has stood since 1922. What was notable about the angler who caught it?",
     year: 1922,
     eric: {
@@ -6945,7 +6945,7 @@ export const questions = [
   },
   {
     id: 317,
-    category: "general",
+    category: "perth-scotland",
     question: "St Johnstone FC won a historic cup double in 2020-21. Who scored the winning goal in BOTH finals?",
     year: 2021,
     eric: {
@@ -6961,7 +6961,7 @@ export const questions = [
   },
   {
     id: 318,
-    category: "general",
+    category: "perth-scotland",
     question: "Bell's Sports Centre in Perth had the largest timber dome in the UK until 1999. What surpassed it?",
     year: 1968,
     eric: {
@@ -6977,7 +6977,7 @@ export const questions = [
   },
   {
     id: 319,
-    category: "general",
+    category: "perth-scotland",
     question: "Perth regained city status in 2012 after losing it during local government reorganisation. What was the occasion?",
     year: 2012,
     eric: {
@@ -6998,7 +6998,7 @@ export const questions = [
   },
   {
     id: 320,
-    category: "general",
+    category: "perth-scotland",
     question: "St Johnstone's old ground Muirton Park was sold. What was built on the site?",
     year: 1989,
     eric: {
@@ -7014,7 +7014,7 @@ export const questions = [
   },
   {
     id: 321,
-    category: "general",
+    category: "perth-scotland",
     question: "What is Scotland's first free public lending library, located near Perth?",
     year: 1680,
     eric: {
@@ -7035,7 +7035,7 @@ export const questions = [
   },
   {
     id: 322,
-    category: "general",
+    category: "perth-scotland",
     question: "Perth Prison holds what distinction in the history of British capital punishment?",
     year: 1870,
     eric: {
@@ -7056,7 +7056,7 @@ export const questions = [
   },
   {
     id: 323,
-    category: "general",
+    category: "perth-scotland",
     question: "The Kinnoull Tower folly overlooking Perth was inspired by castles in which European country?",
     year: null,
     eric: {
@@ -7072,7 +7072,7 @@ export const questions = [
   },
   {
     id: 324,
-    category: "general",
+    category: "perth-scotland",
     question: "What significant historical artefact returned to Perth on 30 March 2024, displayed in the new Perth Museum?",
     year: 2024,
     eric: {
@@ -7093,7 +7093,7 @@ export const questions = [
   },
   {
     id: 325,
-    category: "general",
+    category: "perth-scotland",
     question: "At the 1396 Battle of the Clans on Perth's North Inch, one side was a man short. How was the problem solved?",
     year: 1396,
     eric: {
@@ -7114,7 +7114,7 @@ export const questions = [
   },
   {
     id: 326,
-    category: "general",
+    category: "perth-scotland",
     question: "Perth is twinned with its Australian namesake. Which other country also has a Perth that is twinned with Perth, Scotland?",
     year: null,
     eric: {
@@ -7130,7 +7130,7 @@ export const questions = [
   },
   {
     id: 327,
-    category: "general",
+    category: "perth-australia",
     question: "Why is Perth called 'The Fair City'?",
     year: 1828,
     eric: {
@@ -7153,7 +7153,7 @@ export const questions = [
   // ─── Perth, Australia ─────────────────────────────────────────
   {
     id: 328,
-    category: "general",
+    category: "perth-australia",
     question: "Perth, Australia was named after Perth, Scotland. But not because the founder was from there. Why was the name chosen?",
     year: 1829,
     eric: {
@@ -7174,7 +7174,7 @@ export const questions = [
   },
   {
     id: 329,
-    category: "general",
+    category: "perth-australia",
     question: "Perth earned the nickname 'City of Light' in 1962. Why?",
     year: 1962,
     eric: {
@@ -7195,7 +7195,7 @@ export const questions = [
   },
   {
     id: 330,
-    category: "general",
+    category: "perth-australia",
     question: "How many times has Western Australia held a referendum on daylight saving, and what was the result each time?",
     year: null,
     eric: {
@@ -7216,7 +7216,7 @@ export const questions = [
   },
   {
     id: 331,
-    category: "general",
+    category: "perth-australia",
     question: "The Perth Mint created a record-breaking gold coin in 2011. What made it remarkable?",
     year: 2011,
     eric: {
@@ -7237,7 +7237,7 @@ export const questions = [
   },
   {
     id: 332,
-    category: "general",
+    category: "perth-australia",
     question: "Why is Rottnest Island called 'Rottnest'?",
     year: 1696,
     eric: {
@@ -7258,7 +7258,7 @@ export const questions = [
   },
   {
     id: 333,
-    category: "general",
+    category: "perth-australia",
     question: "Perth's famous summer sea breeze has a medical nickname. What is it called?",
     year: null,
     eric: {
@@ -7279,7 +7279,7 @@ export const questions = [
   },
   {
     id: 334,
-    category: "general",
+    category: "perth-australia",
     question: "Kings Park in Perth contains a 750-year-old tree that was transported how far to be replanted there?",
     year: null,
     eric: {
@@ -7300,7 +7300,7 @@ export const questions = [
   },
   {
     id: 335,
-    category: "general",
+    category: "perth-australia",
     question: "Perth's Bell Tower contains bells from which famous London church?",
     year: 2000,
     eric: {
@@ -7321,7 +7321,7 @@ export const questions = [
   },
   {
     id: 336,
-    category: "general",
+    category: "perth-australia",
     question: "The Fremantle Dockers AFL team's name has an unusual origin. What is it?",
     year: 1995,
     eric: {
@@ -7342,7 +7342,7 @@ export const questions = [
   },
   {
     id: 337,
-    category: "general",
+    category: "perth-australia",
     question: "Perth Australia is roughly how many times larger in population than Perth Scotland?",
     year: null,
     eric: {
@@ -7358,7 +7358,7 @@ export const questions = [
   },
   {
     id: 338,
-    category: "general",
+    category: "perth-australia",
     question: "The road from Perth to Sydney crosses the Nullarbor Plain. How long is Australia's longest straight road on this route?",
     year: null,
     eric: {
@@ -7374,7 +7374,7 @@ export const questions = [
   },
   {
     id: 339,
-    category: "general",
+    category: "perth-australia",
     question: "Which Perth-born actor won a posthumous Oscar for playing the Joker?",
     year: 2008,
     eric: {
@@ -7390,7 +7390,7 @@ export const questions = [
   },
   {
     id: 340,
-    category: "general",
+    category: "perth-australia",
     question: "Perth's CBD public transport has an unusual feature. What is it?",
     year: 1996,
     eric: {
@@ -7411,7 +7411,7 @@ export const questions = [
   },
   {
     id: 341,
-    category: "general",
+    category: "perth-australia",
     question: "How does the size of Western Australia compare to Western Europe?",
     year: null,
     eric: {
@@ -7432,7 +7432,7 @@ export const questions = [
   },
   {
     id: 342,
-    category: "general",
+    category: "perth-australia",
     question: "The WACA cricket ground in Perth holds an unusual record. What is it?",
     year: null,
     eric: {
@@ -7455,7 +7455,7 @@ export const questions = [
   // ─── Coronation Street ────────────────────────────────────────
   {
     id: 293,
-    category: "general",
+    category: "coronation-st",
     question: "When was the first episode of Coronation Street broadcast?",
     year: 1960,
     eric: {
@@ -7471,7 +7471,7 @@ export const questions = [
   },
   {
     id: 294,
-    category: "general",
+    category: "coronation-st",
     question: "Coronation Street was nearly called something else. What was the original name, and why was it changed?",
     year: 1960,
     eric: {
@@ -7497,7 +7497,7 @@ export const questions = [
   },
   {
     id: 295,
-    category: "general",
+    category: "coronation-st",
     question: "How much was composer Eric Spear paid for the Coronation Street theme tune?",
     year: 1960,
     eric: {
@@ -7518,7 +7518,7 @@ export const questions = [
   },
   {
     id: 296,
-    category: "general",
+    category: "coronation-st",
     question: "What instrument plays the Coronation Street theme tune?",
     year: 1960,
     eric: {
@@ -7534,7 +7534,7 @@ export const questions = [
   },
   {
     id: 297,
-    category: "general",
+    category: "coronation-st",
     question: "Who is the only character to appear in Coronation Street since Episode 1?",
     year: 1960,
     eric: {
@@ -7550,7 +7550,7 @@ export const questions = [
   },
   {
     id: 298,
-    category: "general",
+    category: "coronation-st",
     question: "Hilda Ogden's famous 'muriel' featured three flying ducks. What was distinctive about the middle duck?",
     year: 1976,
     eric: {
@@ -7576,7 +7576,7 @@ export const questions = [
   },
   {
     id: 299,
-    category: "general",
+    category: "coronation-st",
     question: "How many viewers watched Hilda Ogden's departure on Christmas Day 1987?",
     year: 1987,
     eric: {
@@ -7592,7 +7592,7 @@ export const questions = [
   },
   {
     id: 300,
-    category: "general",
+    category: "coronation-st",
     question: "How was villain Alan Bradley killed in 1989, and how many viewers watched?",
     year: 1989,
     eric: {
@@ -7613,7 +7613,7 @@ export const questions = [
   },
   {
     id: 301,
-    category: "general",
+    category: "coronation-st",
     question: "During the 'Free Deirdre Rachid' campaign in 1998, which two senior politicians publicly commented on her imprisonment?",
     year: 1998,
     eric: {
@@ -7634,7 +7634,7 @@ export const questions = [
   },
   {
     id: 302,
-    category: "general",
+    category: "coronation-st",
     question: "When Ken and Deirdre reunited in February 1983, what appeared on the scoreboard at Old Trafford?",
     year: 1983,
     eric: {
@@ -7655,7 +7655,7 @@ export const questions = [
   },
   {
     id: 303,
-    category: "general",
+    category: "coronation-st",
     question: "What were Mike Baldwin's dying words to Ken Barlow?",
     year: 2006,
     eric: {
@@ -7676,7 +7676,7 @@ export const questions = [
   },
   {
     id: 304,
-    category: "general",
+    category: "coronation-st",
     question: "The cat in the Coronation Street opening credits was called Frisky. How much was his owner paid?",
     year: null,
     eric: {
@@ -7692,7 +7692,7 @@ export const questions = [
   },
   {
     id: 305,
-    category: "general",
+    category: "coronation-st",
     question: "How many hairnets did Ena Sharples (Violet Carson) wear at once, and why?",
     year: null,
     eric: {
@@ -7713,7 +7713,7 @@ export const questions = [
   },
   {
     id: 306,
-    category: "general",
+    category: "coronation-st",
     question: "Hayley Cropper (Julie Hesmondhalgh) made soap opera history. What first did the character achieve?",
     year: 1998,
     eric: {
@@ -7734,7 +7734,7 @@ export const questions = [
   },
   {
     id: 307,
-    category: "general",
+    category: "coronation-st",
     question: "How many bricks and cobbles were needed for the new Coronation Street set at ITV Trafford Wharf?",
     year: 2014,
     eric: {
@@ -7755,7 +7755,7 @@ export const questions = [
   },
   {
     id: 308,
-    category: "general",
+    category: "coronation-st",
     question: "How old was Tony Warren when Coronation Street first aired?",
     year: 1960,
     eric: {
@@ -7771,7 +7771,7 @@ export const questions = [
   },
   {
     id: 309,
-    category: "general",
+    category: "coronation-st",
     question: "Pat Phoenix (Elsie Tanner) married which man whose son-in-law later became Prime Minister?",
     year: 1986,
     eric: {
@@ -7792,7 +7792,7 @@ export const questions = [
   },
   {
     id: 310,
-    category: "general",
+    category: "coronation-st",
     question: "Who had a cameo in the live 40th anniversary episode on 8 December 2000?",
     year: 2000,
     eric: {
@@ -7808,7 +7808,7 @@ export const questions = [
   },
   {
     id: 311,
-    category: "general",
+    category: "coronation-st",
     question: "How many times has Ken Barlow been married?",
     year: null,
     eric: {
@@ -7824,7 +7824,7 @@ export const questions = [
   },
   {
     id: 312,
-    category: "general",
+    category: "coronation-st",
     question: "Kevin Kennedy, who played Curly Watts for 20 years, was in a band with two future members of which famous group?",
     year: null,
     eric: {
@@ -7841,7 +7841,7 @@ export const questions = [
 
   // ─── Scotland the What? ───────────────────────────────────────
   {
-    id: 343, category: "general",
+    id: 343, category: "scotland-the-what",
     question: "Scotland the What? was a comedy trio from Aberdeen. What were the three members' day jobs?",
     year: null,
     eric: {
@@ -7852,7 +7852,7 @@ export const questions = [
     ruth: { options: ["Hospital admin, lawyer, and teacher!", "Hospital admin, lawyer, and teacher!", "Full-time comedians (eventually)", "Eric's colleagues (they weren't)"], correct: 0, explanation: "A hospital administrator, a lawyer, and a languages teacher — who became Scotland's favourite comedy trio!" }
   },
   {
-    id: 344, category: "general",
+    id: 344, category: "scotland-the-what",
     question: "The name 'Scotland the What?' is a play on which famous Scottish song?",
     year: 1969,
     eric: {
@@ -7863,7 +7863,7 @@ export const questions = [
     ruth: { options: ["Scotland the Brave!", "Scotland the Brave!", "Scotland the Beautiful (doesn't exist)", "Scotland the What? (it's self-referential)"], correct: 0, explanation: "Scotland the Brave! Replace 'Brave' with 'What?' and you've got the perfect comedy name." }
   },
   {
-    id: 345, category: "general",
+    id: 345, category: "scotland-the-what",
     question: "What was the fictional Aberdeenshire village that featured in many Scotland the What? sketches?",
     year: null,
     eric: {
@@ -7874,7 +7874,7 @@ export const questions = [
     ruth: { options: ["Auchterturra!", "Auchterturra!", "A real place (it's not)", "Somewhere Eric would like to retire to"], correct: 0, explanation: "Auchterturra! A fictional village that felt so real, audiences recognised every character type." }
   },
   {
-    id: 346, category: "general",
+    id: 346, category: "scotland-the-what",
     question: "Who played the piano and composed all the music for Scotland the What?",
     year: null,
     eric: {
@@ -7885,7 +7885,7 @@ export const questions = [
     ruth: { options: ["George Donald!", "George Donald!", "A man with very talented fingers", "Eric (he plays a mean kazoo)"], correct: 0, explanation: "George Donald — the musical genius behind every Scotland the What? song!" }
   },
   {
-    id: 347, category: "general",
+    id: 347, category: "scotland-the-what",
     question: "Where did Scotland the What? debut in September 1969?",
     year: 1969,
     eric: {
@@ -7896,7 +7896,7 @@ export const questions = [
     ruth: { options: ["The Edinburgh Fringe!", "The Edinburgh Fringe!", "Eric's living room (invitation only)", "A pub in Aberdeen (classier than that)"], correct: 0, explanation: "The Edinburgh Fringe! From there they conquered Aberdeen and beyond." }
   },
   {
-    id: 348, category: "general",
+    id: 348, category: "scotland-the-what",
     question: "Scotland the What?'s final show was called 'The Final Fling.' When and where was it?",
     year: 1995,
     eric: {
@@ -7907,7 +7907,7 @@ export const questions = [
     ruth: { options: ["25 November 1995 at His Majesty's Theatre!", "25 November 1995 at His Majesty's Theatre!", "They're still performing (they're not, sadly)", "Eric was in the front row (probably)"], correct: 0, explanation: "25 November 1995 — their farewell show at His Majesty's Theatre, Aberdeen. All three got MBEs that year." }
   },
   {
-    id: 349, category: "general",
+    id: 349, category: "scotland-the-what",
     question: "What honour did all three members of Scotland the What? receive in 1995?",
     year: 1995,
     eric: {
@@ -7918,7 +7918,7 @@ export const questions = [
     ruth: { options: ["MBE! All three of them!", "MBE! All three of them!", "The Freedom of Auchterturra (not a real place)", "A lifetime supply of bridies"], correct: 0, explanation: "MBE for all three! Awarded in the same year as their final show." }
   },
   {
-    id: 350, category: "general",
+    id: 350, category: "scotland-the-what",
     question: "In 2007, Aberdeen City Council awarded Scotland the What? a rare honour. What was it?",
     year: 2007,
     eric: {
@@ -7929,7 +7929,7 @@ export const questions = [
     ruth: { options: ["Freedom of the City!", "Freedom of the City!", "The keys to Eric's cupboard (high honour)", "A golden butterie"], correct: 0, explanation: "Freedom of Aberdeen! Same honour given to Nelson Mandela and Winston Churchill." }
   },
   {
-    id: 351, category: "general",
+    id: 351, category: "scotland-the-what",
     question: "What was Buff Hardie's real first name, and how did he get the nickname 'Buff'?",
     year: null,
     eric: {
@@ -7940,7 +7940,7 @@ export const questions = [
     ruth: { options: ["William! 'Buffalo Bill' became 'Buff'!", "William! 'Buffalo Bill' became 'Buff'!", "His real name was Buff (it wasn't)", "Nobody knows (everyone knew)"], correct: 0, explanation: "William 'Buffalo Bill' Hardie — nicknamed at primary school. Even his obituaries called him Buff." }
   },
   {
-    id: 352, category: "general",
+    id: 352, category: "scotland-the-what",
     question: "Buff Hardie helped design which major Aberdeen building in his day job?",
     year: null,
     eric: {
@@ -7951,7 +7951,7 @@ export const questions = [
     ruth: { options: ["Aberdeen Royal Infirmary!", "Aberdeen Royal Infirmary!", "The Auchterturra Village Hall (fictional)", "Eric's cupboard (surprisingly complex to design)"], correct: 0, explanation: "Aberdeen Royal Infirmary! He designed hospitals by day and wrote comedy by night." }
   },
   {
-    id: 353, category: "general",
+    id: 353, category: "scotland-the-what",
     question: "Where did Buff Hardie and Steve Robertson first meet?",
     year: 1952,
     eric: {
@@ -7962,7 +7962,7 @@ export const questions = [
     ruth: { options: ["The Aberdeen Student Show in 1952!", "The Aberdeen Student Show in 1952!", "A comedy club (Aberdeen didn't have one)", "In Eric's cupboard (very social, that cupboard)"], correct: 0, explanation: "The 1952 Student Show at Aberdeen University! A friendship that lasted over 40 years." }
   },
   {
-    id: 354, category: "general",
+    id: 354, category: "scotland-the-what",
     question: "Steve Robertson was elected to what position at Aberdeen University in 2008?",
     year: 2008,
     eric: {
@@ -7973,7 +7973,7 @@ export const questions = [
     ruth: { options: ["Rector!", "Rector!", "Head of Comedy Studies (not a real course)", "Eric's boss (Eric doesn't go to university)"], correct: 0, explanation: "Rector of Aberdeen University! Elected by the students — from comedian to university leader." }
   },
   {
-    id: 355, category: "general",
+    id: 355, category: "scotland-the-what",
     question: "George Donald ended his teaching career at which school — coincidentally in the same city as his eventual death?",
     year: null,
     eric: {
@@ -7984,7 +7984,7 @@ export const questions = [
     ruth: { options: ["Perth Academy — and he died in Perth too!", "Perth Academy — and he died in Perth too!", "The School of Comedy (not a real school)", "Eric's old school (nope)"], correct: 0, explanation: "Perth Academy! He taught French and German there, then stayed in Perth for the rest of his life." }
   },
   {
-    id: 356, category: "general",
+    id: 356, category: "scotland-the-what",
     question: "Which London venue did Scotland the What? perform at in 1985?",
     year: 1985,
     eric: {
@@ -7995,7 +7995,7 @@ export const questions = [
     ruth: { options: ["The Queen Elizabeth Hall!", "The Queen Elizabeth Hall!", "Wembley (not quite that famous)", "Eric's spare room in London (he doesn't have one)"], correct: 0, explanation: "The Queen Elizabeth Hall on London's South Bank! Aberdeen's finest on the London stage." }
   },
   {
-    id: 357, category: "general",
+    id: 357, category: "scotland-the-what",
     question: "How many years did Scotland the What? perform, and how often did they produce a new show?",
     year: null,
     eric: {
@@ -8006,7 +8006,7 @@ export const questions = [
     ruth: { options: ["26 years, new show every two years!", "26 years, new show every two years!", "Forever (felt like it to their wives)", "About as long as Eric's been fitting screwdrivers"], correct: 0, explanation: "26 years with a new show every two years! Each one premiered at His Majesty's Theatre, Aberdeen." }
   },
   {
-    id: 358, category: "general",
+    id: 358, category: "scotland-the-what",
     question: "Their producer Jimmy Logan had to use the name 'James' professionally. Why?",
     year: null,
     eric: {
@@ -8017,7 +8017,7 @@ export const questions = [
     ruth: { options: ["Another Jimmy Logan already existed!", "Another Jimmy Logan already existed!", "He thought James sounded posher", "Eric insisted (Eric is very particular about names)"], correct: 0, explanation: "There was already a famous Jimmy Logan in showbiz! Equity rules meant no two performers could share a name." }
   },
   {
-    id: 359, category: "general",
+    id: 359, category: "scotland-the-what",
     question: "Who was the last surviving member of Scotland the What?, and when did he die?",
     year: 2020,
     eric: {
@@ -8028,7 +8028,7 @@ export const questions = [
     ruth: { options: ["Buff Hardie — December 2020", "Buff Hardie — December 2020", "They're all still going (sadly not)", "The piano survived the longest"], correct: 0, explanation: "Buff Hardie, the last of the trio, died in December 2020 during the Covid pandemic. He was 89." }
   },
   {
-    id: 360, category: "general",
+    id: 360, category: "scotland-the-what",
     question: "Buff Hardie watched which legendary cricketer score a century at Mannofield in Aberdeen in 1948?",
     year: 1948,
     eric: {
@@ -8039,7 +8039,7 @@ export const questions = [
     ruth: { options: ["Don Bradman! The greatest batsman ever!", "Don Bradman! The greatest batsman ever!", "Eric (he once hit a 6 at school)", "A man with a very large bat"], correct: 0, explanation: "Don Bradman — the greatest cricketer of all time, playing in Aberdeen! Buff was there to see it." }
   },
   {
-    id: 361, category: "general",
+    id: 361, category: "scotland-the-what",
     question: "Which famous sketch parodied a long-running BBC Scotland gardening programme?",
     year: 1979,
     eric: {
@@ -8050,7 +8050,7 @@ export const questions = [
     ruth: { options: ["The Beechgrove Garden!", "The Beechgrove Garden!", "Gardeners' Corner (not a real show)", "Eric's allotment show (he doesn't have an allotment)"], correct: 0, explanation: "The Beechgrove Garden! Parodying the actual BBC Scotland programme filmed in Aberdeen." }
   },
   {
-    id: 362, category: "general",
+    id: 362, category: "scotland-the-what",
     question: "For how many consecutive years did Scotland the What? take over Hogmanay broadcasts on television?",
     year: null,
     eric: {
@@ -8061,7 +8061,7 @@ export const questions = [
     ruth: { options: ["12 years of Hogmanay!", "12 years of Hogmanay!", "Every year since 1960 (not quite)", "Eric watches them every New Year (probably)"], correct: 0, explanation: "12 years! Aberdeen's Hogmanay wouldn't have been the same without Scotland the What? on the telly." }
   },
   {
-    id: 363, category: "general",
+    id: 363, category: "scotland-the-what",
     question: "The trio had a superstitious ritual before every performance. What was it?",
     year: null,
     eric: {
@@ -8072,7 +8072,7 @@ export const questions = [
     ruth: { options: ["A handshake before every show!", "A handshake before every show!", "A group hug (they were too Scottish for that)", "They checked Eric was in the audience (he always was)"], correct: 0, explanation: "A handshake! Every single show for 26 years. Simple, superstitious, and Scottish." }
   },
   {
-    id: 364, category: "general",
+    id: 364, category: "scotland-the-what",
     question: "All three members received honorary degrees from Aberdeen University. When?",
     year: 1994,
     eric: {
@@ -8083,7 +8083,7 @@ export const questions = [
     ruth: { options: ["1994 — Honorary Master's degrees!", "1994 — Honorary Master's degrees!", "Eric has one too (he doesn't)", "All three graduated with honours in comedy"], correct: 0, explanation: "Honorary Master's degrees in 1994! The university they'd first met at honoured them 42 years later." }
   },
   {
-    id: 365, category: "general",
+    id: 365, category: "scotland-the-what",
     question: "How were Scotland the What? described in their original Edinburgh Fringe billing?",
     year: 1969,
     eric: {
@@ -8099,7 +8099,7 @@ export const questions = [
     ruth: { options: ["Three semi-literate Scots!", "Three semi-literate Scots!", "Three very funny men (more accurate)", "Eric's favourite act (definitely)"], correct: 0, explanation: "'Three semi-literate Scots taking an irreverent look at their country's institutions' — modesty and comedy in one billing." }
   },
   {
-    id: 366, category: "general",
+    id: 366, category: "scotland-the-what",
     question: "What was the running time of the 'Trans-Buchan Airways' sketch?",
     year: null,
     eric: {
@@ -8110,7 +8110,7 @@ export const questions = [
     ruth: { options: ["About 10 minutes!", "About 10 minutes!", "3 hours (it felt like it in a good way)", "As long as a real flight to Buchan (Buchan doesn't have an airport)"], correct: 0, explanation: "About 10 minutes! A fictional airline serving rural Aberdeenshire — the comedy practically wrote itself." }
   },
   {
-    id: 367, category: "general",
+    id: 367, category: "scotland-the-what",
     question: "How many releases (vinyl, cassette, CD, DVD) did Scotland the What? produce in total?",
     year: null,
     eric: {
@@ -8121,7 +8121,7 @@ export const questions = [
     ruth: { options: ["11 releases!", "11 releases!", "Thousands (they were very prolific)", "Just the one (it was very long)"], correct: 0, explanation: "11 releases! From vinyl LPs in the 1970s to DVDs in the 2000s. All the classics preserved." }
   },
   {
-    id: 368, category: "general",
+    id: 368, category: "scotland-the-what",
     question: "George Donald was part of a post-retirement cabaret ensemble called 'Music Box.' Who were his partners?",
     year: null,
     eric: {
@@ -8132,7 +8132,7 @@ export const questions = [
     ruth: { options: ["Donald Maxwell and Linda Ormiston!", "Donald Maxwell and Linda Ormiston!", "Eric and Ruth (they can't sing)", "Three new semi-literate Scots"], correct: 0, explanation: "An opera baritone and a soprano! George went from Doric comedy to Edinburgh International Festival cabaret." }
   },
   {
-    id: 369, category: "general",
+    id: 369, category: "scotland-the-what",
     question: "Buff Hardie's writing partner before Steve Robertson was Alfie Wood. Where did they write together?",
     year: null,
     eric: {
@@ -8143,7 +8143,7 @@ export const questions = [
     ruth: { options: ["In the army during National Service!", "In the army during National Service!", "In Eric's cupboard (surprisingly spacious)", "At comedy school (doesn't exist)"], correct: 0, explanation: "During National Service! Even in the army, Buff was writing comedy sketches." }
   },
   {
-    id: 370, category: "general",
+    id: 370, category: "scotland-the-what",
     question: "An Early Day Motion was tabled in the UK Parliament to honour which member of Scotland the What? after his death?",
     year: 2011,
     eric: {
@@ -8154,7 +8154,7 @@ export const questions = [
     ruth: { options: ["Steve Robertson!", "Steve Robertson!", "All three (they were all worth an EDM)", "Eric (for services to screwdriver organisation)"], correct: 0, explanation: "Steve Robertson — honoured in Parliament after his death. From Aberdeen stages to the House of Commons." }
   },
   {
-    id: 371, category: "general",
+    id: 371, category: "scotland-the-what",
     question: "Their first vinyl LP was recorded live at His Majesty's Theatre. On what date?",
     year: 1973,
     eric: {
@@ -8165,7 +8165,7 @@ export const questions = [
     ruth: { options: ["21 November 1973!", "21 November 1973!", "Nobody recorded the date (someone did)", "Eric was there (he definitely was)"], correct: 0, explanation: "21 November 1973! The first of many live recordings at His Majesty's Theatre." }
   },
   {
-    id: 372, category: "general",
+    id: 372, category: "scotland-the-what",
     question: "In what order did the three members of Scotland the What? die?",
     year: null,
     eric: {
@@ -8183,217 +8183,217 @@ export const questions = [
 
   // ─── Forfar Bridies ───────────────────────────────────────────
   {
-    id: 373, category: "general", question: "What crucial ingredient is in a Cornish pasty but NEVER in a traditional Forfar Bridie?", year: null,
+    id: 373, category: "forfar-bridies", question: "What crucial ingredient is in a Cornish pasty but NEVER in a traditional Forfar Bridie?", year: null,
     eric: { options: ["Potato", "Onion", "Beef", "Salt"], correct: 0, explanation: "A traditional Forfar Bridie contains NO potato — just beef, suet, optional onion, salt and pepper. No carrot, no turnip, no gravy, no herbs. The PGI specification is strict: it's a meat-only pastry." },
     ruth: { options: ["Potato! Bridies are all meat, no tatties!", "Potato! Bridies are all meat, no tatties!", "Unicorn tears (hard to source)", "Eric's secret ingredient (it's more salt)"], correct: 0, explanation: "No potato! A Forfar Bridie is beef, suet, and that's basically it." }
   },
   {
-    id: 374, category: "general", question: "According to the official PGI specification, what does ONE hole in a Forfar Bridie indicate?", year: null,
+    id: 374, category: "forfar-bridies", question: "According to the official PGI specification, what does ONE hole in a Forfar Bridie indicate?", year: null,
     eric: { options: ["Contains onions", "Does NOT contain onions (plain)", "Contains extra beef", "Is a large/special size"], correct: 0, explanation: "Per the PGI specification: 1 hole = onions, 2 holes = no onions ('a without'). BUT Wikipedia says the opposite! The PGI spec, prepared by the Forfar Bridie Producers' Association, is the more authoritative source." },
     ruth: { options: ["Onions! (But some people say the opposite!)", "Onions! (But some people say the opposite!)", "It's for looking through", "Nobody can agree (actually true)"], correct: 0, explanation: "Officially: 1 hole = onions. But half of Scotland thinks it's the other way round!" }
   },
   {
-    id: 375, category: "general", question: "Who is commonly credited with inventing the Forfar Bridie?", year: null,
+    id: 375, category: "forfar-bridies", question: "Who is commonly credited with inventing the Forfar Bridie?", year: null,
     eric: { options: ["Margaret 'Maggie' Bridie of Glamis", "David Jolly of Forfar", "James Torry of Aberdeen", "All are claimed — nobody knows for certain"], correct: 3, explanation: "Nobody knows! Maggie Bridie of Glamis (1779-1864) is the most popular story, but David Jolly (1846) and James Torry of Aberdeen (1833) are also credited." },
     ruth: { options: ["Nobody actually knows!", "Nobody actually knows!", "Eric invented them (he didn't)", "A woman called Mrs Bridie (possibly)"], correct: 0, explanation: "Nobody knows for certain! Several people are credited but the true inventor is lost to history." }
   },
   {
-    id: 376, category: "general", question: "What is the famous Dundee shibboleth involving bridies?", year: null,
+    id: 376, category: "forfar-bridies", question: "What is the famous Dundee shibboleth involving bridies?", year: null,
     eric: { options: ["'Twa bridies, a plen ane an an ingin ane an a'", "'Gie's a bridie wi' broon sauce an' a'", "'A'll hae a bridie, an' mak it a guid ane'", "'Fit's in yer bridie, like?'"], correct: 0, explanation: "'Twa bridies, a plen ane an an ingin ane an a' — 'Two bridies, a plain one and an onion one as well.' Famously difficult for non-Dundonians to pronounce." },
     ruth: { options: ["'Twa bridies, a plen ane an an ingin ane an a'!", "'Twa bridies, a plen ane an an ingin ane an a'!", "Try saying that after three pints", "Eric can say it perfectly (can he though?)"], correct: 0, explanation: "If you can say it right, you're from Dundee!" }
   },
   {
-    id: 377, category: "general", question: "What type of pastry is used in an authentic Forfar Bridie?", year: null,
+    id: 377, category: "forfar-bridies", question: "What type of pastry is used in an authentic Forfar Bridie?", year: null,
     eric: { options: ["Shortcrust", "Puff", "Flaky", "Hot water crust"], correct: 0, explanation: "Authentic Forfar Bridies use shortcrust pastry. Outside Forfar, many bakeries use puff or flaky pastry, but the genuine article is always shortcrust. No egg wash either." },
     ruth: { options: ["Shortcrust! Not puff!", "Shortcrust! Not puff!", "Cardboard (feels like it sometimes)", "The same pastry Eric uses (he doesn't bake)"], correct: 0, explanation: "Shortcrust! Many people think puff, but the authentic version is shortcrust." }
   },
   {
-    id: 378, category: "general", question: "Forfar Athletic FC's mascot is a person dressed as a giant bridie. What is the mascot's name?", year: null,
+    id: 378, category: "forfar-bridies", question: "Forfar Athletic FC's mascot is a person dressed as a giant bridie. What is the mascot's name?", year: null,
     eric: { options: ["Baxter the Bridie", "Bertie the Bridie", "Billy the Bridie", "Brian the Bridie"], correct: 0, explanation: "Baxter the Bridie bounces around before matches at Station Park. Forfar Athletic are nicknamed 'The Loons' (Doric for young men)." },
     ruth: { options: ["Baxter the Bridie!", "Baxter the Bridie!", "A giant walking pastry", "Eric in a costume (he'd do it)"], correct: 0, explanation: "Baxter the Bridie! A giant anthropomorphic bridie." }
   },
   {
-    id: 379, category: "general", question: "McLaren's bakery was founded in 1893. How many generations have now been involved?", year: 1893,
+    id: 379, category: "forfar-bridies", question: "McLaren's bakery was founded in 1893. How many generations have now been involved?", year: 1893,
     eric: { options: ["Six", "Five", "Four", "Seven"], correct: 0, explanation: "Six generations — currently Karen Murray (5th gen) with daughter Sarah (6th gen). Their rival Saddler's was founded 1897." },
     ruth: { options: ["Six generations!", "Six generations!", "One very old baker", "Eric's family (screwdrivers not bridies)"], correct: 0, explanation: "Six generations of bridie-making! Over 130 years." }
   },
   {
-    id: 380, category: "general", question: "J.M. Barrie described the bridie in his 1896 novel Sentimental Tommy. What did he call it?", year: 1896,
+    id: 380, category: "forfar-bridies", question: "J.M. Barrie described the bridie in his 1896 novel Sentimental Tommy. What did he call it?", year: 1896,
     eric: { options: ["'A sublime kind of pie'", "'The finest pastry in Christendom'", "'A hot pocket of joy'", "'The working man's feast'"], correct: 0, explanation: "Barrie called it 'a sublime kind of pie' with gravy oozing from a paper bag — one of the earliest literary references." },
     ruth: { options: ["'A sublime kind of pie'!", "'A sublime kind of pie'!", "Peter Pan's favourite snack", "Eric's favourite (he prefers stovies)"], correct: 0, explanation: "The man who created Peter Pan called bridies 'a sublime kind of pie.'" }
   },
   {
-    id: 381, category: "general", question: "When Prince Edward was named Earl of Forfar in 2019, what did he do on his first visit?", year: 2019,
+    id: 381, category: "forfar-bridies", question: "When Prince Edward was named Earl of Forfar in 2019, what did he do on his first visit?", year: 2019,
     eric: { options: ["Visited both Saddler's and McLaren's to sample bridies", "Officially opened a new bridie factory", "Judged a bridie competition", "Declared the bridie a national treasure"], correct: 0, explanation: "He diplomatically visited BOTH rival bakeries. He also received a specially designed 'Earl of Forfar' tartan." },
     ruth: { options: ["He tried bridies at BOTH bakeries!", "He tried bridies at BOTH bakeries!", "He asked for a Cornish pasty (diplomatic incident)", "Eric showed him the cupboard"], correct: 0, explanation: "Diplomatically trying both! Avoiding the great Forfar bakery rivalry." }
   },
   {
-    id: 382, category: "general", question: "The Forfar Bridie PGI requires another PGI-protected product as an ingredient. What?", year: null,
+    id: 382, category: "forfar-bridies", question: "The Forfar Bridie PGI requires another PGI-protected product as an ingredient. What?", year: null,
     eric: { options: ["Scotch Beef PGI", "Scottish Oats PGI", "Orkney Cheddar PGI", "Stornoway Black Pudding PGI"], correct: 0, explanation: "Scotch Beef PGI — a protected product requiring another protected product. PGI inception." },
     ruth: { options: ["Scotch Beef PGI — protected inside protected!", "Scotch Beef PGI — protected inside protected!", "Eric's secret sauce", "Premium-grade Scottish air"], correct: 0, explanation: "A protected product that requires ANOTHER protected product. Very meta." }
   },
   {
-    id: 383, category: "general", question: "What is a bridie without onion called in Forfar?", year: null,
+    id: 383, category: "forfar-bridies", question: "What is a bridie without onion called in Forfar?", year: null,
     eric: { options: ["'A without'", "'A plain'", "'A dry'", "'A naked'"], correct: 0, explanation: "A bridie without onion is called 'a without' — you can walk into a bakery and say 'a without.'" },
     ruth: { options: ["'A without'!", "'A without'!", "'A lonely bridie'", "A mistake (always get onion)"], correct: 0, explanation: "'A without'! Scottish directness at its finest." }
   },
   {
-    id: 384, category: "general", question: "Where is the crimp on a Forfar Bridie compared to a Cornish pasty?", year: null,
+    id: 384, category: "forfar-bridies", question: "Where is the crimp on a Forfar Bridie compared to a Cornish pasty?", year: null,
     eric: { options: ["Bridie: curved top edge. Pasty: straight side", "Bridie: straight bottom. Pasty: top", "Both in the same place", "Bridie: all around. Pasty: one edge"], correct: 0, explanation: "The bridie is crimped along the curved top edge. The Cornish pasty has its rope crimp along one straight side (historically used as a handle by tin miners)." },
     ruth: { options: ["Bridie: curve. Pasty: side!", "Bridie: curve. Pasty: side!", "The crimp goes wherever it wants", "Eric crimps differently (don't ask)"], correct: 0, explanation: "Different crimp positions! It matters to bridie purists." }
   },
   {
-    id: 385, category: "general", question: "The horseshoe shape of the bridie may be linked to what tradition?", year: null,
+    id: 385, category: "forfar-bridies", question: "The horseshoe shape of the bridie may be linked to what tradition?", year: null,
     eric: { options: ["Wedding feasts — horseshoes for good luck", "Farriers' suppers — blacksmiths shaped them", "Cattle markets — fit in saddlebags", "Church fairs — resembled a bishop's mitre"], correct: 0, explanation: "Horseshoes symbolise good luck, and 'bridie' may derive from 'bride's meal.' Bridies remain traditional at Scottish weddings in the Angus area." },
     ruth: { options: ["Weddings! Good luck for the bride!", "Weddings! Good luck for the bride!", "Horses liked the shape", "Eric's wedding had bridies (did it?)"], correct: 0, explanation: "The horseshoe shape may symbolise good luck at weddings!" }
   },
   {
-    id: 386, category: "general", question: "How long was Bill McLaren's career making bridies at McLaren's bakery?", year: null,
+    id: 386, category: "forfar-bridies", question: "How long was Bill McLaren's career making bridies at McLaren's bakery?", year: null,
     eric: { options: ["About 60 years (teens to age 78)", "About 40 years", "About 50 years", "About 30 years"], correct: 0, explanation: "Bill McLaren made bridies from his teens until age 78 — roughly 60 years. He hand-made several hundred thousand bridies. He died October 2022, aged 82." },
     ruth: { options: ["About 60 years!", "About 60 years!", "His whole life (basically true)", "Longer than Eric's been fitting screwdrivers"], correct: 0, explanation: "60 years of bridie-making! Hundreds of thousands of bridies." }
   },
   {
-    id: 387, category: "general", question: "Which of Forfar's two rival bakeries was founded first?", year: null,
+    id: 387, category: "forfar-bridies", question: "Which of Forfar's two rival bakeries was founded first?", year: null,
     eric: { options: ["McLaren's (1893)", "Saddler's (1897)", "Same year", "Both claim different dates"], correct: 0, explanation: "McLaren's 1893, Saddler's 1897. Four years apart. Locals are firmly in one camp or the other." },
     ruth: { options: ["McLaren's! 1893!", "McLaren's! 1893!", "It depends who you ask", "Eric prefers one but won't say which"], correct: 0, explanation: "McLaren's by four years — 1893 vs 1897. The great Forfar bakery rivalry." }
   },
 
   // ─── Not the Nine O'Clock News ────────────────────────────────
-  { id: 388, category: "general", question: "In the NTNON 'Gerald the Gorilla' sketch, Gerald corrects the professor about when he was caught. What year does Gerald say?", year: 1980,
+  { id: 388, category: "ntnon", question: "In the NTNON 'Gerald the Gorilla' sketch, Gerald corrects the professor about when he was caught. What year does Gerald say?", year: 1980,
     eric: { options: ["'68", "'67", "'69", "'66"], correct: 0, explanation: "The professor says ''67 I think it was...' and Gerald corrects him: ''68.' The joke is that Gerald (Rowan Atkinson in a gorilla suit) is more articulate and knowledgeable than Professor Timothy Fielding (Mel Smith)." },
     ruth: { options: ["'68!", "'68!", "Gerald can't talk (he's a gorilla — but he can!)", "Eric knows (Eric always knows)"], correct: 0, explanation: "'68! Gerald was smarter than the professor. Classic." } },
-  { id: 389, category: "general", question: "In the Gerald the Gorilla sketch, when the professor says Gerald was 'completely wild,' Gerald responds with what?", year: 1980,
+  { id: 389, category: "ntnon", question: "In the Gerald the Gorilla sketch, when the professor says Gerald was 'completely wild,' Gerald responds with what?", year: 1980,
     eric: { options: ["'Wild? I was absolutely livid!'", "'Wild? I was perfectly civilised!'", "'Wild? I was merely enthusiastic!'", "'Wild? I was moderately irritated!'"], correct: 0, explanation: "'Wild? I was absolutely livid!' — one of the most quoted lines from NTNON. Gerald is more articulate, funnier, and smarter than the professor throughout." },
     ruth: { options: ["'I was absolutely livid!'", "'I was absolutely livid!'", "He threw a banana (he didn't)", "Eric would also be livid"], correct: 0, explanation: "'Wild? I was absolutely livid!' One of the greatest comedy lines ever written." } },
-  { id: 390, category: "general", question: "In Gerald the Gorilla, whose name does Gerald keep bringing up, to the professor's fury?", year: 1980,
+  { id: 390, category: "ntnon", question: "In Gerald the Gorilla, whose name does Gerald keep bringing up, to the professor's fury?", year: 1980,
     eric: { options: ["David Attenborough", "David Bellamy", "Johnny Morris", "Desmond Morris"], correct: 0, explanation: "'David Attenborough! All I ever hear is David bloody Attenborough!' Gerald's mother apparently got on very well with Attenborough. The professor was jealous." },
     ruth: { options: ["David Attenborough!", "David Attenborough!", "Eric Davidson (wrong show)", "Sir David (even gorillas are polite)"], correct: 0, explanation: "David Attenborough! Gerald's mother loved him. The professor was NOT pleased." } },
-  { id: 391, category: "general", question: "In the Constable Savage sketch, how many trumped-up charges has Savage brought against the same man in one month?", year: 1980,
+  { id: 391, category: "ntnon", question: "In the Constable Savage sketch, how many trumped-up charges has Savage brought against the same man in one month?", year: 1980,
     eric: { options: ["117", "107", "127", "97"], correct: 0, explanation: "117 charges against Mr Winston Kodogo of 55 Mercer Road. Including 'loitering with intent to use a pedestrian crossing,' 'walking in a loud shirt in a built-up area during the hours of darkness,' and 'coughing without due care and attention.'" },
     ruth: { options: ["117 ridiculous charges!", "117 ridiculous charges!", "Just the one (but it was very silly)", "Eric has been charged with none of these"], correct: 0, explanation: "117 absurd charges against one man! Including 'smelling of foreign food.'" } },
-  { id: 392, category: "general", question: "In Constable Savage, where is Savage transferred to as 'punishment'? Why is this ironic?", year: 1980,
+  { id: 392, category: "ntnon", question: "In Constable Savage, where is Savage transferred to as 'punishment'? Why is this ironic?", year: 1980,
     eric: { options: ["The S.P.G. (Special Patrol Group) — itself notorious for racist policing", "Scotland Yard's Internal Affairs — which didn't actually investigate racism", "Traffic duty — where he couldn't arrest anyone", "A desk job — effectively a promotion"], correct: 0, explanation: "The S.P.G. (Special Patrol Group) — the real-life SPG was notorious for accusations of racist policing, making the 'punishment' deeply ironic. Savage is being sent somewhere even worse." },
     ruth: { options: ["The SPG — which was even MORE racist!", "The SPG — which was even MORE racist!", "A very naughty step", "Eric's cupboard (there's room for everyone)"], correct: 0, explanation: "The Special Patrol Group! Sending a racist officer to the unit most accused of racism. Brilliant satire." } },
-  { id: 393, category: "general", question: "In the NTNON Hi-Fi Shop sketch, what old-fashioned word does the customer use that the snobbish assistants ridicule?", year: null,
+  { id: 393, category: "ntnon", question: "In the NTNON Hi-Fi Shop sketch, what old-fashioned word does the customer use that the snobbish assistants ridicule?", year: null,
     eric: { options: ["Gramophone", "Wireless", "Phonograph", "Record player"], correct: 0, explanation: "The customer (Mel Smith) walks in asking for a 'gramophone' and is mercilessly ridiculed by the snobbish assistants (Atkinson and Rhys Jones) for his old-fashioned terminology. They humiliate him, eventually putting a paper bag on his head." },
     ruth: { options: ["Gramophone!", "Gramophone!", "Eric still calls it a gramophone", "A music-playing-thingy (technical term)"], correct: 0, explanation: "Gramophone! The snobbish shop assistants couldn't believe anyone still used such an old-fashioned word." } },
-  { id: 394, category: "general", question: "Who was NOT a writer for Not the Nine O'Clock News — a common misconception?", year: null,
+  { id: 394, category: "ntnon", question: "Who was NOT a writer for Not the Nine O'Clock News — a common misconception?", year: null,
     eric: { options: ["Ben Elton", "Richard Curtis", "Andy Hamilton", "David Renwick"], correct: 0, explanation: "Ben Elton was NOT a NTNON writer — he came later as co-writer for Blackadder II. Richard Curtis wrote more than half of NTNON. David Renwick (later One Foot in the Grave) and Andy Hamilton were also writers. Even Stephen Fry contributed as an undergraduate." },
     ruth: { options: ["Ben Elton! He came later with Blackadder!", "Ben Elton! He came later with Blackadder!", "Eric (he's funnier than he looks)", "The gorilla (Gerald wrote his own material)"], correct: 0, explanation: "Ben Elton! Everyone thinks he wrote NTNON but he didn't — he joined for Blackadder II." } },
-  { id: 395, category: "general", question: "Pamela Stephenson left entertainment entirely after NTNON. What is her second career?", year: null,
+  { id: 395, category: "ntnon", question: "Pamela Stephenson left entertainment entirely after NTNON. What is her second career?", year: null,
     eric: { options: ["Clinical psychologist", "Architect", "Marine biologist", "Barrister"], correct: 0, explanation: "She became a clinical psychologist, obtaining a doctorate from the California Graduate Institute in 1996. She co-founded the Los Angeles Sexuality Centre and married Billy Connolly, writing his biography 'Billy' (2002)." },
     ruth: { options: ["A psychologist! Married Billy Connolly!", "A psychologist! Married Billy Connolly!", "A gorilla trainer (inspired by Gerald)", "Eric's therapist (he needs one)"], correct: 0, explanation: "A clinical psychologist! And she married Billy Connolly. From sketch comedy to psychology and Scotland's greatest comedian." } },
-  { id: 396, category: "general", question: "What was the second NTNON album called, and what chart position did it reach?", year: 1981,
+  { id: 396, category: "ntnon", question: "What was the second NTNON album called, and what chart position did it reach?", year: 1981,
     eric: { options: ["Hedgehog Sandwich — UK top 10", "The Memory Kinda Lingers — UK top 20", "Gorilla Tactics — UK top 10", "The Gramophone Album — UK top 5"], correct: 0, explanation: "Hedgehog Sandwich reached the UK top 10 in 1981. Both of the first two albums reaching the top 10 was a rare feat for spoken-word comedy albums." },
     ruth: { options: ["Hedgehog Sandwich!", "Hedgehog Sandwich!", "Not a real sandwich (don't try it)", "Eric's favourite album (he can quote every sketch)"], correct: 0, explanation: "Hedgehog Sandwich — top 10 in the UK charts! Not bad for a comedy album." } },
-  { id: 397, category: "general", question: "Which cast member replaced Chris Langham from Series 2 onwards?", year: 1980,
+  { id: 397, category: "ntnon", question: "Which cast member replaced Chris Langham from Series 2 onwards?", year: 1980,
     eric: { options: ["Griff Rhys Jones", "Stephen Fry", "Ben Elton", "Hugh Laurie"], correct: 0, explanation: "Griff Rhys Jones replaced Langham, who 'did not quite fit in.' Rhys Jones had studied at Cambridge (Footlights Vice-President 1976). He and Mel Smith later co-founded TalkBack Productions, sold for £62 million in 2000." },
     ruth: { options: ["Griff Rhys Jones!", "Griff Rhys Jones!", "Eric (he was available)", "The gorilla (Gerald was overqualified)"], correct: 0, explanation: "Griff Rhys Jones! He and Mel Smith then went on to make Alas Smith and Jones." } },
-  { id: 398, category: "general", question: "What did Gerald the Gorilla claim NOT to eat, to the professor's accusation?", year: 1980,
+  { id: 398, category: "ntnon", question: "What did Gerald the Gorilla claim NOT to eat, to the professor's accusation?", year: 1980,
     eric: { options: ["Daffodils", "Bananas", "The professor's research papers", "Garden furniture"], correct: 0, explanation: "'I do NOT eat daffodils.' 'Well, somebody does, don't they?' Gerald spent his money on Johnny Mathis records rather than, as the professor expected, peanuts, bananas, and carpet cleaner." },
     ruth: { options: ["Daffodils!", "Daffodils!", "Eric's sandwiches (he guards them carefully)", "Everything (gorillas eat everything)"], correct: 0, explanation: "'I do NOT eat daffodils!' One of Gerald's most indignant moments." } },
-  { id: 399, category: "general", question: "Who composed the music for NTNON, including a new pastiche song every week?", year: 1979,
+  { id: 399, category: "ntnon", question: "Who composed the music for NTNON, including a new pastiche song every week?", year: 1979,
     eric: { options: ["Howard Goodall", "Neil Innes", "Ronnie Hazlehurst", "Richard Stilgoe"], correct: 0, explanation: "Howard Goodall composed new pastiche songs weekly in the style of ABBA, punk, ska, heavy metal, etc. He later composed themes for Blackadder, Red Dwarf, and The Vicar of Dibley." },
     ruth: { options: ["Howard Goodall!", "Howard Goodall!", "The gorilla (he was musical)", "Eric on the kazoo"], correct: 0, explanation: "Howard Goodall! He wrote a new parody song every single week, each in a different musical style." } },
-  { id: 400, category: "general", question: "In the Constable Savage sketch, what is the name and address of the man Savage keeps arresting?", year: 1980,
+  { id: 400, category: "ntnon", question: "In the Constable Savage sketch, what is the name and address of the man Savage keeps arresting?", year: 1980,
     eric: { options: ["Mr Winston Kodogo, 55 Mercer Road", "Mr Winston Kodogo, 55 Market Street", "Mr James Kodogo, 55 Mercer Road", "Mr Winston Mbeki, 55 Mercer Road"], correct: 0, explanation: "Mr Winston Kodogo of 55 Mercer Road — the victim of 117 trumped-up charges including 'being in possession of curly black hair and thick lips.' The sketch brilliantly exposed institutional racism in policing." },
     ruth: { options: ["Mr Winston Kodogo, 55 Mercer Road!", "Mr Winston Kodogo, 55 Mercer Road!", "Eric (he's been arrested for nothing)", "A very patient man"], correct: 0, explanation: "Mr Winston Kodogo, 55 Mercer Road — victim of 117 absurd charges from one racist constable." } },
-  { id: 401, category: "general", question: "Rowan Atkinson held an unusual driving qualification that was used during filming of 'I Like Trucking.' What was it?", year: null,
+  { id: 401, category: "ntnon", question: "Rowan Atkinson held an unusual driving qualification that was used during filming of 'I Like Trucking.' What was it?", year: null,
     eric: { options: ["A Class 1 HGV licence", "A motorcycle licence for vehicles over 500cc", "An aircraft pilot's licence", "A London taxi Knowledge certificate"], correct: 0, explanation: "Atkinson held a Class 1 HGV licence and actually drove the truck during filming. He studied Electrical and Electronic Engineering at Newcastle before switching to comedy at Oxford." },
     ruth: { options: ["An HGV licence! He drove the truck himself!", "An HGV licence! He drove the truck himself!", "A licence to be funny (not a real licence)", "Eric also has an HGV licence (does he?)"], correct: 0, explanation: "Rowan Atkinson really drove that truck! He had a Class 1 HGV licence. Mr Bean behind the wheel of an artic." } },
-  { id: 402, category: "general", question: "The General Synod's Life of Christ sketch parodied the controversy over which Monty Python film?", year: 1979,
+  { id: 402, category: "ntnon", question: "The General Synod's Life of Christ sketch parodied the controversy over which Monty Python film?", year: 1979,
     eric: { options: ["Life of Brian", "The Holy Grail", "The Meaning of Life", "And Now for Something Completely Different"], correct: 0, explanation: "The sketch inverted the real Life of Brian blasphemy controversy: a bishop (Atkinson) has directed 'The Life of Christ' and is hauled over the coals by a representative of the 'Church of Python' (Mel Smith), who claims it attacks 'Our Lord, John Cleese.'" },
     ruth: { options: ["Life of Brian!", "Life of Brian!", "Eric's favourite film (is it?)", "The one with the parrot (wrong sketch show)"], correct: 0, explanation: "Life of Brian! The sketch brilliantly reversed the real controversy — the 'Church of Python' defending John Cleese." } },
 
   // ─── Doric dialect ────────────────────────────────────────────
-  { id: 403, category: "general", question: "In Doric, what does 'Fit like?' mean?", year: null,
+  { id: 403, category: "doric", question: "In Doric, what does 'Fit like?' mean?", year: null,
     eric: { options: ["How are you?", "What's that?", "Where is it?", "Who's there?"], correct: 0, explanation: "'Fit like?' is the classic Doric greeting — literally 'What like?' but meaning 'How are you?' The stereotypical response is 'Nae bad' or 'Jist tyaavin awa' (just struggling along)." },
     ruth: { options: ["How are you!", "How are you!", "Something about fitness (nope)", "Eric says this every morning"], correct: 0, explanation: "'Fit like?' = How are you? The most famous Doric phrase." } },
-  { id: 404, category: "general", question: "The most distinctive Doric feature is replacing 'wh' with what letter?", year: null,
+  { id: 404, category: "doric", question: "The most distinctive Doric feature is replacing 'wh' with what letter?", year: null,
     eric: { options: ["F (what→fit, where→far, who→fa)", "Ch (what→chat, where→chair)", "Th (what→that, where→there)", "V (what→vat, where→var)"], correct: 0, explanation: "The f-for-wh substitution: What→Fit, Where→Far, Who→Fa, When→Fan, Why→Fit wye, How→Foo. This creates the classic puzzle: 'Fit fit fits fit fit?' (Which foot fits which foot?)." },
     ruth: { options: ["F! What becomes Fit, Where becomes Far!", "F! What becomes Fit, Where becomes Far!", "Z (everything sounds like a bee)", "Eric knows (he's been practising)"], correct: 0, explanation: "F! The defining feature of Doric — what becomes fit, where becomes far, who becomes fa." } },
-  { id: 405, category: "general", question: "What does 'Fit fit fits fit fit?' mean in Doric?", year: null,
+  { id: 405, category: "doric", question: "What does 'Fit fit fits fit fit?' mean in Doric?", year: null,
     eric: { options: ["Which foot fits which foot?", "What thing fits what thing?", "Why does this fit work?", "How does this fit together?"], correct: 0, explanation: "'Fit fit fits fit fit?' = 'Which foot fits which foot?' Five 'fits' in a row, each perfectly meaningful. This is genuine Doric and the classic example of the f-for-wh rule." },
     ruth: { options: ["Which foot fits which foot!", "Which foot fits which foot!", "A tongue twister (definitely)", "Eric can say it (can he though?)"], correct: 0, explanation: "Which foot fits which foot! Five 'fits' in a row. Pure Doric poetry." } },
-  { id: 406, category: "general", question: "In Doric, what is a 'loon'?", year: null,
+  { id: 406, category: "doric", question: "In Doric, what is a 'loon'?", year: null,
     eric: { options: ["A boy", "A fool", "A tall person", "A fisherman"], correct: 0, explanation: "A loon is a boy or young man. A girl is a 'quine.' Together: 'loons and quines' = boys and girls. Forfar Athletic FC are nicknamed 'The Loons.'" },
     ruth: { options: ["A boy!", "A boy!", "A crazy person (that's English, not Doric)", "Eric (sometimes)"], correct: 0, explanation: "A boy! 'Loons and quines' = boys and girls in Doric." } },
-  { id: 407, category: "general", question: "What is a 'quine' in Doric?", year: null,
+  { id: 407, category: "doric", question: "What is a 'quine' in Doric?", year: null,
     eric: { options: ["A girl or young woman", "A queen", "A coin", "A complaint"], correct: 0, explanation: "A quine (also 'quinie') is a girl or young woman. From the same root as 'queen.' The classic Doric pairing: loons (boys) and quines (girls)." },
     ruth: { options: ["A girl!", "A girl!", "A queen (close but not quite)", "Ruth (she's the quine of the family)"], correct: 0, explanation: "A girl! 'Quine' comes from the same root as 'queen.'" } },
-  { id: 408, category: "general", question: "What does 'Foos yer doos?' literally translate as, and what does it actually mean?", year: null,
+  { id: 408, category: "doric", question: "What does 'Foos yer doos?' literally translate as, and what does it actually mean?", year: null,
     eric: { options: ["'How are your pigeons?' — but actually means 'How are you?'", "'Where are your shoes?' — a comment on fashion", "'Who are your friends?' — a social enquiry", "'How are your daughters?' — asking about family"], correct: 0, explanation: "'Foos yer doos?' literally means 'How are your pigeons?' but is used as a humorous informal greeting meaning 'How are you?' The Doric love of understatement and indirection at its finest." },
     ruth: { options: ["How are your pigeons! (It means how are you!)", "How are your pigeons! (It means how are you!)", "Eric's pigeons are fine (he doesn't have pigeons)", "A very confusing way to say hello"], correct: 0, explanation: "'How are your pigeons?' but it means 'How are you?' Doric is wonderfully indirect." } },
-  { id: 409, category: "general", question: "Aberdeen is sometimes called 'The Furry Boots Toon.' Why?", year: null,
+  { id: 409, category: "doric", question: "Aberdeen is sometimes called 'The Furry Boots Toon.' Why?", year: null,
     eric: { options: ["From 'Far aboots are ye frae?' (Where abouts are you from?) — 'far aboots' sounds like 'furry boots'", "Aberdeen was famous for selling fur-lined boots", "A corruption of 'Ferry Boats Town' (Aberdeen's harbour)", "Named after a brand of boots sold at the Castlegate market"], correct: 0, explanation: "When you arrive in Aberdeen, people ask 'Furry boots are ye frae?' — Doric for 'Where abouts are you from?' 'Far aboots' sounds like 'furry boots' to non-speakers. Ian Rankin used this in his Rebus novel Black and Blue." },
     ruth: { options: ["'Far aboots' sounds like 'furry boots'!", "'Far aboots' sounds like 'furry boots'!", "Aberdonians love furry boots (they don't)", "Eric has furry boots (he doesn't)"], correct: 0, explanation: "'Where abouts?' in Doric sounds like 'furry boots' to outsiders. Hence Aberdeen = The Furry Boots Toon!" } },
-  { id: 410, category: "general", question: "What is a 'butterie' (or 'rowie') and why was it invented?", year: null,
+  { id: 410, category: "doric", question: "What is a 'butterie' (or 'rowie') and why was it invented?", year: null,
     eric: { options: ["A salty flaky bread roll, invented for fishermen — high fat content stops it going stale at sea", "A buttered oatcake for Highland cattle drovers", "A sweet pastry from Aberdeenshire bakeries", "A type of bread pudding from farming communities"], correct: 0, explanation: "A butterie/rowie is a salty, flaky bread roll unique to Aberdeen, made with flour, butter, LARD, salt, sugar, and yeast. Created for fishermen — the high fat content meant it wouldn't go stale during weeks at sea." },
     ruth: { options: ["A salty roll for fishermen! Wouldn't go stale at sea!", "A salty roll for fishermen! Wouldn't go stale at sea!", "Eric's favourite breakfast (probably)", "Like a croissant but better (and saltier)"], correct: 0, explanation: "A salty, buttery, flaky roll invented for Aberdeen fishermen. Think croissant but saltier and flatter." } },
-  { id: 411, category: "general", question: "What does 'dreich' mean?", year: null,
+  { id: 411, category: "doric", question: "What does 'dreich' mean?", year: null,
     eric: { options: ["Dreary, gloomy, grey, miserable weather", "Extremely cold with frost", "Heavy rain with thunder", "A sudden clearing after rain"], correct: 0, explanation: "Dreich = dreary, gloomy, bleak, grey, devoid of sunshine — the quintessential Scottish weather word. A dreich day is one where the sky is uniformly grey and it might drizzle, but it's the joylessness that defines it." },
     ruth: { options: ["Miserable, grey weather!", "Miserable, grey weather!", "Every day in Aberdeen (harsh but fair)", "Eric's mood on Mondays"], correct: 0, explanation: "Dreich = grey, miserable, devoid of sunshine. The most Scottish weather word there is." } },
-  { id: 412, category: "general", question: "What is a 'haar'?", year: null,
+  { id: 412, category: "doric", question: "What is a 'haar'?", year: null,
     eric: { options: ["A cold sea fog that rolls in off the North Sea", "A warm summer breeze from the west", "A sudden heavy downpour", "A light frost on autumn mornings"], correct: 0, explanation: "A haar is a cold sea mist/fog that rolls in from the North Sea — hauntingly beautiful and particular to Scotland's east coast, especially Aberdeen. It can reduce visibility dramatically and feel bone-chillingly cold even in summer." },
     ruth: { options: ["A cold sea fog!", "A cold sea fog!", "A type of hairstyle (it's not)", "Eric's reaction to cold weather (brrr)"], correct: 0, explanation: "A cold, ghostly sea fog from the North Sea. Aberdeen speciality. Ruins many a summer afternoon." } },
-  { id: 413, category: "general", question: "What is 'skirlie' and where does the name come from?", year: null,
+  { id: 413, category: "doric", question: "What is 'skirlie' and where does the name come from?", year: null,
     eric: { options: ["Fried oatmeal with onions — named for the skirling (high-pitched) sound it makes frying", "Skirt steak fried in dripping — named for the cut of meat", "A type of oatcake — named for its skirt-like shape", "A whisky toddy — named for the swirling motion"], correct: 0, explanation: "Skirlie = pinhead oats fried with onions in beef suet/dripping. 'Skirl' means a high-pitched sound — the noise the ingredients make in the hot pan. Served as a side dish or stuffing." },
     ruth: { options: ["Fried oatmeal! Named for the noise it makes!", "Fried oatmeal! Named for the noise it makes!", "Something Eric makes (noisily)", "A very loud breakfast"], correct: 0, explanation: "Fried oats with onions — named for the skirling sound they make in the pan!" } },
-  { id: 414, category: "general", question: "What does 'stovies' mean and when is it traditionally eaten?", year: null,
+  { id: 414, category: "doric", question: "What does 'stovies' mean and when is it traditionally eaten?", year: null,
     eric: { options: ["A potato/meat stew — traditionally a Monday dish using Sunday roast leftovers", "A type of seafood chowder — traditionally on Fridays", "Baked oatmeal cakes — traditionally at breakfast", "Smoked fish pâté — traditionally at New Year"], correct: 0, explanation: "Stovies = potatoes, onions, and leftover meat cooked slowly in dripping. Name from Scots 'stove' (from French 'étuver') meaning to cook gently. Served with oatcakes, pickled beetroot, and cold milk." },
     ruth: { options: ["A Monday dinner from Sunday's leftovers!", "A Monday dinner from Sunday's leftovers!", "Eric's signature dish", "Something Ruth makes better than Eric"], correct: 0, explanation: "Stovies! Leftover Sunday roast turned into Monday dinner. Every family's recipe is different." } },
-  { id: 415, category: "general", question: "In Disney/Pixar's Brave, Young MacGuffin speaks Doric. What's the running joke?", year: 2012,
+  { id: 415, category: "doric", question: "In Disney/Pixar's Brave, Young MacGuffin speaks Doric. What's the running joke?", year: 2012,
     eric: { options: ["Nobody — including his own father — can understand what he's saying", "He keeps accidentally insulting the other clans", "His Doric sounds like he's casting magic spells", "He translates everything into three languages simultaneously"], correct: 0, explanation: "Nobody can understand Young MacGuffin, including his own father. Actor Kevin McKidd (from Elgin) suggested using his grandfather's Doric for the character. A perfect in-joke for North-East Scots." },
     ruth: { options: ["Nobody can understand him — not even his dad!", "Nobody can understand him — not even his dad!", "Sounds about right for Doric", "Eric understood every word (he claims)"], correct: 0, explanation: "Even his own father can't understand his Doric! Kevin McKidd used his real grandfather's dialect." } },
-  { id: 416, category: "general", question: "Lewis Grassic Gibbon's novel Sunset Song topped a 2016 BBC poll as what?", year: 2016,
+  { id: 416, category: "doric", question: "Lewis Grassic Gibbon's novel Sunset Song topped a 2016 BBC poll as what?", year: 2016,
     eric: { options: ["Scotland's favourite book", "Britain's best wartime novel", "The greatest novel in Scots", "The Booker Prize's greatest omission"], correct: 0, explanation: "Sunset Song (1932) was voted Scotland's Favourite Book in a 2016 BBC poll. It's part of 'A Scots Quair' trilogy ('quair' = book in Scots). Protagonist Chris Guthrie is torn between Doric and English." },
     ruth: { options: ["Scotland's favourite book!", "Scotland's favourite book!", "Eric's favourite book (is it though?)", "A book about sunsets (it's about much more)"], correct: 0, explanation: "Scotland's favourite book! Set in the Mearns, written in the rhythms of Doric." } },
-  { id: 417, category: "general", question: "What does 'snell' mean in Doric weather terms?", year: null,
+  { id: 417, category: "doric", question: "What does 'snell' mean in Doric weather terms?", year: null,
     eric: { options: ["Bitingly cold wind that seems to cut the skin", "Heavy snowfall", "A sudden thunderstorm", "A brief sunny spell between showers"], correct: 0, explanation: "Snell = a sharp, cutting, biting cold — often applied to wind. Distinct from just 'caul' (cold). A snell wind feels like it's slicing through your clothes." },
     ruth: { options: ["A biting, cutting cold wind!", "A biting, cutting cold wind!", "Eric in winter (he's always cold)", "The opposite of warm (obviously)"], correct: 0, explanation: "Snell = a wind so cold it cuts through you. Scotland has very specific words for different kinds of miserable weather." } },
-  { id: 418, category: "general", question: "Which poet is so associated with Doric that he became known by the title of his most famous collection, 'Hamewith'?", year: 1900,
+  { id: 418, category: "doric", question: "Which poet is so associated with Doric that he became known by the title of his most famous collection, 'Hamewith'?", year: 1900,
     eric: { options: ["Charles Murray", "Lewis Grassic Gibbon", "Robert Burns", "Hugh MacDiarmid"], correct: 0, explanation: "Charles Murray (1864-1941) wrote 'Hamewith' (meaning 'homewards') in 1900 while living as a civil engineer in South Africa. He became so identified with it that people called HIM 'Hamewith.' His poems capture North-East characters in authentic Doric." },
     ruth: { options: ["Charles Murray — they called him 'Hamewith'!", "Charles Murray — they called him 'Hamewith'!", "Eric 'Screwdriver' Davidson (different kind of fame)", "A very homesick poet"], correct: 0, explanation: "Charles Murray! He wrote about home so beautifully from South Africa that he became known by his book's title." } },
-  { id: 419, category: "general", question: "Peterhead's nickname is 'The Blue Toon.' Why?", year: null,
+  { id: 419, category: "doric", question: "Peterhead's nickname is 'The Blue Toon.' Why?", year: null,
     eric: { options: ["From the blue stockings/clothing worn by fisher folk — they were called 'Blue Mogganers'", "From the blue granite quarried nearby", "From the blue fishing boats in the harbour", "From a famous blue-painted pub on the high street"], correct: 0, explanation: "Peterhead's fisher folk wore coarse blue stockings ('mogganers') over their sea boots. The stockings were dyed with local woad. 'Blue Mogganers' became the nickname for Peterhead folk, and the town became 'The Blue Toon.'" },
     ruth: { options: ["Blue stockings on the fishermen!", "Blue stockings on the fishermen!", "They were sad (it was cold and wet)", "Eric's favourite colour is blue (is it?)"], correct: 0, explanation: "The fishermen wore blue stockings! 'Blue Mogganers' they were called, and the town became The Blue Toon." } },
-  { id: 420, category: "general", question: "What does 'affa' mean in Doric, and how is it used?", year: null,
+  { id: 420, category: "doric", question: "What does 'affa' mean in Doric, and how is it used?", year: null,
     eric: { options: ["Awful/very — used as an intensifier ('affa bonnie' = very pretty)", "Afraid — used to express fear", "Away — used to mean departed", "Offer — used in bargaining"], correct: 0, explanation: "'Affa' means both 'awful' and 'very' — it's used as an intensifier. 'Affa bonnie' = very pretty, 'affa coorse' = very bad, 'affa caul' = very cold. The context determines whether it's positive or negative." },
     ruth: { options: ["Very! 'Affa bonnie' means very pretty!", "Very! 'Affa bonnie' means very pretty!", "Eric is affa good at fitting screwdrivers", "A word with two meanings (very and awful)"], correct: 0, explanation: "'Affa' means both 'awful' and 'very'! Context is everything. 'Affa bonnie' = very pretty. 'Affa coorse' = very rough." } },
-  { id: 421, category: "general", question: "What does 'drookit' mean?", year: null,
+  { id: 421, category: "doric", question: "What does 'drookit' mean?", year: null,
     eric: { options: ["Soaking wet / drenched", "Extremely hungry", "Very tired", "Badly dressed"], correct: 0, explanation: "Drookit = soaking wet, drenched — typically from being caught in the rain. 'I'm absolutely drookit' = I'm soaked through. A very useful word in Aberdeen." },
     ruth: { options: ["Soaking wet!", "Soaking wet!", "Eric after walking the dog in the haar", "Something that happens often in Scotland"], correct: 0, explanation: "Soaking wet! 'Drookit' — what happens when you go out in Aberdeen without a coat." } },
-  { id: 422, category: "general", question: "In 2006, who became the first MSP to take their oath in Doric at the Scottish Parliament?", year: 2006,
+  { id: 422, category: "doric", question: "In 2006, who became the first MSP to take their oath in Doric at the Scottish Parliament?", year: 2006,
     eric: { options: ["Maureen Watt (SNP)", "Alex Salmond (SNP)", "Brian Adam (SNP)", "Richard Lochhead (SNP)"], correct: 0, explanation: "Maureen Watt became the first member of the Scottish Parliament to take her oath in Doric, making a public statement about the importance of Doric language and culture." },
     ruth: { options: ["Maureen Watt!", "Maureen Watt!", "Eric (he's not an MSP)", "Nobody understood a word (but it was valid!)"], correct: 0, explanation: "Maureen Watt! The first MSP to take the oath in Doric. A proud moment for the North-East." } },
-  { id: 423, category: "general", question: "A seagull is called a 'pyool' in Peterhead and a 'scurry' in Aberdeen. What is it called in Buckie?", year: null,
+  { id: 423, category: "doric", question: "A seagull is called a 'pyool' in Peterhead and a 'scurry' in Aberdeen. What is it called in Buckie?", year: null,
     eric: { options: ["A gow", "A maw", "A skreich", "A peedie"], correct: 0, explanation: "A seagull is a 'gow' in Buckie, a 'pyool' in Peterhead, and a 'scurry' in Aberdeen. Three different Doric words for the same bird, all within about 60 miles of each other. 'The language changes every 5 miles.'" },
     ruth: { options: ["A gow!", "A gow!", "A seagull (too simple for Doric)", "Something noisy (all seagulls are noisy)"], correct: 0, explanation: "A gow! Three towns, three completely different words for seagull. Doric varies every few miles." } },
-  { id: 424, category: "general", question: "What are 'foggietoddlers' in Doric?", year: null,
+  { id: 424, category: "doric", question: "What are 'foggietoddlers' in Doric?", year: null,
     eric: { options: ["Bumblebees", "Toddlers who are fussy eaters", "Old men who walk slowly", "Mushrooms"], correct: 0, explanation: "Foggietoddlers = bumblebees! One of the most delightful Doric words. The imagery of a fat bee toddling through the fog of a Scottish garden is perfect." },
     ruth: { options: ["Bumblebees!", "Bumblebees!", "Very small old men", "Eric after too much whisky"], correct: 0, explanation: "Bumblebees! Possibly the most charming word in any dialect, anywhere." } },
-  { id: 425, category: "general", question: "What does 'dinna fash yersel' mean?", year: null,
+  { id: 425, category: "doric", question: "What does 'dinna fash yersel' mean?", year: null,
     eric: { options: ["Don't worry yourself", "Don't rush yourself", "Don't embarrass yourself", "Don't exhaust yourself"], correct: 0, explanation: "'Dinna' = don't, 'fash' = worry/trouble, 'yersel' = yourself. 'Dinna fash yersel' = Don't worry about it. One of the most widely known Scots phrases, used across Scotland, not just in Doric." },
     ruth: { options: ["Don't worry!", "Don't worry!", "Good advice from Eric", "What Ruth says to Eric every morning"], correct: 0, explanation: "Don't worry yourself! The most reassuring phrase in the Scots language." } },
-  { id: 426, category: "general", question: "What is Fraserburgh's Doric nickname?", year: null,
+  { id: 426, category: "doric", question: "What is Fraserburgh's Doric nickname?", year: null,
     eric: { options: ["The Broch", "The Blue Toon", "The Silver City", "The Fish Toon"], correct: 0, explanation: "'The Broch' — from the old Scots word for 'fort' or 'burgh.' Peterhead is 'The Blue Toon' and Aberdeen is 'The Granite City' or 'The Furry Boots Toon.'" },
     ruth: { options: ["The Broch!", "The Broch!", "The place with the harbour", "Eric's never been (he should visit)"], correct: 0, explanation: "The Broch! From the Scots word for fort. Every North-East town has its own Doric nickname." } },
-  { id: 427, category: "general", question: "The typical Doric response to 'Fit like?' is famously understated. What is the classic reply?", year: null,
+  { id: 427, category: "doric", question: "The typical Doric response to 'Fit like?' is famously understated. What is the classic reply?", year: null,
     eric: { options: ["'Nae bad' or 'Jist tyaavin awa'", "'Affa weel, thank ye'", "'Champion, yersel?'", "'Fine and dandy'"], correct: 0, explanation: "'Nae bad' (not bad) or 'Jist tyaavin awa' (just struggling along/toiling away). Even if everything is wonderful, a Doric speaker would never say so. Excessive positivity would be alien. Understatement is the culture." },
     ruth: { options: ["'Nae bad' — always understated!", "'Nae bad' — always understated!", "Eric says 'nae bad' even when he's brilliant", "'Could be worse' (the Scottish way)"], correct: 0, explanation: "'Nae bad' — the ultimate in Scottish understatement. Even on the best day of your life: 'nae bad.'" } },
-  { id: 428, category: "general", question: "Queen Elizabeth II was revealed to speak Doric with villagers near which of her residences?", year: null,
+  { id: 428, category: "doric", question: "Queen Elizabeth II was revealed to speak Doric with villagers near which of her residences?", year: null,
     eric: { options: ["Balmoral Castle, Deeside", "Holyroodhouse, Edinburgh", "The Castle of Mey, Caithness", "Glamis Castle, Angus"], correct: 0, explanation: "The Queen spoke Doric with villagers near Balmoral on Deeside. Locals revealed after her death that she conversed in the dialect with ease and comfort — a side of her rarely seen publicly." },
     ruth: { options: ["Balmoral! The Queen spoke Doric!", "Balmoral! The Queen spoke Doric!", "Even the Queen said 'fit like?'", "Eric is impressed (and he's hard to impress)"], correct: 0, explanation: "Balmoral! The Queen could chat in Doric with the locals. Even royalty speaks Doric." } },
-  { id: 429, category: "general", question: "What is the Doric word for mashed potatoes?", year: null,
+  { id: 429, category: "doric", question: "What is the Doric word for mashed potatoes?", year: null,
     eric: { options: ["Chappit tatties", "Birled tatties", "Stotted tatties", "Clattered tatties"], correct: 0, explanation: "Chappit tatties — 'chappit' means mashed/chopped, 'tatties' means potatoes. 'Neeps' are turnips. So 'chappit tatties an' neeps' = mashed potatoes and turnips — a Burns Supper staple." },
     ruth: { options: ["Chappit tatties!", "Chappit tatties!", "Squishy potatoes (close enough)", "Eric's favourite (with lots of butter)"], correct: 0, explanation: "Chappit tatties! 'Chappit' = mashed, 'tatties' = potatoes. Essential knowledge for Burns Night." } },
-  { id: 430, category: "general", question: "In Doric, what does 'like snaa aff a dyke' mean?", year: null,
+  { id: 430, category: "doric", question: "In Doric, what does 'like snaa aff a dyke' mean?", year: null,
     eric: { options: ["Selling or going very quickly (like snow off a wall)", "Melting away gradually", "Appearing suddenly from nowhere", "Being unreliable or flaky"], correct: 0, explanation: "'Like snaa aff a dyke' = like snow off a wall — meaning something sold or disappeared very quickly. 'The butteries went like snaa aff a dyke' = the butteries sold out instantly." },
     ruth: { options: ["Selling out super fast!", "Selling out super fast!", "Eric going to the pub (very quickly)", "Snow falling off things (literally)"], correct: 0, explanation: "Like snow off a wall — gone in a flash! Used when something sells out instantly." } },
-  { id: 431, category: "general", question: "What does 'speirin'' mean in Doric?", year: null,
+  { id: 431, category: "doric", question: "What does 'speirin'' mean in Doric?", year: null,
     eric: { options: ["Asking / enquiring", "Spying / watching", "Speaking / talking", "Spending / wasting"], correct: 0, explanation: "'Speir' = to ask or enquire. 'Speirin'' = asking. 'Dinna be speirin' at me!' = Don't be asking me! Related to the German 'spüren' (to feel/sense)." },
     ruth: { options: ["Asking!", "Asking!", "Eric is always speirin' (asking questions)", "A type of fishing (it's not)"], correct: 0, explanation: "Asking! 'Speir' = to ask. Related to the German word 'spüren.' Doric has many Germanic connections." } },
-  { id: 432, category: "general", question: "In 2025, the Scottish Parliament passed an act giving Scots (including Doric) official status. What was it called?", year: 2025,
+  { id: 432, category: "doric", question: "In 2025, the Scottish Parliament passed an act giving Scots (including Doric) official status. What was it called?", year: 2025,
     eric: { options: ["The Scottish Languages Act 2025", "The Scots Language Recognition Act 2025", "The Doric Preservation Act 2025", "The Languages of Scotland Act 2025"], correct: 0, explanation: "The Scottish Languages Act 2025, passed on 17 June 2025, gave Scots official status alongside Gaelic. Doric is treated within the Scots language continuum. In 2018, Aberdeenshire Council had already approved a Doric language strategy for 152 primary and 17 secondary schools." },
     ruth: { options: ["The Scottish Languages Act 2025!", "The Scottish Languages Act 2025!", "The 'Fit Like?' Act (not its real name)", "Eric approves (he's a traditionalist)"], correct: 0, explanation: "The Scottish Languages Act 2025! Scots — including Doric — is now officially recognised by law." } }
 
