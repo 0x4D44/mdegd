@@ -8,7 +8,7 @@ const VALID_CATEGORIES = [
   'yes-minister', 'trams', 'pylons', 'trident-shuttle',
   'teenage-slang', 'bbc-weather', 'perth-scotland',
   'perth-australia', 'coronation-st', 'scotland-the-what',
-  'forfar-bridies', 'ntnon', 'doric', 'dfds', 'buddy-holly', 'denmark',
+  'forfar-bridies', 'ntnon', 'doric', 'dfds', 'buddy-holly', 'denmark', 'foster-allen',
 ];
 
 // Skip pool validation if the file hasn't been populated yet
