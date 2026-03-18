@@ -7837,6 +7837,348 @@ export const questions = [
       correct: 0,
       explanation: "The Smiths! Curly Watts was in a band with Johnny Marr and Andy Rourke before they became famous. What could have been!"
     }
+  },
+
+  // ─── Scotland the What? ───────────────────────────────────────
+  {
+    id: 343, category: "general",
+    question: "Scotland the What? was a comedy trio from Aberdeen. What were the three members' day jobs?",
+    year: null,
+    eric: {
+      options: ["Hospital administrator, lawyer, and language teacher", "Doctor, accountant, and teacher", "Banker, lawyer, and journalist", "Engineer, solicitor, and headmaster"],
+      correct: 0,
+      explanation: "Buff Hardie was a hospital administrator (Secretary of the NE Regional Hospital Board), Steve Robertson was a lawyer, and George Donald taught French and German. They gave up their careers to perform full-time."
+    },
+    ruth: { options: ["Hospital admin, lawyer, and teacher!", "Hospital admin, lawyer, and teacher!", "Full-time comedians (eventually)", "Eric's colleagues (they weren't)"], correct: 0, explanation: "A hospital administrator, a lawyer, and a languages teacher — who became Scotland's favourite comedy trio!" }
+  },
+  {
+    id: 344, category: "general",
+    question: "The name 'Scotland the What?' is a play on which famous Scottish song?",
+    year: 1969,
+    eric: {
+      options: ["Scotland the Brave", "Flower of Scotland", "Auld Lang Syne", "Caledonia"],
+      correct: 0,
+      explanation: "'Scotland the Brave' — the unofficial Scottish anthem — becomes 'Scotland the What?' with a comic questioning tone. The trio debuted at the Edinburgh Festival Fringe in September 1969."
+    },
+    ruth: { options: ["Scotland the Brave!", "Scotland the Brave!", "Scotland the Beautiful (doesn't exist)", "Scotland the What? (it's self-referential)"], correct: 0, explanation: "Scotland the Brave! Replace 'Brave' with 'What?' and you've got the perfect comedy name." }
+  },
+  {
+    id: 345, category: "general",
+    question: "What was the fictional Aberdeenshire village that featured in many Scotland the What? sketches?",
+    year: null,
+    eric: {
+      options: ["Auchterturra", "Auchterless", "Auchtermuchty", "Auchterarder"],
+      correct: 0,
+      explanation: "Auchterturra — a fictional village with a name following the pattern of real Aberdeenshire 'Auchter-' place names. It even had its own novelty whisky bottle and a '700th anniversary' DVD celebration."
+    },
+    ruth: { options: ["Auchterturra!", "Auchterturra!", "A real place (it's not)", "Somewhere Eric would like to retire to"], correct: 0, explanation: "Auchterturra! A fictional village that felt so real, audiences recognised every character type." }
+  },
+  {
+    id: 346, category: "general",
+    question: "Who played the piano and composed all the music for Scotland the What?",
+    year: null,
+    eric: {
+      options: ["George Donald", "Buff Hardie", "Steve Robertson", "Jimmy Logan"],
+      correct: 0,
+      explanation: "George Donald (1934-2013) composed all the music, known for 'striking comedy gold by mixing classical music with everyday Doric words.' He was a French and German teacher by day. Buff Hardie wrote the lyrics."
+    },
+    ruth: { options: ["George Donald!", "George Donald!", "A man with very talented fingers", "Eric (he plays a mean kazoo)"], correct: 0, explanation: "George Donald — the musical genius behind every Scotland the What? song!" }
+  },
+  {
+    id: 347, category: "general",
+    question: "Where did Scotland the What? debut in September 1969?",
+    year: 1969,
+    eric: {
+      options: ["Edinburgh Festival Fringe", "His Majesty's Theatre, Aberdeen", "Grampian Television studios", "The Aberdeen Arts Centre"],
+      correct: 0,
+      explanation: "The Edinburgh Festival Fringe in September 1969. They were billed as 'three semi-literate Scots taking an irreverent look at their country's institutions.' They later became synonymous with His Majesty's Theatre, Aberdeen."
+    },
+    ruth: { options: ["The Edinburgh Fringe!", "The Edinburgh Fringe!", "Eric's living room (invitation only)", "A pub in Aberdeen (classier than that)"], correct: 0, explanation: "The Edinburgh Fringe! From there they conquered Aberdeen and beyond." }
+  },
+  {
+    id: 348, category: "general",
+    question: "Scotland the What?'s final show was called 'The Final Fling.' When and where was it?",
+    year: 1995,
+    eric: {
+      options: ["25 November 1995, His Majesty's Theatre, Aberdeen", "25 November 1995, Eden Court, Inverness", "25 December 1995, His Majesty's Theatre, Aberdeen", "25 November 1996, His Majesty's Theatre, Aberdeen"],
+      correct: 0,
+      explanation: "The Final Fling was on 25 November 1995 at His Majesty's Theatre — their spiritual home. All three received MBEs in the same year. It was later released on VHS and DVD (2008)."
+    },
+    ruth: { options: ["25 November 1995 at His Majesty's Theatre!", "25 November 1995 at His Majesty's Theatre!", "They're still performing (they're not, sadly)", "Eric was in the front row (probably)"], correct: 0, explanation: "25 November 1995 — their farewell show at His Majesty's Theatre, Aberdeen. All three got MBEs that year." }
+  },
+  {
+    id: 349, category: "general",
+    question: "What honour did all three members of Scotland the What? receive in 1995?",
+    year: 1995,
+    eric: {
+      options: ["MBE", "OBE", "CBE", "Knighthood"],
+      correct: 0,
+      explanation: "All three — Buff Hardie, Steve Robertson, and George Donald — received MBEs in the 1995 Queen's Birthday Honours, the same year as The Final Fling."
+    },
+    ruth: { options: ["MBE! All three of them!", "MBE! All three of them!", "The Freedom of Auchterturra (not a real place)", "A lifetime supply of bridies"], correct: 0, explanation: "MBE for all three! Awarded in the same year as their final show." }
+  },
+  {
+    id: 350, category: "general",
+    question: "In 2007, Aberdeen City Council awarded Scotland the What? a rare honour. What was it?",
+    year: 2007,
+    eric: {
+      options: ["The Freedom of the City of Aberdeen", "The Keys to His Majesty's Theatre", "Honorary citizenship of Aberdeenshire", "A Blue Plaque on Union Street"],
+      correct: 0,
+      explanation: "Freedom of the City of Aberdeen — joining recipients including Nelson Mandela, Winston Churchill, Mikhail Gorbachev, and Sir Alex Ferguson. Conferred 19-20 April 2008 at His Majesty's Theatre with a vintage car procession."
+    },
+    ruth: { options: ["Freedom of the City!", "Freedom of the City!", "The keys to Eric's cupboard (high honour)", "A golden butterie"], correct: 0, explanation: "Freedom of Aberdeen! Same honour given to Nelson Mandela and Winston Churchill." }
+  },
+  {
+    id: 351, category: "general",
+    question: "What was Buff Hardie's real first name, and how did he get the nickname 'Buff'?",
+    year: null,
+    eric: {
+      options: ["William — nicknamed 'Buffalo Bill' at primary school", "Robert — nicknamed after a steam engine", "James — nicknamed after a type of leather", "George — nicknamed after his favourite colour"],
+      correct: 0,
+      explanation: "William Hardie was nicknamed 'Buffalo Bill' (shortened to 'Buff') at primary school. The name stuck when his pals at Robert Gordon's College kept using it."
+    },
+    ruth: { options: ["William! 'Buffalo Bill' became 'Buff'!", "William! 'Buffalo Bill' became 'Buff'!", "His real name was Buff (it wasn't)", "Nobody knows (everyone knew)"], correct: 0, explanation: "William 'Buffalo Bill' Hardie — nicknamed at primary school. Even his obituaries called him Buff." }
+  },
+  {
+    id: 352, category: "general",
+    question: "Buff Hardie helped design which major Aberdeen building in his day job?",
+    year: null,
+    eric: {
+      options: ["Aberdeen Royal Infirmary", "His Majesty's Theatre", "Aberdeen Art Gallery", "Robert Gordon's College"],
+      correct: 0,
+      explanation: "As Secretary of the North East Regional Hospital Board, Buff helped design the current Aberdeen Royal Infirmary. By night he wrote comedy sketches. A man of many talents."
+    },
+    ruth: { options: ["Aberdeen Royal Infirmary!", "Aberdeen Royal Infirmary!", "The Auchterturra Village Hall (fictional)", "Eric's cupboard (surprisingly complex to design)"], correct: 0, explanation: "Aberdeen Royal Infirmary! He designed hospitals by day and wrote comedy by night." }
+  },
+  {
+    id: 353, category: "general",
+    question: "Where did Buff Hardie and Steve Robertson first meet?",
+    year: 1952,
+    eric: {
+      options: ["The 1952 Aberdeen Student Show", "Robert Gordon's College", "Aberdeen Grammar School", "National Service"],
+      correct: 0,
+      explanation: "They met in the 1952 Aberdeen Student Show — the annual revue staged by Aberdeen University students at His Majesty's Theatre (running since 1921). George Donald wrote music for the 1954 show but joined them later."
+    },
+    ruth: { options: ["The Aberdeen Student Show in 1952!", "The Aberdeen Student Show in 1952!", "A comedy club (Aberdeen didn't have one)", "In Eric's cupboard (very social, that cupboard)"], correct: 0, explanation: "The 1952 Student Show at Aberdeen University! A friendship that lasted over 40 years." }
+  },
+  {
+    id: 354, category: "general",
+    question: "Steve Robertson was elected to what position at Aberdeen University in 2008?",
+    year: 2008,
+    eric: {
+      options: ["Rector", "Chancellor", "Dean of Arts", "Honorary Professor"],
+      correct: 0,
+      explanation: "Steve Robertson was elected Rector of the University of Aberdeen in May 2008 with 928 votes. He served until summer 2011, just months before his death on 27 November 2011."
+    },
+    ruth: { options: ["Rector!", "Rector!", "Head of Comedy Studies (not a real course)", "Eric's boss (Eric doesn't go to university)"], correct: 0, explanation: "Rector of Aberdeen University! Elected by the students — from comedian to university leader." }
+  },
+  {
+    id: 355, category: "general",
+    question: "George Donald ended his teaching career at which school — coincidentally in the same city as his eventual death?",
+    year: null,
+    eric: {
+      options: ["Perth Academy (died in Perth)", "Dundee High School (died in Dundee)", "Inverness Royal Academy (died in Inverness)", "Stirling High School (died in Stirling)"],
+      correct: 0,
+      explanation: "George Donald was Assistant Rector of Perth Academy. He died in Perth on 30 September 2013, aged 79. He had relocated there after retiring from comedy."
+    },
+    ruth: { options: ["Perth Academy — and he died in Perth too!", "Perth Academy — and he died in Perth too!", "The School of Comedy (not a real school)", "Eric's old school (nope)"], correct: 0, explanation: "Perth Academy! He taught French and German there, then stayed in Perth for the rest of his life." }
+  },
+  {
+    id: 356, category: "general",
+    question: "Which London venue did Scotland the What? perform at in 1985?",
+    year: 1985,
+    eric: {
+      options: ["Queen Elizabeth Hall, South Bank", "London Palladium", "Royal Albert Hall", "Wembley Arena"],
+      correct: 0,
+      explanation: "Queen Elizabeth Hall on the South Bank in 1985. They also played the Duke of York's Theatre (1975) and Bloomsbury Theatre (1987). Their London appearances were relatively rare — they were primarily a Scottish phenomenon."
+    },
+    ruth: { options: ["The Queen Elizabeth Hall!", "The Queen Elizabeth Hall!", "Wembley (not quite that famous)", "Eric's spare room in London (he doesn't have one)"], correct: 0, explanation: "The Queen Elizabeth Hall on London's South Bank! Aberdeen's finest on the London stage." }
+  },
+  {
+    id: 357, category: "general",
+    question: "How many years did Scotland the What? perform, and how often did they produce a new show?",
+    year: null,
+    eric: {
+      options: ["26 years (1969-1995), new show every two years", "20 years (1975-1995), new show every year", "30 years (1965-1995), new show every three years", "26 years (1969-1995), new show every year"],
+      correct: 0,
+      explanation: "26 years (1969-1995), devising a new show every other year (biennially). Each new show premiered at His Majesty's Theatre before touring Scotland. They had the same stage manager, Peter Garland, for 14 of those years."
+    },
+    ruth: { options: ["26 years, new show every two years!", "26 years, new show every two years!", "Forever (felt like it to their wives)", "About as long as Eric's been fitting screwdrivers"], correct: 0, explanation: "26 years with a new show every two years! Each one premiered at His Majesty's Theatre, Aberdeen." }
+  },
+  {
+    id: 358, category: "general",
+    question: "Their producer Jimmy Logan had to use the name 'James' professionally. Why?",
+    year: null,
+    eric: {
+      options: ["The name 'Jimmy Logan' was already taken by the famous Glasgow comedian", "Equity rules prohibited first names under five letters", "There was already a Jimmy Logan in the Aberdeen phone book", "His mother insisted on the formal version"],
+      correct: 0,
+      explanation: "The famous Glasgow comedian Jimmy Logan already held the Equity membership under that name. Their James Logan had to use 'James' to comply with Equity rules that no two members share the same name."
+    },
+    ruth: { options: ["Another Jimmy Logan already existed!", "Another Jimmy Logan already existed!", "He thought James sounded posher", "Eric insisted (Eric is very particular about names)"], correct: 0, explanation: "There was already a famous Jimmy Logan in showbiz! Equity rules meant no two performers could share a name." }
+  },
+  {
+    id: 359, category: "general",
+    question: "Who was the last surviving member of Scotland the What?, and when did he die?",
+    year: 2020,
+    eric: {
+      options: ["Buff Hardie, 1 December 2020 (Covid-19)", "George Donald, 30 September 2013", "Steve Robertson, 27 November 2011", "Jimmy Logan, 1993"],
+      correct: 0,
+      explanation: "Buff Hardie was the last surviving member, dying on 1 December 2020 aged 89 from Covid-19/pneumonia in Aberdeen. Steve Robertson died 2011, George Donald died 2013."
+    },
+    ruth: { options: ["Buff Hardie — December 2020", "Buff Hardie — December 2020", "They're all still going (sadly not)", "The piano survived the longest"], correct: 0, explanation: "Buff Hardie, the last of the trio, died in December 2020 during the Covid pandemic. He was 89." }
+  },
+  {
+    id: 360, category: "general",
+    question: "Buff Hardie watched which legendary cricketer score a century at Mannofield in Aberdeen in 1948?",
+    year: 1948,
+    eric: {
+      options: ["Don Bradman", "Len Hutton", "Denis Compton", "Wally Hammond"],
+      correct: 0,
+      explanation: "Don Bradman scored a century at Mannofield cricket ground in Aberdeen in 1948 during the Australian touring team's visit. Buff's 80th birthday was held in the Bradman Suite at the same venue."
+    },
+    ruth: { options: ["Don Bradman! The greatest batsman ever!", "Don Bradman! The greatest batsman ever!", "Eric (he once hit a 6 at school)", "A man with a very large bat"], correct: 0, explanation: "Don Bradman — the greatest cricketer of all time, playing in Aberdeen! Buff was there to see it." }
+  },
+  {
+    id: 361, category: "general",
+    question: "Which famous sketch parodied a long-running BBC Scotland gardening programme?",
+    year: 1979,
+    eric: {
+      options: ["The Beechgrove Garden", "Gardeners' World", "Countryfile", "The Land"],
+      correct: 0,
+      explanation: "'The Beechgrove Garden' (1979) parodied the long-running BBC Scotland gardening programme of the same name, which is filmed in Aberdeen. Other famous sketches include 'Trans-Buchan Airways,' 'Mastermind,' and 'The Sleeper.'"
+    },
+    ruth: { options: ["The Beechgrove Garden!", "The Beechgrove Garden!", "Gardeners' Corner (not a real show)", "Eric's allotment show (he doesn't have an allotment)"], correct: 0, explanation: "The Beechgrove Garden! Parodying the actual BBC Scotland programme filmed in Aberdeen." }
+  },
+  {
+    id: 362, category: "general",
+    question: "For how many consecutive years did Scotland the What? take over Hogmanay broadcasts on television?",
+    year: null,
+    eric: {
+      options: ["12 years", "8 years", "15 years", "6 years"],
+      correct: 0,
+      explanation: "12 years of Hogmanay TV specials on Grampian Television. They were a fixture of North-East Scotland's New Year celebrations, directed by Alan Franchi."
+    },
+    ruth: { options: ["12 years of Hogmanay!", "12 years of Hogmanay!", "Every year since 1960 (not quite)", "Eric watches them every New Year (probably)"], correct: 0, explanation: "12 years! Aberdeen's Hogmanay wouldn't have been the same without Scotland the What? on the telly." }
+  },
+  {
+    id: 363, category: "general",
+    question: "The trio had a superstitious ritual before every performance. What was it?",
+    year: null,
+    eric: {
+      options: ["A pre-show handshake at the side of the stage", "Singing 'Scotland the Brave' backstage", "Each touching the Rovers Return sign (wrong show)", "Drinking a dram of Auchterturra whisky"],
+      correct: 0,
+      explanation: "A pre-show handshake at the side of the stage — maintained from their very first performance to The Final Fling. A gesture of friendship and superstition that lasted 26 years."
+    },
+    ruth: { options: ["A handshake before every show!", "A handshake before every show!", "A group hug (they were too Scottish for that)", "They checked Eric was in the audience (he always was)"], correct: 0, explanation: "A handshake! Every single show for 26 years. Simple, superstitious, and Scottish." }
+  },
+  {
+    id: 364, category: "general",
+    question: "All three members received honorary degrees from Aberdeen University. When?",
+    year: 1994,
+    eric: {
+      options: ["26 November 1994 (Honorary Master's degrees)", "25 November 1995 (Honorary Doctorates)", "1 December 1993 (Honorary Fellowships)", "20 April 2008 (Honorary Doctorates)"],
+      correct: 0,
+      explanation: "Honorary Master's degrees on 26 November 1994 — the year before their retirement. Combined with MBEs in 1995 and Freedom of Aberdeen in 2007/08, they collected the full set of North-East honours."
+    },
+    ruth: { options: ["1994 — Honorary Master's degrees!", "1994 — Honorary Master's degrees!", "Eric has one too (he doesn't)", "All three graduated with honours in comedy"], correct: 0, explanation: "Honorary Master's degrees in 1994! The university they'd first met at honoured them 42 years later." }
+  },
+  {
+    id: 365, category: "general",
+    question: "How were Scotland the What? described in their original Edinburgh Fringe billing?",
+    year: 1969,
+    eric: {
+      options: [
+        "Three semi-literate Scots taking an irreverent look at their country's institutions",
+        "Aberdeen's answer to Beyond the Fringe",
+        "Three men in dinner jackets who speak a language no one understands",
+        "The funniest thing to come out of Aberdeen since the oil"
+      ],
+      correct: 0,
+      explanation: "'Three semi-literate Scots taking an irreverent look at their country's institutions' — their original Fringe billing. They performed in dinner jackets and suits, giving the act a formal, revue-style polish."
+    },
+    ruth: { options: ["Three semi-literate Scots!", "Three semi-literate Scots!", "Three very funny men (more accurate)", "Eric's favourite act (definitely)"], correct: 0, explanation: "'Three semi-literate Scots taking an irreverent look at their country's institutions' — modesty and comedy in one billing." }
+  },
+  {
+    id: 366, category: "general",
+    question: "What was the running time of the 'Trans-Buchan Airways' sketch?",
+    year: null,
+    eric: {
+      options: ["About 10 minutes", "About 5 minutes", "About 15 minutes", "About 3 minutes"],
+      correct: 0,
+      explanation: "Trans-Buchan Airways ran to 10 minutes and 1 second — an extended sketch about a fictional airline serving the Buchan area of Aberdeenshire. Other long-form pieces included 'Bruce and the Spider' (8:36), 'The Wedding Guests' (9:54), and 'Retirement' (10:45)."
+    },
+    ruth: { options: ["About 10 minutes!", "About 10 minutes!", "3 hours (it felt like it in a good way)", "As long as a real flight to Buchan (Buchan doesn't have an airport)"], correct: 0, explanation: "About 10 minutes! A fictional airline serving rural Aberdeenshire — the comedy practically wrote itself." }
+  },
+  {
+    id: 367, category: "general",
+    question: "How many releases (vinyl, cassette, CD, DVD) did Scotland the What? produce in total?",
+    year: null,
+    eric: {
+      options: ["11", "8", "14", "6"],
+      correct: 0,
+      explanation: "11 releases across all formats (per Discogs). Albums include 'Scotland the What?' (1973, recorded live at HMT), 'More Scotland the What?', 'Still More Scotland the What?', 'At Home', 'Back at His Majesty's', plus compilations and DVDs."
+    },
+    ruth: { options: ["11 releases!", "11 releases!", "Thousands (they were very prolific)", "Just the one (it was very long)"], correct: 0, explanation: "11 releases! From vinyl LPs in the 1970s to DVDs in the 2000s. All the classics preserved." }
+  },
+  {
+    id: 368, category: "general",
+    question: "George Donald was part of a post-retirement cabaret ensemble called 'Music Box.' Who were his partners?",
+    year: null,
+    eric: {
+      options: ["Baritone Donald Maxwell and soprano Linda Ormiston", "Tenor Robert Tear and mezzo Kathleen Ferrier", "Baritone Thomas Allen and soprano Lesley Garrett", "Tenor Ian Bostridge and soprano Barbara Bonney"],
+      correct: 0,
+      explanation: "George Donald performed with baritone Donald Maxwell and soprano Linda Ormiston in a cabaret-style show called 'Music Box,' including appearances at the Edinburgh International Festival. He was also Director of the Deeside Festival."
+    },
+    ruth: { options: ["Donald Maxwell and Linda Ormiston!", "Donald Maxwell and Linda Ormiston!", "Eric and Ruth (they can't sing)", "Three new semi-literate Scots"], correct: 0, explanation: "An opera baritone and a soprano! George went from Doric comedy to Edinburgh International Festival cabaret." }
+  },
+  {
+    id: 369, category: "general",
+    question: "Buff Hardie's writing partner before Steve Robertson was Alfie Wood. Where did they write together?",
+    year: null,
+    eric: {
+      options: ["During National Service in the army", "At Robert Gordon's College", "At Cambridge University", "At Aberdeen Grammar School"],
+      correct: 0,
+      explanation: "Buff and Alfie Wood wrote army shows together during National Service. When Buff returned to Aberdeen from Cambridge and joined the Aberdeen Revue Group (formed 1958), Steve Robertson became his new writing partner."
+    },
+    ruth: { options: ["In the army during National Service!", "In the army during National Service!", "In Eric's cupboard (surprisingly spacious)", "At comedy school (doesn't exist)"], correct: 0, explanation: "During National Service! Even in the army, Buff was writing comedy sketches." }
+  },
+  {
+    id: 370, category: "general",
+    question: "An Early Day Motion was tabled in the UK Parliament to honour which member of Scotland the What? after his death?",
+    year: 2011,
+    eric: {
+      options: ["Steve Robertson", "Buff Hardie", "George Donald", "Jimmy Logan"],
+      correct: 0,
+      explanation: "An Early Day Motion was tabled in tribute to Steve Robertson after his death on 27 November 2011. He had been Rector of Aberdeen University from 2008 until shortly before his death."
+    },
+    ruth: { options: ["Steve Robertson!", "Steve Robertson!", "All three (they were all worth an EDM)", "Eric (for services to screwdriver organisation)"], correct: 0, explanation: "Steve Robertson — honoured in Parliament after his death. From Aberdeen stages to the House of Commons." }
+  },
+  {
+    id: 371, category: "general",
+    question: "Their first vinyl LP was recorded live at His Majesty's Theatre. On what date?",
+    year: 1973,
+    eric: {
+      options: ["Saturday 21 November 1973", "Saturday 21 November 1972", "Friday 21 November 1973", "Saturday 21 March 1973"],
+      correct: 0,
+      explanation: "Saturday 21 November 1973 — their self-titled debut LP 'Scotland the What?' was recorded live at His Majesty's Theatre, Aberdeen. Followed by 'More Scotland the What?' and 'Still More Scotland the What?'"
+    },
+    ruth: { options: ["21 November 1973!", "21 November 1973!", "Nobody recorded the date (someone did)", "Eric was there (he definitely was)"], correct: 0, explanation: "21 November 1973! The first of many live recordings at His Majesty's Theatre." }
+  },
+  {
+    id: 372, category: "general",
+    question: "In what order did the three members of Scotland the What? die?",
+    year: null,
+    eric: {
+      options: [
+        "Steve Robertson (2011), George Donald (2013), Buff Hardie (2020)",
+        "George Donald (2011), Steve Robertson (2013), Buff Hardie (2020)",
+        "Buff Hardie (2011), Steve Robertson (2013), George Donald (2020)",
+        "Steve Robertson (2013), George Donald (2015), Buff Hardie (2020)"
+      ],
+      correct: 0,
+      explanation: "Steve Robertson died 27 November 2011 (aged 78), George Donald died 30 September 2013 (aged 79), and Buff Hardie died 1 December 2020 (aged 89, from Covid-19). Their producer Jimmy Logan had died in 1993."
+    },
+    ruth: { options: ["Steve (2011), George (2013), Buff (2020)", "Steve (2011), George (2013), Buff (2020)", "They're immortal (if only)", "Eric remembers them all fondly"], correct: 0, explanation: "Steve first (2011), then George (2013), then Buff (2020). All deeply mourned in Aberdeen and beyond." }
   }
 
 ];
