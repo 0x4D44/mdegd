@@ -8179,6 +8179,83 @@ export const questions = [
       explanation: "Steve Robertson died 27 November 2011 (aged 78), George Donald died 30 September 2013 (aged 79), and Buff Hardie died 1 December 2020 (aged 89, from Covid-19). Their producer Jimmy Logan had died in 1993."
     },
     ruth: { options: ["Steve (2011), George (2013), Buff (2020)", "Steve (2011), George (2013), Buff (2020)", "They're immortal (if only)", "Eric remembers them all fondly"], correct: 0, explanation: "Steve first (2011), then George (2013), then Buff (2020). All deeply mourned in Aberdeen and beyond." }
+  },
+
+  // ─── Forfar Bridies ───────────────────────────────────────────
+  {
+    id: 373, category: "general", question: "What crucial ingredient is in a Cornish pasty but NEVER in a traditional Forfar Bridie?", year: null,
+    eric: { options: ["Potato", "Onion", "Beef", "Salt"], correct: 0, explanation: "A traditional Forfar Bridie contains NO potato — just beef, suet, optional onion, salt and pepper. No carrot, no turnip, no gravy, no herbs. The PGI specification is strict: it's a meat-only pastry." },
+    ruth: { options: ["Potato! Bridies are all meat, no tatties!", "Potato! Bridies are all meat, no tatties!", "Unicorn tears (hard to source)", "Eric's secret ingredient (it's more salt)"], correct: 0, explanation: "No potato! A Forfar Bridie is beef, suet, and that's basically it." }
+  },
+  {
+    id: 374, category: "general", question: "According to the official PGI specification, what does ONE hole in a Forfar Bridie indicate?", year: null,
+    eric: { options: ["Contains onions", "Does NOT contain onions (plain)", "Contains extra beef", "Is a large/special size"], correct: 0, explanation: "Per the PGI specification: 1 hole = onions, 2 holes = no onions ('a without'). BUT Wikipedia says the opposite! The PGI spec, prepared by the Forfar Bridie Producers' Association, is the more authoritative source." },
+    ruth: { options: ["Onions! (But some people say the opposite!)", "Onions! (But some people say the opposite!)", "It's for looking through", "Nobody can agree (actually true)"], correct: 0, explanation: "Officially: 1 hole = onions. But half of Scotland thinks it's the other way round!" }
+  },
+  {
+    id: 375, category: "general", question: "Who is commonly credited with inventing the Forfar Bridie?", year: null,
+    eric: { options: ["Margaret 'Maggie' Bridie of Glamis", "David Jolly of Forfar", "James Torry of Aberdeen", "All are claimed — nobody knows for certain"], correct: 3, explanation: "Nobody knows! Maggie Bridie of Glamis (1779-1864) is the most popular story, but David Jolly (1846) and James Torry of Aberdeen (1833) are also credited." },
+    ruth: { options: ["Nobody actually knows!", "Nobody actually knows!", "Eric invented them (he didn't)", "A woman called Mrs Bridie (possibly)"], correct: 0, explanation: "Nobody knows for certain! Several people are credited but the true inventor is lost to history." }
+  },
+  {
+    id: 376, category: "general", question: "What is the famous Dundee shibboleth involving bridies?", year: null,
+    eric: { options: ["'Twa bridies, a plen ane an an ingin ane an a'", "'Gie's a bridie wi' broon sauce an' a'", "'A'll hae a bridie, an' mak it a guid ane'", "'Fit's in yer bridie, like?'"], correct: 0, explanation: "'Twa bridies, a plen ane an an ingin ane an a' — 'Two bridies, a plain one and an onion one as well.' Famously difficult for non-Dundonians to pronounce." },
+    ruth: { options: ["'Twa bridies, a plen ane an an ingin ane an a'!", "'Twa bridies, a plen ane an an ingin ane an a'!", "Try saying that after three pints", "Eric can say it perfectly (can he though?)"], correct: 0, explanation: "If you can say it right, you're from Dundee!" }
+  },
+  {
+    id: 377, category: "general", question: "What type of pastry is used in an authentic Forfar Bridie?", year: null,
+    eric: { options: ["Shortcrust", "Puff", "Flaky", "Hot water crust"], correct: 0, explanation: "Authentic Forfar Bridies use shortcrust pastry. Outside Forfar, many bakeries use puff or flaky pastry, but the genuine article is always shortcrust. No egg wash either." },
+    ruth: { options: ["Shortcrust! Not puff!", "Shortcrust! Not puff!", "Cardboard (feels like it sometimes)", "The same pastry Eric uses (he doesn't bake)"], correct: 0, explanation: "Shortcrust! Many people think puff, but the authentic version is shortcrust." }
+  },
+  {
+    id: 378, category: "general", question: "Forfar Athletic FC's mascot is a person dressed as a giant bridie. What is the mascot's name?", year: null,
+    eric: { options: ["Baxter the Bridie", "Bertie the Bridie", "Billy the Bridie", "Brian the Bridie"], correct: 0, explanation: "Baxter the Bridie bounces around before matches at Station Park. Forfar Athletic are nicknamed 'The Loons' (Doric for young men)." },
+    ruth: { options: ["Baxter the Bridie!", "Baxter the Bridie!", "A giant walking pastry", "Eric in a costume (he'd do it)"], correct: 0, explanation: "Baxter the Bridie! A giant anthropomorphic bridie." }
+  },
+  {
+    id: 379, category: "general", question: "McLaren's bakery was founded in 1893. How many generations have now been involved?", year: 1893,
+    eric: { options: ["Six", "Five", "Four", "Seven"], correct: 0, explanation: "Six generations — currently Karen Murray (5th gen) with daughter Sarah (6th gen). Their rival Saddler's was founded 1897." },
+    ruth: { options: ["Six generations!", "Six generations!", "One very old baker", "Eric's family (screwdrivers not bridies)"], correct: 0, explanation: "Six generations of bridie-making! Over 130 years." }
+  },
+  {
+    id: 380, category: "general", question: "J.M. Barrie described the bridie in his 1896 novel Sentimental Tommy. What did he call it?", year: 1896,
+    eric: { options: ["'A sublime kind of pie'", "'The finest pastry in Christendom'", "'A hot pocket of joy'", "'The working man's feast'"], correct: 0, explanation: "Barrie called it 'a sublime kind of pie' with gravy oozing from a paper bag — one of the earliest literary references." },
+    ruth: { options: ["'A sublime kind of pie'!", "'A sublime kind of pie'!", "Peter Pan's favourite snack", "Eric's favourite (he prefers stovies)"], correct: 0, explanation: "The man who created Peter Pan called bridies 'a sublime kind of pie.'" }
+  },
+  {
+    id: 381, category: "general", question: "When Prince Edward was named Earl of Forfar in 2019, what did he do on his first visit?", year: 2019,
+    eric: { options: ["Visited both Saddler's and McLaren's to sample bridies", "Officially opened a new bridie factory", "Judged a bridie competition", "Declared the bridie a national treasure"], correct: 0, explanation: "He diplomatically visited BOTH rival bakeries. He also received a specially designed 'Earl of Forfar' tartan." },
+    ruth: { options: ["He tried bridies at BOTH bakeries!", "He tried bridies at BOTH bakeries!", "He asked for a Cornish pasty (diplomatic incident)", "Eric showed him the cupboard"], correct: 0, explanation: "Diplomatically trying both! Avoiding the great Forfar bakery rivalry." }
+  },
+  {
+    id: 382, category: "general", question: "The Forfar Bridie PGI requires another PGI-protected product as an ingredient. What?", year: null,
+    eric: { options: ["Scotch Beef PGI", "Scottish Oats PGI", "Orkney Cheddar PGI", "Stornoway Black Pudding PGI"], correct: 0, explanation: "Scotch Beef PGI — a protected product requiring another protected product. PGI inception." },
+    ruth: { options: ["Scotch Beef PGI — protected inside protected!", "Scotch Beef PGI — protected inside protected!", "Eric's secret sauce", "Premium-grade Scottish air"], correct: 0, explanation: "A protected product that requires ANOTHER protected product. Very meta." }
+  },
+  {
+    id: 383, category: "general", question: "What is a bridie without onion called in Forfar?", year: null,
+    eric: { options: ["'A without'", "'A plain'", "'A dry'", "'A naked'"], correct: 0, explanation: "A bridie without onion is called 'a without' — you can walk into a bakery and say 'a without.'" },
+    ruth: { options: ["'A without'!", "'A without'!", "'A lonely bridie'", "A mistake (always get onion)"], correct: 0, explanation: "'A without'! Scottish directness at its finest." }
+  },
+  {
+    id: 384, category: "general", question: "Where is the crimp on a Forfar Bridie compared to a Cornish pasty?", year: null,
+    eric: { options: ["Bridie: curved top edge. Pasty: straight side", "Bridie: straight bottom. Pasty: top", "Both in the same place", "Bridie: all around. Pasty: one edge"], correct: 0, explanation: "The bridie is crimped along the curved top edge. The Cornish pasty has its rope crimp along one straight side (historically used as a handle by tin miners)." },
+    ruth: { options: ["Bridie: curve. Pasty: side!", "Bridie: curve. Pasty: side!", "The crimp goes wherever it wants", "Eric crimps differently (don't ask)"], correct: 0, explanation: "Different crimp positions! It matters to bridie purists." }
+  },
+  {
+    id: 385, category: "general", question: "The horseshoe shape of the bridie may be linked to what tradition?", year: null,
+    eric: { options: ["Wedding feasts — horseshoes for good luck", "Farriers' suppers — blacksmiths shaped them", "Cattle markets — fit in saddlebags", "Church fairs — resembled a bishop's mitre"], correct: 0, explanation: "Horseshoes symbolise good luck, and 'bridie' may derive from 'bride's meal.' Bridies remain traditional at Scottish weddings in the Angus area." },
+    ruth: { options: ["Weddings! Good luck for the bride!", "Weddings! Good luck for the bride!", "Horses liked the shape", "Eric's wedding had bridies (did it?)"], correct: 0, explanation: "The horseshoe shape may symbolise good luck at weddings!" }
+  },
+  {
+    id: 386, category: "general", question: "How long was Bill McLaren's career making bridies at McLaren's bakery?", year: null,
+    eric: { options: ["About 60 years (teens to age 78)", "About 40 years", "About 50 years", "About 30 years"], correct: 0, explanation: "Bill McLaren made bridies from his teens until age 78 — roughly 60 years. He hand-made several hundred thousand bridies. He died October 2022, aged 82." },
+    ruth: { options: ["About 60 years!", "About 60 years!", "His whole life (basically true)", "Longer than Eric's been fitting screwdrivers"], correct: 0, explanation: "60 years of bridie-making! Hundreds of thousands of bridies." }
+  },
+  {
+    id: 387, category: "general", question: "Which of Forfar's two rival bakeries was founded first?", year: null,
+    eric: { options: ["McLaren's (1893)", "Saddler's (1897)", "Same year", "Both claim different dates"], correct: 0, explanation: "McLaren's 1893, Saddler's 1897. Four years apart. Locals are firmly in one camp or the other." },
+    ruth: { options: ["McLaren's! 1893!", "McLaren's! 1893!", "It depends who you ask", "Eric prefers one but won't say which"], correct: 0, explanation: "McLaren's by four years — 1893 vs 1897. The great Forfar bakery rivalry." }
   }
 
 ];
