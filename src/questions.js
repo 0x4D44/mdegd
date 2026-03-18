@@ -3066,6 +3066,660 @@ export const questions = [
       correct: 0,
       explanation: "The A82! It runs 167 miles from Glasgow to Inverness past Loch Lomond, Glencoe, and Fort William — one of the most beautiful drives in the world."
     }
+  },
+
+  // ─── Edinburgh Airport ────────────────────────────────────────
+  {
+    id: 133,
+    category: "general",
+    question: "Edinburgh Airport's current terminal was officially opened on 27 May 1977. By whom?",
+    year: 1977,
+    eric: {
+      options: ["Queen Elizabeth II", "The Duke of Edinburgh", "The Secretary of State for Scotland", "The Lord Provost of Edinburgh"],
+      correct: 0,
+      explanation: "Queen Elizabeth II opened the terminal on 27 May 1977. It opened to the public two days later. The architect was Sir Robert Matthew (RMJM), who died in June 1975 before the terminal was completed."
+    },
+    ruth: {
+      options: [
+        "The Queen!",
+        "The Queen!",
+        "A man with very large scissors",
+        "Nobody — they just left the door open and hoped for the best"
+      ],
+      correct: 0,
+      explanation: "Queen Elizabeth II officially opened Edinburgh Airport's new terminal in 1977. Quite the ribbon-cutting!"
+    }
+  },
+  {
+    id: 134,
+    category: "general",
+    question: "Who designed Edinburgh Airport's 1977 terminal building?",
+    year: 1977,
+    eric: {
+      options: ["Sir Robert Matthew (RMJM)", "Sir Basil Spence", "Sir Norman Foster", "Sir James Stirling"],
+      correct: 0,
+      explanation: "Sir Robert Matthew of Robert Matthew, Johnson-Marshall and Partners (RMJM). He also designed the Royal Commonwealth Pool in Edinburgh. Sadly, he died on 2 June 1975, before the terminal was completed."
+    },
+    ruth: {
+      options: [
+        "Sir Robert Matthew",
+        "A very talented architect called Bob",
+        "Sir Robert Matthew",
+        "Eric (in between fitting screwdrivers in cupboards)"
+      ],
+      correct: 0,
+      explanation: "Sir Robert Matthew designed it — he was one of Scotland's leading modernist architects."
+    }
+  },
+  {
+    id: 135,
+    category: "general",
+    question: "What river was diverted to make way for Edinburgh Airport's 1970s redevelopment?",
+    year: 1973,
+    eric: {
+      options: ["The River Almond", "The Water of Leith", "The River Esk", "The Gogar Burn"],
+      correct: 0,
+      explanation: "The River Almond was diverted starting June 1973, before main terminal construction began in March 1975. All four are real Edinburgh-area waterways."
+    },
+    ruth: {
+      options: [
+        "The River Almond",
+        "The River Almond",
+        "The River Thames (wrong city!)",
+        "The River Nile (definitely wrong continent)"
+      ],
+      correct: 0,
+      explanation: "The River Almond had to be moved out of the way! That's quite a commitment to building an airport."
+    }
+  },
+  {
+    id: 136,
+    category: "general",
+    question: "Before it became a civilian airport, Edinburgh's Turnhouse was an RAF base. Which squadron, based there, shot down the first enemy aircraft over Britain in WWII?",
+    year: 1939,
+    eric: {
+      options: ["603 (City of Edinburgh) Squadron", "602 (City of Glasgow) Squadron", "607 (County of Durham) Squadron", "609 (West Riding) Squadron"],
+      correct: 0,
+      explanation: "603 Squadron shot down a Junkers Ju 88 over the Firth of Forth on 16 October 1939 — the first enemy aircraft shot down over Britain since 1918. Pilots credited: Archie McKellar and George Pinkerton. The Spitfire replica gate guardian at the airport carries 603 Squadron markings."
+    },
+    ruth: {
+      options: [
+        "603 (City of Edinburgh) Squadron",
+        "The Edinburgh Flying Club (not a real squadron)",
+        "603 (City of Edinburgh) Squadron",
+        "Squadron 42 (the answer to everything)"
+      ],
+      correct: 0,
+      explanation: "603 Squadron — Edinburgh's own! They shot down the first enemy plane over Britain in WWII, from Turnhouse airfield."
+    }
+  },
+  {
+    id: 137,
+    category: "general",
+    question: "By the time BAA took over Edinburgh Airport in 1971, the old terminal was operating at how many times its design capacity?",
+    year: 1971,
+    eric: {
+      options: ["About four times", "About six times", "About eight times", "About ten times"],
+      correct: 2,
+      explanation: "The old terminal was running at approximately eight times its design capacity by 1971 — hence the urgent need for the new terminal which opened in 1977."
+    },
+    ruth: {
+      options: [
+        "About 8 times — it was bursting at the seams!",
+        "About 8 times — it was bursting at the seams!",
+        "About a million times (that can't be right)",
+        "It was fine, everyone just breathed in"
+      ],
+      correct: 0,
+      explanation: "Eight times its design capacity! No wonder they needed a new one."
+    }
+  },
+  {
+    id: 138,
+    category: "general",
+    question: "What was Edinburgh Airport's first scheduled direct route to continental Europe, and when?",
+    year: 1975,
+    eric: {
+      options: ["Amsterdam, 1975", "Paris, 1973", "Dublin, 1972", "Amsterdam, 1977"],
+      correct: 0,
+      explanation: "The first direct scheduled continental European route was to Amsterdam in 1975. Dublin service had started earlier (1962) but Ireland isn't continental Europe. By the mid-1980s, Edinburgh also served Paris, Dusseldorf, Brussels, Frankfurt, and Copenhagen."
+    },
+    ruth: {
+      options: [
+        "Amsterdam in 1975!",
+        "The Moon (Edinburgh was ambitious back then)",
+        "Amsterdam in 1975!",
+        "Narnia (direct flights on Tuesdays)"
+      ],
+      correct: 0,
+      explanation: "Amsterdam, in 1975 — Edinburgh's first connection to mainland Europe!"
+    }
+  },
+  {
+    id: 139,
+    category: "general",
+    question: "How long is Edinburgh Airport's main runway (06/24)?",
+    year: 1977,
+    eric: {
+      options: ["2,438 metres", "2,496 metres", "2,556 metres", "2,614 metres"],
+      correct: 2,
+      explanation: "The main runway is 2,556 metres (8,386 feet), completed in 1977. It was built entirely outside the original airfield boundary and is capable of handling all modern airliners, including Concorde. Runway 24 is in use approximately 70% of the time."
+    },
+    ruth: {
+      options: [
+        "2,556 metres — long enough for Concorde!",
+        "About as long as Eric's list of complaints",
+        "2,556 metres — long enough for Concorde!",
+        "Very, very long (that's the technical measurement)"
+      ],
+      correct: 0,
+      explanation: "2,556 metres — and yes, Concorde did visit Edinburgh!"
+    }
+  },
+  {
+    id: 140,
+    category: "general",
+    question: "In what year did Edinburgh become the first Scottish airport to exceed 10 million passengers?",
+    year: 2014,
+    eric: {
+      options: ["2012", "2013", "2014", "2015"],
+      correct: 2,
+      explanation: "Edinburgh hit 10,174,684 passengers in 2014 — the first Scottish airport to break the 10 million barrier. The milestone passenger was on 23 December. Key drivers included new routes from Qatar Airways and United Airlines."
+    },
+    ruth: {
+      options: [
+        "2014 — ten million people!",
+        "2014 — ten million people!",
+        "1947 (they were very busy on the first day)",
+        "Yesterday (it felt like it at security)"
+      ],
+      correct: 0,
+      explanation: "2014 — over ten million passengers for the first time. Edinburgh was growing fast!"
+    }
+  },
+  {
+    id: 141,
+    category: "general",
+    question: "How much did Global Infrastructure Partners (GIP) pay for Edinburgh Airport in 2012?",
+    year: 2012,
+    eric: {
+      options: ["£607 million", "£707 million", "£807 million", "£907 million"],
+      correct: 2,
+      explanation: "GIP paid £807.2 million — considerably more than the £500-700 million analysts had estimated. That's 16.7 times the 2011 EBITDA of £48.3 million. In 2024, VINCI bought 50.01% for £1.27 billion."
+    },
+    ruth: {
+      options: [
+        "£807 million — that's a lot of duty-free!",
+        "£807 million — that's a lot of duty-free!",
+        "50p and a packet of crisps",
+        "They won it in a raffle"
+      ],
+      correct: 0,
+      explanation: "£807 million! And in 2024, half of it was sold again for £1.27 billion. Not a bad investment."
+    }
+  },
+  {
+    id: 142,
+    category: "general",
+    question: "On 30 November 1994, an unusual aircraft operated the Edinburgh-Heathrow shuttle. What was it?",
+    year: 1994,
+    eric: {
+      options: ["Concorde G-BOAC", "Concorde G-BOAA", "Concorde G-BOAE", "Concorde G-BOAD"],
+      correct: 0,
+      explanation: "Concorde G-BOAC made a surprise appearance operating the regular shuttle service. G-BOAE made the final Concorde visit to Edinburgh on 24 October 2003 as part of the farewell tour. G-BOAA ('Alpha Alpha') ended up at the National Museum of Flight at East Fortune."
+    },
+    ruth: {
+      options: [
+        "Concorde! On a regular shuttle flight!",
+        "Concorde! On a regular shuttle flight!",
+        "A very fast bicycle with wings",
+        "The Space Shuttle (it overshot Cape Canaveral)"
+      ],
+      correct: 0,
+      explanation: "Concorde turned up on a normal shuttle service! Imagine boarding what you think is a regular flight and finding yourself on Concorde."
+    }
+  },
+  {
+    id: 143,
+    category: "general",
+    question: "How tall is Edinburgh Airport's control tower, opened in 2005?",
+    year: 2005,
+    eric: {
+      options: ["47 metres", "52 metres", "57 metres", "62 metres"],
+      correct: 2,
+      explanation: "The tower is 57 metres (187 feet) tall, designed by 3DReid architects and clad in diamond-shaped aluminium shingles. It received a Civic Trust Award commendation in 2006."
+    },
+    ruth: {
+      options: [
+        "57 metres — quite tall!",
+        "57 metres — quite tall!",
+        "Tall enough to see Eric's house",
+        "So tall they had to warn passing aircraft"
+      ],
+      correct: 0,
+      explanation: "57 metres tall — clad in diamond-shaped aluminium shingles. It's quite the landmark!"
+    }
+  },
+  {
+    id: 144,
+    category: "general",
+    question: "When did the Edinburgh tram finally reach the airport?",
+    year: 2014,
+    eric: {
+      options: ["31 May 2014", "31 May 2013", "14 June 2014", "14 June 2013"],
+      correct: 0,
+      explanation: "The tram opened on 31 May 2014, three years late and at a cost of nearly £777 million (£231 million over budget). Lord Hardie's inquiry report wasn't published until August 2023."
+    },
+    ruth: {
+      options: [
+        "31 May 2014 — only three years late!",
+        "It hasn't arrived yet (it's running late)",
+        "31 May 2014 — only three years late!",
+        "The tram is still being discussed at committee"
+      ],
+      correct: 0,
+      explanation: "31 May 2014 — three years late and £231 million over budget. Very Edinburgh."
+    }
+  },
+  {
+    id: 145,
+    category: "general",
+    question: "What was the first aircraft type to make a commercial flight from Edinburgh Airport on 19 May 1947?",
+    year: 1947,
+    eric: {
+      options: ["Douglas Dakota (C-47)", "Vickers Viking", "de Havilland Dragon Rapide", "Avro Anson"],
+      correct: 0,
+      explanation: "An 18-seat Douglas C-47 (Dakota) operated the first BEA service from London Northolt to Shetland, stopping at Edinburgh and Aberdeen. BEA later progressed through Vickers Vikings, Viscounts, and Vanguards."
+    },
+    ruth: {
+      options: [
+        "A Dakota — an 18-seat propeller plane!",
+        "A Dakota — an 18-seat propeller plane!",
+        "A very large paper aeroplane",
+        "Concorde (wait, that wasn't until 1994)"
+      ],
+      correct: 0,
+      explanation: "A Douglas Dakota with just 18 seats! From London Northolt to Shetland, stopping at Edinburgh."
+    }
+  },
+  {
+    id: 146,
+    category: "general",
+    question: "What is Edinburgh Airport's ICAO code?",
+    year: null,
+    eric: {
+      options: ["EGPH", "EGPE", "EGPF", "EGPD"],
+      correct: 0,
+      explanation: "EGPH. EGPE is Inverness, EGPF is Glasgow, EGPD is Aberdeen. The IATA code is EDI. All Scottish airports share the EGP prefix in their ICAO codes."
+    },
+    ruth: {
+      options: [
+        "EGPH",
+        "ABCD (too simple)",
+        "EGPH",
+        "HELP (that's what Eric types at check-in)"
+      ],
+      correct: 0,
+      explanation: "EGPH! The EG means UK, P means Scotland, H means... well, it just does."
+    }
+  },
+  {
+    id: 147,
+    category: "general",
+    question: "When was Edinburgh Airport's old crosswind runway 12/30 officially closed?",
+    year: 2018,
+    eric: {
+      options: ["29 March 2017", "29 March 2018", "29 September 2018", "29 September 2017"],
+      correct: 1,
+      explanation: "Runway 12/30 was officially withdrawn from use on 29 March 2018. The site is now the subject of a £1 billion housing development ('Elements Edinburgh') for 3,000 homes, approved by Edinburgh Council in December 2024."
+    },
+    ruth: {
+      options: [
+        "29 March 2018",
+        "29 March 2018",
+        "It's still open (planes just ignore it)",
+        "They're building houses on it now!"
+      ],
+      correct: 0,
+      explanation: "29 March 2018 — and now they're planning to build 3,000 houses on it!"
+    }
+  },
+  {
+    id: 148,
+    category: "general",
+    question: "Which airline launched Edinburgh's first direct service to the Middle East in 2014?",
+    year: 2014,
+    eric: {
+      options: ["Qatar Airways", "Emirates", "Etihad Airways", "Turkish Airlines"],
+      correct: 0,
+      explanation: "Qatar Airways launched Edinburgh to Doha on 28 May 2014, using a Boeing 787 Dreamliner — Edinburgh's first scheduled Dreamliner service. It started with five flights per week; now runs 14 per week."
+    },
+    ruth: {
+      options: [
+        "Qatar Airways — Edinburgh to Doha!",
+        "Qatar Airways — Edinburgh to Doha!",
+        "Camel Airways (not a real airline)",
+        "EasyJet (they go everywhere eventually)"
+      ],
+      correct: 0,
+      explanation: "Qatar Airways, flying to Doha on a shiny new Boeing 787 Dreamliner!"
+    }
+  },
+  {
+    id: 149,
+    category: "general",
+    question: "What was Edinburgh Airport's all-time passenger record before COVID, set in 2019?",
+    year: 2019,
+    eric: {
+      options: ["13,747,830", "14,247,830", "14,747,830", "15,247,830"],
+      correct: 2,
+      explanation: "Edinburgh handled 14,747,830 passengers in 2019. COVID then slashed this by 76% to just 3.48 million in 2020. The airport recovered to set a new all-time record of 15.8 million in 2024."
+    },
+    ruth: {
+      options: [
+        "Nearly 15 million passengers!",
+        "Nearly 15 million passengers!",
+        "About twelve (it was a quiet year)",
+        "Too many (have you seen the queues?)"
+      ],
+      correct: 0,
+      explanation: "Nearly 15 million! Then COVID happened. But by 2024 it bounced back to 15.8 million — a new record."
+    }
+  },
+  {
+    id: 150,
+    category: "general",
+    question: "Which Spanish construction company owned Edinburgh Airport (via BAA) from 2006 to 2012?",
+    year: 2006,
+    eric: {
+      options: ["Ferrovial", "ACS Group", "Sacyr", "FCC"],
+      correct: 0,
+      explanation: "Ferrovial acquired BAA plc for approximately £10.3 billion in June 2006. The Competition Commission later forced BAA to sell Edinburgh, which went to Global Infrastructure Partners for £807 million in April 2012."
+    },
+    ruth: {
+      options: [
+        "Ferrovial",
+        "Ferrovial",
+        "A company nobody in Edinburgh could pronounce",
+        "Eric bought it with his pension"
+      ],
+      correct: 0,
+      explanation: "Ferrovial — a Spanish company that bought the whole of BAA for £10.3 billion!"
+    }
+  },
+  {
+    id: 151,
+    category: "general",
+    question: "A fibreglass Spitfire replica serves as a gate guardian at Edinburgh Airport. Which squadron's markings does it carry?",
+    year: null,
+    eric: {
+      options: ["603 (City of Edinburgh) Squadron", "602 (City of Glasgow) Squadron", "1 Squadron RAF", "43 (Fighting Cocks) Squadron"],
+      correct: 0,
+      explanation: "The replica carries 603 (City of Edinburgh) Squadron markings, marked as L1067 and nicknamed 'Blue Peter.' 603 Squadron was based at Turnhouse and scored the first aerial kill over Britain in WWII on 16 October 1939."
+    },
+    ruth: {
+      options: [
+        "603 (City of Edinburgh) Squadron — local heroes!",
+        "603 (City of Edinburgh) Squadron — local heroes!",
+        "It's a real Spitfire (it's just very tired)",
+        "Red Arrows (those are the fast colourful ones)"
+      ],
+      correct: 0,
+      explanation: "603 Squadron — Edinburgh's own fighter squadron from WWII! They shot down the first enemy plane over Britain."
+    }
+  },
+  {
+    id: 152,
+    category: "general",
+    question: "How much over budget was the Edinburgh tram project that reached the airport in 2014?",
+    year: 2014,
+    eric: {
+      options: ["£131 million over", "£181 million over", "£231 million over", "£281 million over"],
+      correct: 2,
+      explanation: "The tram cost nearly £777 million — £231 million over the original budget. It was also three years late. Lord Hardie's public inquiry report wasn't published until August 2023."
+    },
+    ruth: {
+      options: [
+        "£231 million over budget! Only in Edinburgh...",
+        "£231 million over budget! Only in Edinburgh...",
+        "It was actually under budget (just kidding)",
+        "So much over budget they stopped counting"
+      ],
+      correct: 0,
+      explanation: "£231 million over budget and three years late. The Edinburgh tram — a tale as old as time."
+    }
+  },
+
+  // ─── Vauxhall Cavalier ────────────────────────────────────────
+  {
+    id: 153,
+    category: "general",
+    question: "The Vauxhall Cavalier Mk2 estate had its rear tailgates manufactured in an unlikely location. Where?",
+    year: 1983,
+    eric: {
+      options: [
+        "By Holden in Australia",
+        "By Isuzu in Japan",
+        "By Daewoo in South Korea",
+        "By Saab in Sweden"
+      ],
+      correct: 0,
+      explanation: "The Mk2 estate's tailgates were manufactured by Holden in Australia (based on the Holden Camira wagon) and shipped to Luton for assembly. A truly global parts-bin exercise."
+    },
+    ruth: {
+      options: [
+        "Australia! The tailgates came from Down Under!",
+        "Australia! The tailgates came from Down Under!",
+        "They were hand-carved by elves in Luton",
+        "Eric's cupboard under the stairs (surprisingly roomy)"
+      ],
+      correct: 0,
+      explanation: "Australia! Holden built the tailgates and shipped them halfway around the world to Luton. Globalisation, 1980s style."
+    }
+  },
+  {
+    id: 154,
+    category: "general",
+    question: "The Mk2 Cavalier Calibre special edition (1987-88) was styled by Aston Martin Tickford. How many were built, and in what colour?",
+    year: 1987,
+    eric: {
+      options: [
+        "500, all in Carmine Red",
+        "500, all in Monaco Blue",
+        "750, all in Carmine Red",
+        "250, all in Black"
+      ],
+      correct: 0,
+      explanation: "Only 500 Calibres were built, all in Carmine Red. Based on the SRi 130 with a Tickford bodykit built by Irmscher, Recaro seats, and trip computer. By 2020, only 2 genuine examples were believed to remain on the road."
+    },
+    ruth: {
+      options: [
+        "500, all in red — and only 2 survive!",
+        "500, all in red — and only 2 survive!",
+        "Just the one, and Eric's got it",
+        "Millions, in every colour of the rainbow"
+      ],
+      correct: 0,
+      explanation: "500 Calibres, all Carmine Red, styled by Aston Martin Tickford. Only 2 are believed to still be on the road!"
+    }
+  },
+  {
+    id: 155,
+    category: "general",
+    question: "The Mk3 Cavalier's 2.0-litre 16-valve Ecotec cylinder head was co-developed with which unlikely engineering partner?",
+    year: 1994,
+    eric: {
+      options: ["Lotus", "Cosworth", "Porsche", "Ricardo"],
+      correct: 0,
+      explanation: "Lotus Engineering co-developed the X20XEV Ecotec head with Opel. Ironically, it produced less power than the 'Red Top' C20XE it replaced (136 bhp vs 150 bhp) due to emissions requirements."
+    },
+    ruth: {
+      options: [
+        "Lotus! (the sports car people!)",
+        "Lotus! (the sports car people!)",
+        "NASA (they had a spare afternoon)",
+        "Eric (he's good with engines too)"
+      ],
+      correct: 0,
+      explanation: "Lotus helped design the engine head — but it was actually less powerful than the one it replaced. Emissions rules!"
+    }
+  },
+  {
+    id: 156,
+    category: "general",
+    question: "What was the engine displacement of the Cavalier Mk1's launch engine in November 1975?",
+    year: 1975,
+    eric: {
+      options: ["1897 cc", "1798 cc", "1979 cc", "1584 cc"],
+      correct: 0,
+      explanation: "The Mk1 launched with a 1897 cc CIH (Cam-In-Head) engine, code 19S, producing 90 PS. Bore was 93 mm, stroke 69.8 mm. The 1979 cc engine (code 20S/20E) replaced it in 1978, adding hydraulic tappets."
+    },
+    ruth: {
+      options: [
+        "1897 cc",
+        "About the size of a sewing machine",
+        "1897 cc",
+        "Big enough (it's not a sports car)"
+      ],
+      correct: 0,
+      explanation: "1897 cc — a nicely odd number. The Mk1 was rear-wheel drive, using Opel's CIH engine design."
+    }
+  },
+  {
+    id: 157,
+    category: "general",
+    question: "Vauxhall refused to rename the Cavalier to 'Vectra' for the Mk3. Why?",
+    year: 1988,
+    eric: {
+      options: [
+        "They feared it sounded too much like the Vauxhall Victor",
+        "Market research showed UK buyers preferred 'Cavalier'",
+        "Ford threatened trademark action over the name",
+        "The name Vectra was not trademarked in the UK until 1994"
+      ],
+      correct: 0,
+      explanation: "Vauxhall kept 'Cavalier' because they thought 'Vectra' sounded too much like the much-maligned Vauxhall Victor. The Mk3 was sold as the Opel Vectra A across continental Europe, but Britain kept the Cavalier name until the Vectra B arrived in October 1995."
+    },
+    ruth: {
+      options: [
+        "It sounded too much like the old Vauxhall Victor!",
+        "It sounded too much like the old Vauxhall Victor!",
+        "Nobody could spell it",
+        "Eric threatened to write a strongly worded letter"
+      ],
+      correct: 0,
+      explanation: "They thought 'Vectra' sounded like 'Victor' — and the Victor was not fondly remembered! The name finally appeared in 1995."
+    }
+  },
+  {
+    id: 158,
+    category: "general",
+    question: "The Cavalier Turbo 4x4 (Mk3, 1992-94) had a C20LET engine. What was its power output and 0-60 time?",
+    year: 1992,
+    eric: {
+      options: [
+        "204 bhp, 6.5 seconds",
+        "200 bhp, 6.8 seconds",
+        "204 bhp, 7.2 seconds",
+        "210 bhp, 6.5 seconds"
+      ],
+      correct: 0,
+      explanation: "The C20LET produced exactly 204 bhp at 6000 rpm with 280 Nm of torque. 0-60 in 6.5 seconds, top speed 149 mph. Now extremely rare — the transfer box is a known weak point and commands five-figure prices."
+    },
+    ruth: {
+      options: [
+        "204 bhp and 0-60 in 6.5 seconds — quick!",
+        "204 bhp and 0-60 in 6.5 seconds — quick!",
+        "Faster than Eric on his bicycle",
+        "About 3 horsepower (it was a Cavalier, after all)"
+      ],
+      correct: 0,
+      explanation: "204 bhp and 0-60 in 6.5 seconds! Not bad for a car most people think of as a sales rep's motor."
+    }
+  },
+  {
+    id: 159,
+    category: "general",
+    question: "The Mk2 Cavalier was runner-up for European Car of the Year in 1982. Which car beat it?",
+    year: 1982,
+    eric: {
+      options: ["Renault 9", "Volkswagen Polo Mk2", "Ford Sierra", "Austin Maestro"],
+      correct: 0,
+      explanation: "The Renault 9 won, with the Cavalier Mk2 second and the VW Polo Mk2 third. The Ford Sierra wasn't launched until October 1982. The Cavalier never won the award in any of its three generations."
+    },
+    ruth: {
+      options: [
+        "The Renault 9 (really?!)",
+        "The Renault 9 (really?!)",
+        "A horse and cart",
+        "Nothing — it won! (actually it didn't)"
+      ],
+      correct: 0,
+      explanation: "The Renault 9! Beaten by a car hardly anyone remembers today. The Cavalier deserved better."
+    }
+  },
+  {
+    id: 160,
+    category: "general",
+    question: "The Mk3 Cavalier's 1.7 turbodiesel engine was built by which Japanese manufacturer?",
+    year: 1992,
+    eric: {
+      options: ["Isuzu", "Mitsubishi", "Yanmar", "Kubota"],
+      correct: 0,
+      explanation: "The 1.7 TD (code TC4EE1/X17DT) was built by Isuzu, producing 82 bhp. Isuzu had a long-standing relationship with GM. An oddity: a Japanese diesel in a supposedly European car."
+    },
+    ruth: {
+      options: [
+        "Isuzu — a Japanese engine in a Vauxhall!",
+        "Isuzu — a Japanese engine in a Vauxhall!",
+        "Eric (he built it in the cupboard under the stairs)",
+        "Toyota (everyone guesses Toyota)"
+      ],
+      correct: 0,
+      explanation: "Isuzu! A Japanese diesel engine in what everyone thought was a European car."
+    }
+  },
+  {
+    id: 161,
+    category: "general",
+    question: "John Cleland won the 1995 BTCC championship driving a Cavalier. How much power did his race car produce?",
+    year: 1995,
+    eric: {
+      options: ["270 bhp", "280 bhp", "290 bhp", "300 bhp"],
+      correct: 2,
+      explanation: "The championship-winning Cavalier (chassis #022) produced 290 bhp through Swindon-built engines with an X-Trac 6-speed sequential gearbox, weighing just 975 kg. It was the Cavalier's last BTCC season before being replaced by the Vectra."
+    },
+    ruth: {
+      options: [
+        "290 bhp — a proper racing car!",
+        "290 bhp — a proper racing car!",
+        "About the same as a lawnmower",
+        "Enough to win the championship (which it did!)"
+      ],
+      correct: 0,
+      explanation: "290 bhp in a car weighing just 975 kg! John Cleland won the 1995 championship — the Cavalier's triumphant farewell."
+    }
+  },
+  {
+    id: 162,
+    category: "general",
+    question: "How many Mk1 Cavalier Centaur convertibles were built between 1978 and 1979?",
+    year: 1978,
+    eric: {
+      options: ["98", "108", "118", "128"],
+      correct: 2,
+      explanation: "Only 118 Centaur convertibles were built. The first 3 were by Crayford, the rest by Magraw Engineering. Based on the 1900 GLS Coupe with a T-bar for structural rigidity. Conversion cost £2,808. Fewer than 30 were believed to survive by 2007."
+    },
+    ruth: {
+      options: [
+        "Just 118 — incredibly rare!",
+        "Just 118 — incredibly rare!",
+        "Millions (Vauxhall was very popular in the 1970s)",
+        "One, and it's in Eric's garage"
+      ],
+      correct: 0,
+      explanation: "Only 118 were ever made! Fewer than 30 are thought to survive. If you've got one, hold onto it."
+    }
   }
 
 ];
