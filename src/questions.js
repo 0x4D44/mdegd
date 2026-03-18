@@ -3720,6 +3720,720 @@ export const questions = [
       correct: 0,
       explanation: "Only 118 were ever made! Fewer than 30 are thought to survive. If you've got one, hold onto it."
     }
+  },
+
+  // ─── Buy cheap, buy again ─────────────────────────────────────
+  {
+    id: 163,
+    category: "general",
+    question: "Terry Pratchett's 'Sam Vimes Boots Theory of Socioeconomic Unfairness' appears in which 1993 Discworld novel?",
+    year: 1993,
+    eric: {
+      options: ["Men at Arms", "Guards! Guards!", "Feet of Clay", "Jingo"],
+      correct: 0,
+      explanation: "Men at Arms (1993). Vimes explains that a good pair of boots costs $50 and lasts ten years, but cheap $10 boots that fall apart after a season mean a poor man spends $100 on boots over the same period — and still has wet feet."
+    },
+    ruth: {
+      options: [
+        "Men at Arms",
+        "Buy Cheap, Buy Twice: A Novel",
+        "Men at Arms",
+        "Harry Potter and the Badly Made Boots"
+      ],
+      correct: 0,
+      explanation: "Men at Arms! Sam Vimes explains why being poor is expensive — cheap boots fall apart, so you spend more replacing them than if you'd bought good ones."
+    }
+  },
+  {
+    id: 164,
+    category: "general",
+    question: "In Terry Pratchett's boots theory, how much did a good pair of boots cost, and how long did they last?",
+    year: 1993,
+    eric: {
+      options: [
+        "$50, ten years",
+        "$40, ten years",
+        "$50, five years",
+        "$30, ten years"
+      ],
+      correct: 0,
+      explanation: "Good boots: $50, last ten years. Cheap boots: $10, last a season or two. Over ten years, the poor man spends $100 and still has wet feet. The rich man spends $50 and has dry feet. That's the Sam Vimes 'Boots' Theory."
+    },
+    ruth: {
+      options: [
+        "$50 and they lasted ten years!",
+        "$50 and they lasted ten years!",
+        "$1 million (very fancy boots)",
+        "Free (he nicked them)"
+      ],
+      correct: 0,
+      explanation: "$50 for boots that last ten years — while the cheap $10 boots meant spending $100 over the same period. Buy cheap, buy twice!"
+    }
+  },
+  {
+    id: 165,
+    category: "general",
+    question: "The quote 'It's unwise to pay too much, but it's worse to pay too little' is often attributed to which 19th-century figure?",
+    year: null,
+    eric: {
+      options: ["John Ruskin", "Charles Dickens", "Oscar Wilde", "Benjamin Franklin"],
+      correct: 0,
+      explanation: "Often attributed to John Ruskin (1819-1900), the Victorian painter, poet, and social critic. The full quote continues: 'When you pay too much, you lose a little money — that is all. When you pay too little, you sometimes lose everything.'"
+    },
+    ruth: {
+      options: [
+        "John Ruskin",
+        "Eric (he says this every time Ruth buys something)",
+        "John Ruskin",
+        "The man in the cheap boots"
+      ],
+      correct: 0,
+      explanation: "John Ruskin! Though Eric probably says something very similar every time someone buys the budget option."
+    }
+  },
+  {
+    id: 166,
+    category: "general",
+    question: "What is the economic term for a saving that actually costs you more in the long run?",
+    year: null,
+    eric: {
+      options: ["False economy", "Diminishing returns", "Opportunity cost", "Sunk cost"],
+      correct: 0,
+      explanation: "A false economy — an apparent saving that leads to greater expenditure over time. Cheap tools that break, cheap paint that needs three coats, cheap batteries that die in a day. Eric knows this."
+    },
+    ruth: {
+      options: [
+        "A false economy",
+        "A false economy",
+        "Bargain hunting gone wrong",
+        "Tuesday (everything goes wrong on Tuesdays)"
+      ],
+      correct: 0,
+      explanation: "A false economy! When saving money now costs you more later. As Eric would say: buy cheap, buy again."
+    }
+  },
+  {
+    id: 167,
+    category: "general",
+    question: "Cheap cling film won't cling, cheap bin bags split, cheap sellotape won't stick. What Scottish engineer said 'there is hardly anything in the world that some man cannot make a little worse and sell a little cheaper'?",
+    year: null,
+    eric: {
+      options: ["John Ruskin", "James Watt", "Thomas Telford", "Andrew Carnegie"],
+      correct: 0,
+      explanation: "This quote is also attributed to John Ruskin (though the attribution is disputed). The full version adds: 'and the people who consider price only are this man's lawful prey.' Eric would wholeheartedly agree."
+    },
+    ruth: {
+      options: [
+        "John Ruskin (he had a lot to say about cheap things)",
+        "John Ruskin (he had a lot to say about cheap things)",
+        "The man who invented cheap cling film (may he be ashamed)",
+        "Eric, every time he opens a cheap bin bag"
+      ],
+      correct: 0,
+      explanation: "John Ruskin again! He really had it in for cheap goods. And he was right — cheap cling film is the worst."
+    }
+  },
+  {
+    id: 168,
+    category: "general",
+    question: "A cheap screwdriver that strips on first use, a cheap paintbrush that sheds bristles, cheap shoes that leak after a week. Which of these is NOT a real consumer rights term?",
+    year: null,
+    eric: {
+      options: [
+        "Planned obsolescence avoidance",
+        "Not of satisfactory quality",
+        "Not fit for purpose",
+        "Not as described"
+      ],
+      correct: 0,
+      explanation: "'Planned obsolescence avoidance' isn't a consumer rights term. The real ones — 'not of satisfactory quality,' 'not fit for purpose,' and 'not as described' — are the three key tests under UK consumer law (Consumer Rights Act 2015). Eric probably knows them by heart."
+    },
+    ruth: {
+      options: [
+        "Planned obsolescence avoidance (that's made up!)",
+        "Planned obsolescence avoidance (that's made up!)",
+        "They're all made up (like most legal terms)",
+        "Eric's Law of Cheap Tools"
+      ],
+      correct: 0,
+      explanation: "'Planned obsolescence avoidance' — the other three are real consumer rights under UK law!"
+    }
+  },
+  {
+    id: 169,
+    category: "general",
+    question: "If a cheap £10 kettle lasts 2 years but a quality £40 kettle lasts 10 years, how much do you spend on cheap kettles over 10 years?",
+    year: null,
+    eric: {
+      options: ["£50", "£40", "£60", "£30"],
+      correct: 0,
+      explanation: "Five cheap kettles × £10 = £50, versus one quality kettle at £40. You spend £10 more AND endure five kettle failures. The false economy in action. Buy cheap, buy again."
+    },
+    ruth: {
+      options: [
+        "£50 — more than the good kettle!",
+        "£50 — more than the good kettle!",
+        "Nothing (just boil water in a pan)",
+        "Eric can calculate this faster than anyone"
+      ],
+      correct: 0,
+      explanation: "£50 on cheap kettles vs £40 on one good one! And you had to go kettle shopping five times. Buy cheap, buy again."
+    }
+  },
+  {
+    id: 170,
+    category: "general",
+    question: "The phrase 'buy cheap, buy twice' has an even more Scottish variant. What is it?",
+    year: null,
+    eric: {
+      options: [
+        "Buy cheap, buy again",
+        "Cheap gear is dear gear",
+        "A penny saved is a penny wasted",
+        "All of these are real Scottish variants"
+      ],
+      correct: 1,
+      explanation: "'Cheap gear is dear gear' — a classic Scottish saying meaning cheap equipment ends up being expensive. 'Buy cheap, buy again' is more of a family variant. The Scots have always understood that quality pays for itself."
+    },
+    ruth: {
+      options: [
+        "Cheap gear is dear gear",
+        "Cheap gear is dear gear",
+        "Och, that's rubbish, buy another one",
+        "If it's cheap, dinnae buy it"
+      ],
+      correct: 0,
+      explanation: "'Cheap gear is dear gear' — the Scots know that cheap stuff ends up costing you more!"
+    }
+  },
+  {
+    id: 171,
+    category: "general",
+    question: "The Buy Me Once movement promotes buying quality items that last a lifetime. Their website lists products with the longest warranties. What is the key principle?",
+    year: null,
+    eric: {
+      options: [
+        "Cost per use, not purchase price",
+        "Always buy the most expensive option",
+        "Only buy items with a 25-year warranty",
+        "Never buy anything manufactured in China"
+      ],
+      correct: 0,
+      explanation: "Cost per use — a £100 coat worn 500 times costs 20p per use, while a £30 coat worn 20 times costs £1.50 per use. The expensive coat is actually 7.5 times cheaper per wearing. Eric has been saying this for decades."
+    },
+    ruth: {
+      options: [
+        "Work out the cost per use, not just the price tag!",
+        "Work out the cost per use, not just the price tag!",
+        "Never buy anything ever (saves the most money)",
+        "Ask Eric — he'll tell you (at length)"
+      ],
+      correct: 0,
+      explanation: "Cost per use! A quality item used hundreds of times is cheaper per use than a bargain that falls apart after a month."
+    }
+  },
+  {
+    id: 172,
+    category: "general",
+    question: "Eric's philosophy of 'buy cheap, buy again' applies especially to tools. What did Philip of Macedon supposedly say about cheapness?",
+    year: null,
+    eric: {
+      options: [
+        "I do not steal victories — cheap victories are worthless",
+        "There is no such thing as cheap; only different kinds of expensive",
+        "A cheap sword costs more than an expensive one — in blood",
+        "None of these — Philip never discussed bargain shopping"
+      ],
+      correct: 3,
+      explanation: "None of these! Philip of Macedon was too busy conquering Greece to discuss the false economy of cheap screwdrivers. But if he had, he'd have agreed with Eric."
+    },
+    ruth: {
+      options: [
+        "He never said anything about it (trick question!)",
+        "He never said anything about it (trick question!)",
+        "He never said anything about it (trick question!)",
+        "He never said anything about it (trick question!)"
+      ],
+      correct: 0,
+      explanation: "Trick question! Philip of Macedon never commented on bargain-hunting. But Eric probably would have given him an earful about cheap Macedonian swords."
+    }
+  },
+
+  // ─── Aberdeen & Edinburgh Trams ───────────────────────────────
+  {
+    id: 173,
+    category: "general",
+    question: "When did Aberdeen's last tram run, and what was the tram number?",
+    year: 1958,
+    eric: {
+      options: ["3 May 1958, No. 36", "3 May 1958, No. 38", "3 May 1957, No. 36", "1 May 1958, No. 36"],
+      correct: 0,
+      explanation: "Tram No. 36 made the last journey on 3 May 1958, on the 'Bridges' route from Bridge of Dee to Bridge of Don. Motorman W. Hay and Conductor T. Watson crewed it, with Lord Provost George Stephen aboard."
+    },
+    ruth: {
+      options: [
+        "3 May 1958, tram number 36",
+        "3 May 1958, tram number 36",
+        "Last Tuesday (they're still running, aren't they?)",
+        "Aberdeen had trams?!"
+      ],
+      correct: 0,
+      explanation: "Tram No. 36, 3 May 1958 — the last tram in Aberdeen. Lord Provost George Stephen rode along for the final journey."
+    }
+  },
+  {
+    id: 174,
+    category: "general",
+    question: "After closure, what happened to Aberdeen's remaining tram fleet?",
+    year: 1958,
+    eric: {
+      options: [
+        "They were burned on the beach at Beach Links",
+        "They were sold to Blackpool Corporation",
+        "They were scrapped at Queen's Cross depot",
+        "They were dumped in Aberdeen harbour"
+      ],
+      correct: 0,
+      explanation: "The trams were burned on the beach! 17 vehicles in the first burning on 13 May 1958 (filmed by press), then a 'secret' second burning — but word spread and locals turned up in pyjamas to watch. Only the metal frames survived, sold as scrap."
+    },
+    ruth: {
+      options: [
+        "They burned them on the beach! (Seriously!)",
+        "They burned them on the beach! (Seriously!)",
+        "They're still running (just very slowly)",
+        "Eric has one in his garage"
+      ],
+      correct: 0,
+      explanation: "They really did burn them on the beach! There was a public burning and then a 'secret' second one that wasn't very secret at all."
+    }
+  },
+  {
+    id: 175,
+    category: "general",
+    question: "Aberdeen holds what distinction among UK municipal tramways?",
+    year: null,
+    eric: {
+      options: [
+        "Most northerly municipal tramway in the UK",
+        "Smallest municipal tramway in Scotland",
+        "Last municipal tramway to close in Scotland",
+        "Only Scottish tramway to use narrow gauge"
+      ],
+      correct: 0,
+      explanation: "Aberdeen was the most northerly municipal tramway in the United Kingdom. Glasgow was the last Scottish tramway to close (1962), not Aberdeen (1958). Both Aberdeen and Edinburgh used standard gauge."
+    },
+    ruth: {
+      options: [
+        "The most northerly tram system in the whole UK!",
+        "The most northerly tram system in the whole UK!",
+        "The most fun tram system (according to Eric)",
+        "The only tram system with cow-catchers (actually true!)"
+      ],
+      correct: 0,
+      explanation: "The most northerly! No UK city further north ever had a municipal tram system."
+    }
+  },
+  {
+    id: 176,
+    category: "general",
+    question: "Aberdeen's Queen's Cross tram depot was sold in 1960. What was it converted into?",
+    year: 1960,
+    eric: {
+      options: [
+        "Grampian Television studios",
+        "A bus depot for Alexander's",
+        "An ice rink",
+        "A carpet warehouse"
+      ],
+      correct: 0,
+      explanation: "The Queen's Cross depot was purchased by Grampian Television in 1960 and converted into TV studios. It was demolished by 2004, with flats built on the site."
+    },
+    ruth: {
+      options: [
+        "A TV studio! (Grampian Television)",
+        "A TV studio! (Grampian Television)",
+        "A very large car park",
+        "Eric's cupboard under the stairs (it's bigger than you think)"
+      ],
+      correct: 0,
+      explanation: "Grampian Television studios! From tram shed to TV studio — quite the career change for a building."
+    }
+  },
+  {
+    id: 177,
+    category: "general",
+    question: "Who built Aberdeen's last new trams in 1949?",
+    year: 1949,
+    eric: {
+      options: [
+        "R.Y. Pickering of Wishaw",
+        "Brush Electrical Engineering of Loughborough",
+        "Metropolitan-Cammell of Birmingham",
+        "English Electric of Preston"
+      ],
+      correct: 0,
+      explanation: "R.Y. Pickering & Co. of Wishaw built the final new trams for Aberdeen in 1949. The original electric trams (c.1901) were Brush-built. Aberdeen also bought 18 second-hand trams from Nottingham in 1936."
+    },
+    ruth: {
+      options: [
+        "R.Y. Pickering of Wishaw",
+        "R.Y. Pickering of Wishaw",
+        "IKEA (flat-pack trams, assembly required)",
+        "A man called Roy who was very good with metal"
+      ],
+      correct: 0,
+      explanation: "R.Y. Pickering of Wishaw — the last new trams Aberdeen ever ordered, just 9 years before the whole system closed."
+    }
+  },
+  {
+    id: 178,
+    category: "general",
+    question: "Edinburgh's original tram system was one of the largest of what type in the world?",
+    year: null,
+    eric: {
+      options: [
+        "Cable tramway",
+        "Horse tramway",
+        "Overhead electric trolley",
+        "Steam tramway"
+      ],
+      correct: 0,
+      explanation: "Edinburgh had one of the largest cable tramway systems in the world (comparable to San Francisco). Cable traction was chosen because Edinburgh's steep hills made horse traction impractical. The cables ran in channels in the road, driven by steam from four power stations."
+    },
+    ruth: {
+      options: [
+        "Cable tramway — like San Francisco!",
+        "Cable tramway — like San Francisco!",
+        "Invisible tramway (very advanced for the time)",
+        "Horse-and-cart tramway (just a cart with rails)"
+      ],
+      correct: 0,
+      explanation: "Cable tramway! Edinburgh's hills were too steep for horses, so they used underground cables — like San Francisco does today."
+    }
+  },
+  {
+    id: 179,
+    category: "general",
+    question: "What was the 'Pilrig Muddle' on Edinburgh's tram system?",
+    year: null,
+    eric: {
+      options: [
+        "The forced interchange between cable and electric trams at the Edinburgh/Leith boundary",
+        "A signalling error that caused two trams to collide at Pilrig",
+        "The confusing one-way system around Pilrig roundabout",
+        "A failed attempt to run cable and electric trams on the same track"
+      ],
+      correct: 0,
+      explanation: "When Leith electrified its trams in 1905 but Edinburgh still used cable traction, passengers had to change trams at Pilrig (the boundary). This chaotic forced interchange lasted until June 1923 when Edinburgh finally electrified."
+    },
+    ruth: {
+      options: [
+        "Passengers had to change between cable and electric trams!",
+        "Passengers had to change between cable and electric trams!",
+        "A very confusing type of tram pudding",
+        "Nobody knows — it's still a muddle"
+      ],
+      correct: 0,
+      explanation: "For nearly 20 years, passengers had to get off one tram and onto another at Pilrig because Edinburgh used cables and Leith used electricity!"
+    }
+  },
+  {
+    id: 180,
+    category: "general",
+    question: "Edinburgh's tram No. 35 is unique in having operated on how many different tramway systems?",
+    year: 1956,
+    eric: {
+      options: ["Three", "Four", "Five", "Two"],
+      correct: 1,
+      explanation: "Tram No. 35 operated on four different systems: Edinburgh, Blackpool, Glasgow (Garden Festival 1988), and the National Tramway Museum at Crich. Built at Shrubhill Works in 1948, it's now on static display at Crich."
+    },
+    ruth: {
+      options: [
+        "Four! Edinburgh, Blackpool, Glasgow, and Crich!",
+        "Four! Edinburgh, Blackpool, Glasgow, and Crich!",
+        "Just the one (trams can't drive between cities... can they?)",
+        "All of them (it was a very well-travelled tram)"
+      ],
+      correct: 0,
+      explanation: "Four systems! It ran in Edinburgh, then Blackpool, then at the Glasgow Garden Festival, and finally at Crich museum in Derbyshire."
+    }
+  },
+  {
+    id: 181,
+    category: "general",
+    question: "Edinburgh built most of its own trams at which depot/works?",
+    year: null,
+    eric: {
+      options: ["Shrubhill Works", "Tollcross Depot", "Leith Walk Works", "Gorgie Depot"],
+      correct: 0,
+      explanation: "Shrubhill Works in Leith was both the main depot and the tram-building facility. Unlike most cities that bought trams from manufacturers, Edinburgh built most of its fleet in-house."
+    },
+    ruth: {
+      options: [
+        "Shrubhill Works",
+        "Shrubhill Works",
+        "IKEA Edinburgh (flat-pack trams, again)",
+        "A very large shed on Princes Street"
+      ],
+      correct: 0,
+      explanation: "Shrubhill Works — Edinburgh didn't just run trams, they built them too!"
+    }
+  },
+  {
+    id: 182,
+    category: "general",
+    question: "Edinburgh's original tram livery of madder (dark red) and white is still used today by which company?",
+    year: null,
+    eric: {
+      options: ["Lothian Buses", "First Edinburgh", "Stagecoach East Scotland", "ScotRail"],
+      correct: 0,
+      explanation: "Lothian Buses still uses the madder and white colour scheme — a direct heritage link spanning over 150 years from the original Edinburgh Corporation Tramways. The modern Edinburgh Trams also echo these colours."
+    },
+    ruth: {
+      options: [
+        "Lothian Buses — the colours live on!",
+        "Lothian Buses — the colours live on!",
+        "Nobody (they changed to beige, the cowards)",
+        "Edinburgh Airport (everything in Edinburgh is the same colour)"
+      ],
+      correct: 0,
+      explanation: "Lothian Buses still uses madder and white! Over 150 years of the same colour scheme."
+    }
+  },
+  {
+    id: 183,
+    category: "general",
+    question: "How long was Edinburgh without trams between the old system closing and the modern tram opening?",
+    year: 2014,
+    eric: {
+      options: ["About 55 years", "About 57 years", "About 59 years", "About 61 years"],
+      correct: 1,
+      explanation: "The old system closed on 16 November 1956 and the modern tram opened on 31 May 2014 — a gap of approximately 57 years and 6 months. Same standard gauge track, similar colours."
+    },
+    ruth: {
+      options: [
+        "About 57 years — a very long wait!",
+        "About 57 years — a very long wait!",
+        "Five minutes (Edinburgh is very efficient)",
+        "They never left (they were just hiding)"
+      ],
+      correct: 0,
+      explanation: "Nearly 58 years without trams! And then the new ones were three years late and massively over budget."
+    }
+  },
+  {
+    id: 184,
+    category: "general",
+    question: "Edinburgh's Princes Street was converted from cable to electric tram traction in what dramatic fashion in October 1922?",
+    year: 1922,
+    eric: {
+      options: [
+        "Overnight, in a single operation",
+        "Over a weekend, closing the street for two days",
+        "Gradually, one block at a time over six weeks",
+        "During a two-week shutdown of the entire city centre"
+      ],
+      correct: 0,
+      explanation: "Princes Street was converted from cable to electric traction overnight — an impressive feat of engineering coordination. The electric trams finally crossed the Pilrig boundary on 20 June 1923, ending the 'Pilrig Muddle.'"
+    },
+    ruth: {
+      options: [
+        "Overnight! They did it all in one go!",
+        "Overnight! They did it all in one go!",
+        "Very, very slowly (Edinburgh Council was involved)",
+        "They're still working on it"
+      ],
+      correct: 0,
+      explanation: "They did it overnight! One night: cable trams. Next morning: electric trams. Impressive stuff."
+    }
+  },
+  {
+    id: 185,
+    category: "general",
+    question: "When Edinburgh closed its tram system in 1956, what was notable about the timing in relation to passenger numbers?",
+    year: 1956,
+    eric: {
+      options: [
+        "1948 had been a record year for passengers, just 8 years before closure",
+        "Passenger numbers had been declining steadily for 20 years",
+        "The system hadn't turned a profit since 1939",
+        "Passenger numbers had halved between 1950 and 1955"
+      ],
+      correct: 0,
+      explanation: "1948 was a record year for passengers — and the system was closed just 8 years later. Some trams sent for scrap were only 4 years old. The decision was political, not economic."
+    },
+    ruth: {
+      options: [
+        "They closed it just 8 years after its busiest year ever!",
+        "They closed it just 8 years after its busiest year ever!",
+        "Nobody was using it (not true!)",
+        "It was losing money (actually, it wasn't)"
+      ],
+      correct: 0,
+      explanation: "1948 was the busiest year ever for Edinburgh trams — and they closed the whole system in 1956. Some brand-new trams went straight to the scrapyard."
+    }
+  },
+  {
+    id: 186,
+    category: "general",
+    question: "Aberdeen's tram depot on King Street later became the headquarters of which major transport company?",
+    year: null,
+    eric: {
+      options: ["FirstGroup plc", "Stagecoach Group", "National Express", "Arriva"],
+      correct: 0,
+      explanation: "The King Street tram depot (opened 1920 on the former King Street Barracks site) became the headquarters of what is now FirstGroup plc. When redeveloped in 2010, some tram tracks were preserved and displayed outside the building."
+    },
+    ruth: {
+      options: [
+        "FirstGroup — still a transport HQ!",
+        "FirstGroup — still a transport HQ!",
+        "Pizza Hut (they have very large ovens)",
+        "Eric's garage (it's expanding)"
+      ],
+      correct: 0,
+      explanation: "FirstGroup plc! From tram depot to bus company headquarters — transport through the ages."
+    }
+  },
+  {
+    id: 187,
+    category: "general",
+    question: "Aberdeen's trams were famously fitted with what safety device, credited with saving many lives?",
+    year: null,
+    eric: {
+      options: ["Cow-catchers", "Air brakes", "Electric bells", "Rear-view mirrors"],
+      correct: 0,
+      explanation: "Aberdeen trams were fitted with cow-catchers (also called lifeguards). In 1929, 14-year-old John Henderson was saved by one after swerving his bicycle into a tram on Union Street."
+    },
+    ruth: {
+      options: [
+        "Cow-catchers! (No actual cows were caught)",
+        "Cow-catchers! (No actual cows were caught)",
+        "Very loud horns (to scare the cows)",
+        "A man running in front with a red flag"
+      ],
+      correct: 0,
+      explanation: "Cow-catchers! Despite the name, they were mainly for catching people who fell in front of the trams."
+    }
+  },
+  {
+    id: 188,
+    category: "general",
+    question: "Edinburgh's last tram ran on 16 November 1956. How many trams were in the farewell procession?",
+    year: 1956,
+    eric: {
+      options: ["Eight", "Ten", "Twelve", "Fifteen"],
+      correct: 1,
+      explanation: "Ten trams processed from the Braids terminus to Shrubhill Depot, retracing much of the original 1871 route. One carried the city councillors who had voted for closure. Enormous crowds gathered at the Mound and along the route."
+    },
+    ruth: {
+      options: [
+        "Ten trams — quite the farewell parade!",
+        "Ten trams — quite the farewell parade!",
+        "Just the one (but it went round in circles)",
+        "All of them (a very long queue)"
+      ],
+      correct: 0,
+      explanation: "Ten trams in a farewell procession! The whole of Edinburgh came out to watch."
+    }
+  },
+  {
+    id: 189,
+    category: "general",
+    question: "How did Edinburgh's cable trams work?",
+    year: null,
+    eric: {
+      options: [
+        "A grip mechanism dropped into a channel containing a moving cable driven by steam",
+        "Overhead cables attached to the tram roof, powered by electricity",
+        "A cable attached to the front, wound by a steam engine at each terminus",
+        "Underground electric cables embedded in the track surface"
+      ],
+      correct: 0,
+      explanation: "Edinburgh's cable trams used a gripping mechanism dropped into a slot in the road surface, latching onto a continuously moving cable driven by steam from four power stations. Maximum speed: a leisurely 12 mph."
+    },
+    ruth: {
+      options: [
+        "A grip grabbed an underground cable — like San Francisco!",
+        "A grip grabbed an underground cable — like San Francisco!",
+        "Very slowly (that's how everything works in Edinburgh)",
+        "Magic (the Victorians were good at that)"
+      ],
+      correct: 0,
+      explanation: "A grip mechanism in the road grabbed a moving underground cable — just like the famous San Francisco cable cars!"
+    }
+  },
+  {
+    id: 190,
+    category: "general",
+    question: "When Aberdeen's tram closure was debated on 7 February 1955, Transport Convener Councillor Sinclair Hay compared the decision to what?",
+    year: 1955,
+    eric: {
+      options: [
+        "The decision to scrap horse trams and adopt electric traction",
+        "The decision to build the Forth Bridge",
+        "The most important decision since the war",
+        "A revolution in city transport"
+      ],
+      correct: 0,
+      explanation: "Hay told colleagues it was 'the most important decision taken on transport since our predecessors decided to scrap the old horse trams and substitute the then-modern system of electric traction.' The main reason for closure: rising electricity costs — diesel buses were cheaper."
+    },
+    ruth: {
+      options: [
+        "The decision to swap horses for electric trams!",
+        "The decision to swap horses for electric trams!",
+        "The decision to have lunch (also important)",
+        "The decision to burn the trams on the beach (not yet, Councillor!)"
+      ],
+      correct: 0,
+      explanation: "He compared it to the original decision to scrap horse trams — history repeating itself, one transport revolution after another."
+    }
+  },
+  {
+    id: 191,
+    category: "general",
+    question: "Edinburgh's old trams closed in 1956, Aberdeen's in 1958. Which Scottish city was the very last to close its tramway?",
+    year: 1962,
+    eric: {
+      options: ["Glasgow, 1962", "Dundee, 1960", "Glasgow, 1960", "Aberdeen, 1958"],
+      correct: 0,
+      explanation: "Glasgow was the last city in Scotland (and the last in Britain) to operate trams, closing on 4 September 1962. Edinburgh closed 1956, Aberdeen 1958, Dundee had closed in 1956."
+    },
+    ruth: {
+      options: [
+        "Glasgow — the last in the whole of Britain!",
+        "Glasgow — the last in the whole of Britain!",
+        "Edinburgh (they're never first at anything)",
+        "Inverness (it's always last for everything)"
+      ],
+      correct: 0,
+      explanation: "Glasgow held on until 1962 — the very last city in Britain to run trams. Then Edinburgh brought them back in 2014!"
+    }
+  },
+  {
+    id: 192,
+    category: "general",
+    question: "How many routes and trams did Edinburgh's system have at its peak in the early 1950s?",
+    year: 1950,
+    eric: {
+      options: [
+        "28 routes, about 400 trams",
+        "22 routes, about 300 trams",
+        "32 routes, about 450 trams",
+        "25 routes, about 350 trams"
+      ],
+      correct: 0,
+      explanation: "Edinburgh had approximately 400 trams on 28 routes covering 47 miles of track at its peak — roughly 5 times larger than Aberdeen's system (77 trams, 9 routes, 16 miles)."
+    },
+    ruth: {
+      options: [
+        "28 routes and about 400 trams — huge!",
+        "28 routes and about 400 trams — huge!",
+        "Just the one route (Princes Street and back)",
+        "Too many to count (Edinburgh loves counting things)"
+      ],
+      correct: 0,
+      explanation: "28 routes and 400 trams! Edinburgh's system was massive — five times bigger than Aberdeen's."
+    }
   }
 
 ];
