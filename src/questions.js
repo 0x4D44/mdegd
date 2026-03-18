@@ -6863,6 +6863,293 @@ export const questions = [
     }
   },
 
+  // ─── Perth, Scotland ──────────────────────────────────────────
+  {
+    id: 313,
+    category: "general",
+    question: "How many Tesco stores are there in Perth, Scotland?",
+    year: null,
+    eric: {
+      options: ["3", "4", "5", "2"],
+      correct: 1,
+      explanation: "4 Tesco stores: 1 Tesco Extra (Crieff Road, 24-hour), 1 Superstore, and 2 Tesco Express. Perth also has an Asda (built on St Johnstone's old ground), a Morrisons, 2 Aldis, 1 Lidl, but no Waitrose."
+    },
+    ruth: {
+      options: ["4! (Eric probably knows them all)", "4! (Eric probably knows them all)", "One on every corner", "None — Perth uses carrier pigeons for groceries"],
+      correct: 0,
+      explanation: "4 Tescos! And no Waitrose. Eric has probably been to all of them."
+    }
+  },
+  {
+    id: 314,
+    category: "general",
+    question: "King James I was murdered in Perth in 1437. How did his escape attempt through a sewer fail?",
+    year: 1437,
+    eric: {
+      options: [
+        "The exit had been blocked to stop tennis balls getting lost",
+        "The sewer was flooded by the River Tay",
+        "A guard was posted at the exit by the conspirators",
+        "The sewer had collapsed earlier that week"
+      ],
+      correct: 0,
+      explanation: "James tried to escape through a sewer tunnel at Blackfriars, but its exit had recently been blocked to prevent tennis balls disappearing into it. He was trapped and stabbed to death. Catherine Douglas tried to bar the door using her arm as a bolt — the assassins broke it forcing entry."
+    },
+    ruth: {
+      options: ["Tennis balls! They blocked the sewer to stop losing them!", "Tennis balls! They blocked the sewer to stop losing them!", "He took a wrong turn (sat nav hadn't been invented)", "The sewer was full (not his day)"],
+      correct: 0,
+      explanation: "A king killed because someone blocked a sewer to save tennis balls. You genuinely cannot make this up."
+    }
+  },
+  {
+    id: 315,
+    category: "general",
+    question: "Why was horse racing moved from Perth's North Inch to Scone Palace grounds?",
+    year: null,
+    eric: {
+      options: [
+        "A drinking ban on the North Inch — Lord Mansfield offered his land",
+        "The North Inch was needed for military drills",
+        "The course was too short for National Hunt racing",
+        "Flooding repeatedly washed out the racecourse"
+      ],
+      correct: 0,
+      explanation: "Racing moved because of a drinking ban on the North Inch. Lord Mansfield offered the Scone Palace parklands as an alternative — where they could drink freely. Perth Racecourse is now the northernmost racecourse in Britain."
+    },
+    ruth: {
+      options: ["They banned drinking! So the racing moved!", "They banned drinking! So the racing moved!", "The horses preferred the scenery at Scone", "Eric complained about the noise"],
+      correct: 0,
+      explanation: "No booze, no horse racing. Lord Mansfield to the rescue with his palace grounds and a more relaxed drinks policy."
+    }
+  },
+  {
+    id: 316,
+    category: "general",
+    question: "The British rod-caught salmon record has stood since 1922. What was notable about the angler who caught it?",
+    year: 1922,
+    eric: {
+      options: [
+        "It was caught by a woman — Georgina Ballantine, 64 lbs on the Tay",
+        "It was caught by a 12-year-old boy on his first outing",
+        "The angler used homemade tackle from a bicycle wheel",
+        "It was caught on the angler's last day before retirement"
+      ],
+      correct: 0,
+      explanation: "Georgina Ballantine caught a 64 lb salmon on the Glendelvine Beat's 'Boat Pool' on the River Tay in 1922. It's still the British rod-caught record over a century later — and caught by a woman."
+    },
+    ruth: {
+      options: ["A woman caught it! And the record still stands!", "A woman caught it! And the record still stands!", "Eric caught it (he didn't, but he'll claim he did)", "The salmon was so big it caught the angler"],
+      correct: 0,
+      explanation: "Georgina Ballantine — her 64lb salmon from 1922 is STILL the British record. Over 100 years and nobody has beaten her."
+    }
+  },
+  {
+    id: 317,
+    category: "general",
+    question: "St Johnstone FC won a historic cup double in 2020-21. Who scored the winning goal in BOTH finals?",
+    year: 2021,
+    eric: {
+      options: ["Shaun Rooney", "Chris Kane", "Callum Davidson", "Jason Kerr"],
+      correct: 0,
+      explanation: "Shaun Rooney scored headed winners in both the League Cup final (1-0 v Livingston, 28 February 2021) and the Scottish Cup final (1-0 v Hibs, 22 May 2021). St Johnstone became only the fourth Scottish club to win both cups in the same season."
+    },
+    ruth: {
+      options: ["Shaun Rooney — headers in both finals!", "Shaun Rooney — headers in both finals!", "Eric (he's a secret footballer)", "The goalkeeper (that would have been impressive)"],
+      correct: 0,
+      explanation: "Shaun Rooney — headed winners in BOTH cup finals! A Perth legend."
+    }
+  },
+  {
+    id: 318,
+    category: "general",
+    question: "Bell's Sports Centre in Perth had the largest timber dome in the UK until 1999. What surpassed it?",
+    year: 1968,
+    eric: {
+      options: ["The Millennium Dome", "The O2 Arena", "The Eden Project", "Wembley Stadium"],
+      correct: 0,
+      explanation: "Bell's Sports Centre's laminated timber dome (67m diameter) held the record from 1968 until London's Millennium Dome in 1999. The centre opened on 15 October 1968, delayed from March by a fire. In October 2023, it was flooded after the council failed to close the Tay floodgates."
+    },
+    ruth: {
+      options: ["The Millennium Dome!", "The Millennium Dome!", "Eric's shed (it's surprisingly large)", "A very large umbrella"],
+      correct: 0,
+      explanation: "The Millennium Dome! Bell's Sports Centre held the UK record for 31 years."
+    }
+  },
+  {
+    id: 319,
+    category: "general",
+    question: "Perth regained city status in 2012 after losing it during local government reorganisation. What was the occasion?",
+    year: 2012,
+    eric: {
+      options: [
+        "The Queen's Diamond Jubilee celebrations",
+        "The Edinburgh Festival's 65th anniversary",
+        "The 2012 London Olympics",
+        "The Scottish independence referendum"
+      ],
+      correct: 0,
+      explanation: "Perth was awarded city status on 14 March 2012 as part of the Diamond Jubilee celebrations, alongside Chelmsford and St Asaph. It became Scotland's seventh city, having been technically a 'town' since losing the designation in the 1975 reorganisation."
+    },
+    ruth: {
+      options: ["The Queen's Diamond Jubilee!", "The Queen's Diamond Jubilee!", "Perth complained loudly enough", "Eric wrote to his MP (again)"],
+      correct: 0,
+      explanation: "The Diamond Jubilee! Perth had been technically a 'town' for decades. Finally a city again in 2012."
+    }
+  },
+  {
+    id: 320,
+    category: "general",
+    question: "St Johnstone's old ground Muirton Park was sold. What was built on the site?",
+    year: 1989,
+    eric: {
+      options: ["An Asda superstore", "A Tesco Extra", "A housing estate", "A cinema complex"],
+      correct: 0,
+      explanation: "Muirton Park (used 1924-1989) was sold to Asda, who built their superstore on it. St Johnstone moved to McDiarmid Park in 1989. The club name comes from Perth's historic name: 'St John's Toun.'"
+    },
+    ruth: {
+      options: ["An Asda! Football ground to supermarket!", "An Asda! Football ground to supermarket!", "A very large car park", "Eric's new garage (he needed the space)"],
+      correct: 0,
+      explanation: "An Asda superstore! From football ground to frozen food aisle. Progress?"
+    }
+  },
+  {
+    id: 321,
+    category: "general",
+    question: "What is Scotland's first free public lending library, located near Perth?",
+    year: 1680,
+    eric: {
+      options: [
+        "Innerpeffray Library, founded 1680",
+        "Dundee Public Library, founded 1689",
+        "Perth City Library, founded 1672",
+        "Scone Abbey Library, founded 1660"
+      ],
+      correct: 0,
+      explanation: "Innerpeffray Library (4 miles SE of Crieff, in Perth and Kinross), founded in 1680. Started in the attic of a chapel. The original 400 books included works on witchcraft, demonology, and astrology. The borrowing register survives from the 17th century."
+    },
+    ruth: {
+      options: ["Innerpeffray! Founded 1680 with books on witchcraft!", "Innerpeffray! Founded 1680 with books on witchcraft!", "Eric's bookshelf (he's very generous with lending)", "The Rovers Return library (that's Coronation Street)"],
+      correct: 0,
+      explanation: "Innerpeffray Library — Scotland's oldest lending library, with original books on witchcraft and demonology. Not your typical library!"
+    }
+  },
+  {
+    id: 322,
+    category: "general",
+    question: "Perth Prison holds what distinction in the history of British capital punishment?",
+    year: 1870,
+    eric: {
+      options: [
+        "Site of Britain's first private (non-public) execution in 1870",
+        "Last prison in Scotland to carry out an execution",
+        "Only prison where a woman was executed in the 20th century",
+        "First prison to use the long-drop method"
+      ],
+      correct: 0,
+      explanation: "George Chalmers was hanged within Perth Prison walls in 1870 — the first private execution in Britain after public hangings were abolished in 1868. The prison was also the only one in Britain with facilities for force-feeding hunger-striking suffragettes."
+    },
+    ruth: {
+      options: ["First private execution in Britain — 1870!", "First private execution in Britain — 1870!", "It's haunted (probably)", "Eric once visited (as a tourist, not an inmate)"],
+      correct: 0,
+      explanation: "The first non-public execution in British history. The prison was originally built by French Napoleonic prisoners of war, who were so popular the town waved them off when they were repatriated."
+    }
+  },
+  {
+    id: 323,
+    category: "general",
+    question: "The Kinnoull Tower folly overlooking Perth was inspired by castles in which European country?",
+    year: null,
+    eric: {
+      options: ["Germany (Rhine castles)", "France (Loire castles)", "Italy (Tuscan towers)", "Spain (Andalusian forts)"],
+      correct: 0,
+      explanation: "Thomas Hay, 9th Earl of Kinnoull, built the tower in the early 1800s inspired by castles along the Rhine in Germany. Kinnoull Hill (222m / 728 ft) offers panoramic views of the Tay, Fife, and the Sidlaw Hills."
+    },
+    ruth: {
+      options: ["Germany! Inspired by castles on the Rhine!", "Germany! Inspired by castles on the Rhine!", "Scotland (he was inspired by his own garden)", "Nowhere — he just liked building things (like Eric)"],
+      correct: 0,
+      explanation: "Rhine castles in Germany! The Earl of Kinnoull saw them on holiday and thought 'I'll have one of those at home.'"
+    }
+  },
+  {
+    id: 324,
+    category: "general",
+    question: "What significant historical artefact returned to Perth on 30 March 2024, displayed in the new Perth Museum?",
+    year: 2024,
+    eric: {
+      options: [
+        "The Stone of Destiny, returning to Perthshire after 700 years",
+        "The Lewis Chessmen, on permanent loan from the British Museum",
+        "The Declaration of Arbroath, moved from Edinburgh",
+        "The Crown of Scotland, displayed for the Diamond Jubilee"
+      ],
+      correct: 0,
+      explanation: "The Stone of Destiny moved to its new permanent home in Perth Museum (the refurbished City Hall, £27 million project), returning to Perthshire for the first time in over 700 years. Over 3,000 people visited on opening day."
+    },
+    ruth: {
+      options: ["The Stone of Destiny! Back after 700 years!", "The Stone of Destiny! Back after 700 years!", "Eric's missing screwdriver set (found at last)", "A very old haggis"],
+      correct: 0,
+      explanation: "The Stone of Destiny — back in Perthshire after 700 years! It was stolen by Edward I in 1296, stolen again by students in 1950, and finally came home in 2024."
+    }
+  },
+  {
+    id: 325,
+    category: "general",
+    question: "At the 1396 Battle of the Clans on Perth's North Inch, one side was a man short. How was the problem solved?",
+    year: 1396,
+    eric: {
+      options: [
+        "A local blacksmith named Hal o' the Wynd volunteered to fight for a fee",
+        "They reduced both sides from 30 to 29 men",
+        "A substitute was drawn from the spectators by lot",
+        "King Robert III lent one of his bodyguards"
+      ],
+      correct: 0,
+      explanation: "Henry Gow ('Hal o' the Wynd'), a Perth blacksmith, volunteered to fight for Clan Chattan — but only if he survived and got paid. They won, killing all but one opponent (who escaped by jumping into the Tay and swimming across). Sir Walter Scott immortalised it in The Fair Maid of Perth."
+    },
+    ruth: {
+      options: ["A blacksmith volunteered for cash!", "A blacksmith volunteered for cash!", "They asked Eric (he was busy)", "They cancelled and went to the pub instead"],
+      correct: 0,
+      explanation: "A Perth blacksmith named Hal o' the Wynd volunteered — but only for money and only if he survived. A very Scottish approach to mortal combat."
+    }
+  },
+  {
+    id: 326,
+    category: "general",
+    question: "Perth is twinned with its Australian namesake. Which other country also has a Perth that is twinned with Perth, Scotland?",
+    year: null,
+    eric: {
+      options: ["Canada (Perth, Ontario)", "New Zealand", "South Africa", "USA"],
+      correct: 0,
+      explanation: "Perth, Ontario, Canada is twinned with Perth, Scotland — along with Perth, Western Australia. Perth Scotland is also twinned with Aschaffenburg (Germany), Bydgoszcz (Poland), Cognac (France), Haikou (China), and Pskov (Russia)."
+    },
+    ruth: {
+      options: ["Canada! Perth, Ontario!", "Canada! Perth, Ontario!", "There are Perths everywhere!", "Eric has visited them all (he hasn't)"],
+      correct: 0,
+      explanation: "Canada! Perth, Ontario. The Scottish Perth gets around — twinned with 7 cities on 4 continents."
+    }
+  },
+  {
+    id: 327,
+    category: "general",
+    question: "Why is Perth called 'The Fair City'?",
+    year: 1828,
+    eric: {
+      options: [
+        "From Sir Walter Scott's 1828 novel 'The Fair Maid of Perth'",
+        "From a royal charter by King James VI describing it as 'the fairest city'",
+        "From the annual Perth Fair, held since medieval times",
+        "From the fair weather Perth supposedly enjoys"
+      ],
+      correct: 0,
+      explanation: "The nickname comes from Sir Walter Scott's 1828 novel The Fair Maid of Perth, set in 1396 when the city was effectively Scotland's capital. There's a statue of the Fair Maid in the city centre."
+    },
+    ruth: {
+      options: ["Sir Walter Scott's novel!", "Sir Walter Scott's novel!", "Because it's quite nice (fair enough)", "Eric thinks it's the fairest city (he's biased)"],
+      correct: 0,
+      explanation: "Sir Walter Scott called it that in his 1828 novel — and the name stuck. Perth has been 'The Fair City' ever since."
+    }
+  },
+
   // ─── Coronation Street ────────────────────────────────────────
   {
     id: 293,
