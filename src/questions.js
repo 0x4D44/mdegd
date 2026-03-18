@@ -6861,6 +6861,393 @@ export const questions = [
       correct: 0,
       explanation: "14 November 1922 — a shipping forecast on BBC radio. Over 100 years of telling people it's going to rain!"
     }
+  },
+
+  // ─── Coronation Street ────────────────────────────────────────
+  {
+    id: 293,
+    category: "general",
+    question: "When was the first episode of Coronation Street broadcast?",
+    year: 1960,
+    eric: {
+      options: ["9 December 1960", "9 December 1959", "9 November 1960", "9 January 1961"],
+      correct: 0,
+      explanation: "Friday, 9 December 1960 at 7:00 PM on ITV (Granada Television). Broadcast live, in black and white. Daily Mirror critic Ken Irwin predicted it would last only three weeks."
+    },
+    ruth: {
+      options: ["9 December 1960", "9 December 1960", "Before television was invented", "Eric remembers it well (he was 2)"],
+      correct: 0,
+      explanation: "9 December 1960! Still going strong over 65 years later. Take that, Ken Irwin of the Daily Mirror."
+    }
+  },
+  {
+    id: 294,
+    category: "general",
+    question: "Coronation Street was nearly called something else. What was the original name, and why was it changed?",
+    year: 1960,
+    eric: {
+      options: [
+        "Florizel Street — it sounded too much like a disinfectant (Zoflora)",
+        "Victoria Street — there were too many real Victoria Streets",
+        "Jubilee Terrace — it sounded too posh",
+        "Archie Street — the real street it was based on"
+      ],
+      correct: 0,
+      explanation: "'Florizel Street' was changed partly because a tea lady at Granada said it sounded like a disinfectant (Zoflora), and partly because William Roache couldn't pronounce 'Florizel.' Creator Tony Warren originally submitted it to the BBC as 'Our Street.'"
+    },
+    ruth: {
+      options: [
+        "Florizel Street — sounded like floor cleaner!",
+        "Florizel Street — sounded like floor cleaner!",
+        "Eric's Street (sadly rejected)",
+        "Screwdriver Lane (Eric's favourite street name)"
+      ],
+      correct: 0,
+      explanation: "Florizel Street! A tea lady said it sounded like disinfectant. Good job she spoke up."
+    }
+  },
+  {
+    id: 295,
+    category: "general",
+    question: "How much was composer Eric Spear paid for the Coronation Street theme tune?",
+    year: 1960,
+    eric: {
+      options: ["£6", "£60", "£600", "£6,000"],
+      correct: 0,
+      explanation: "A mere £6 (about £137 in today's money). The lead instrument is a cornet, played by Ronnie Hunt. Spear died on 3 November 1966, having never seen the full success of the show. The tune was originally titled 'Lancashire Blues.'"
+    },
+    ruth: {
+      options: [
+        "Just £6! (That's about 50p per decade of broadcasting)",
+        "Just £6! (That's about 50p per decade of broadcasting)",
+        "A million pounds (seems fair for the most famous tune on TV)",
+        "He did it for free (he should have negotiated better)"
+      ],
+      correct: 0,
+      explanation: "£6! For the most recognisable theme tune in British television. Eric Spear got a terrible deal."
+    }
+  },
+  {
+    id: 296,
+    category: "general",
+    question: "What instrument plays the Coronation Street theme tune?",
+    year: 1960,
+    eric: {
+      options: ["Cornet", "Trumpet", "Clarinet", "Flugelhorn"],
+      correct: 0,
+      explanation: "A cornet, played by Ronnie Hunt. Easy to confuse with a trumpet (they look similar), but the cornet has a mellower, warmer tone. Composer Eric Spear insisted on many takes before he was satisfied."
+    },
+    ruth: {
+      options: ["A cornet!", "A cornet!", "A tuba (imagine!)", "Eric plays it live every episode (he doesn't)"],
+      correct: 0,
+      explanation: "A cornet! Not a trumpet — a cornet has a warmer, softer sound. That's the distinctive Corrie tune."
+    }
+  },
+  {
+    id: 297,
+    category: "general",
+    question: "Who is the only character to appear in Coronation Street since Episode 1?",
+    year: 1960,
+    eric: {
+      options: ["Ken Barlow (William Roache)", "Ena Sharples (Violet Carson)", "Rita Sullivan (Barbara Knox)", "Emily Bishop (Eileen Derbyshire)"],
+      correct: 0,
+      explanation: "Ken Barlow, played by William Roache (born 25 April 1932). He holds the Guinness World Record for longest-serving actor in a television soap opera — over 60 years in the same role."
+    },
+    ruth: {
+      options: ["Ken Barlow! Since 1960!", "Ken Barlow! Since 1960!", "The cobbles (they've been there longer)", "The cat (Frisky deserves recognition)"],
+      correct: 0,
+      explanation: "Ken Barlow — William Roache has been playing him since 1960. A Guinness World Record holder!"
+    }
+  },
+  {
+    id: 298,
+    category: "general",
+    question: "Hilda Ogden's famous 'muriel' featured three flying ducks. What was distinctive about the middle duck?",
+    year: 1976,
+    eric: {
+      options: [
+        "It always hung at a wonky angle — Hilda could never straighten it",
+        "It was painted a different colour from the other two",
+        "It was missing a wing",
+        "It faced the wrong direction"
+      ],
+      correct: 0,
+      explanation: "The middle duck famously hung at a wonky angle — Hilda could never get it straight. This was actress Jean Alexander's own idea. The mural (which Hilda called a 'muriel') was painted by Eddie Yeats when he ran out of wallpaper."
+    },
+    ruth: {
+      options: [
+        "It was always wonky!",
+        "It was always wonky!",
+        "It was a real duck (no, it was plaster)",
+        "Eric has the same ducks in his hallway (does he?)"
+      ],
+      correct: 0,
+      explanation: "The wonky middle duck! Hilda could never get it straight. Jean Alexander (who played Hilda) came up with the idea herself."
+    }
+  },
+  {
+    id: 299,
+    category: "general",
+    question: "How many viewers watched Hilda Ogden's departure on Christmas Day 1987?",
+    year: 1987,
+    eric: {
+      options: ["26.65 million (combined)", "22.5 million", "30 million", "18.45 million"],
+      correct: 0,
+      explanation: "26.65 million combined (17.97 million first broadcast + 8.66 million omnibus). The highest-rated Coronation Street episode ever. Hilda sang 'Wish Me Luck As You Wave Me Goodbye' at her farewell party in the Rovers."
+    },
+    ruth: {
+      options: ["Over 26 million!", "Over 26 million!", "Just Eric and Ruth (loyal viewers)", "The entire country (nearly)"],
+      correct: 0,
+      explanation: "Over 26 million! Almost half the country watched Hilda leave. She sang 'Wish Me Luck As You Wave Me Goodbye.'"
+    }
+  },
+  {
+    id: 300,
+    category: "general",
+    question: "How was villain Alan Bradley killed in 1989, and how many viewers watched?",
+    year: 1989,
+    eric: {
+      options: [
+        "Hit by a Blackpool tram while chasing Rita — 27 million viewers",
+        "Fell from Blackpool Tower while chasing Rita — 25 million viewers",
+        "Drowned in the canal after a car chase — 27 million viewers",
+        "Hit by a bus on Coronation Street — 22 million viewers"
+      ],
+      correct: 0,
+      explanation: "Alan Bradley was fatally struck by a Blackpool tram on 8 December 1989 while chasing Rita along the seafront. 27 million viewers watched. Actor Mark Eden later married Sue Nicholls (Audrey Roberts) in real life."
+    },
+    ruth: {
+      options: ["Hit by a Blackpool tram! 27 million watched!", "Hit by a Blackpool tram! 27 million watched!", "He tripped on the cobbles (anticlimactic)", "Eric pushed him (Eric wasn't in Corrie)"],
+      correct: 0,
+      explanation: "A Blackpool tram! 27 million people watched. And then the actor married his co-star. Soap opera on and off screen."
+    }
+  },
+  {
+    id: 301,
+    category: "general",
+    question: "During the 'Free Deirdre Rachid' campaign in 1998, which two senior politicians publicly commented on her imprisonment?",
+    year: 1998,
+    eric: {
+      options: [
+        "PM Tony Blair and Conservative leader William Hague",
+        "PM Tony Blair and Home Secretary Jack Straw",
+        "Home Secretary Jack Straw and Liberal Democrat leader Paddy Ashdown",
+        "PM John Major and Labour leader Tony Blair"
+      ],
+      correct: 0,
+      explanation: "Both Tony Blair (who ordered Jack Straw to 'look into the case') AND William Hague ('The whole nation is deeply concerned about Deirdre'). When real politicians intervene in a soap opera storyline, you know it's become a national event."
+    },
+    ruth: {
+      options: ["Tony Blair AND William Hague — both got involved!", "Tony Blair AND William Hague — both got involved!", "Eric wrote to his MP (probably)", "The Queen (she's a secret Corrie fan)"],
+      correct: 0,
+      explanation: "The Prime Minister and the Leader of the Opposition both commented on a soap storyline. Only in Britain."
+    }
+  },
+  {
+    id: 302,
+    category: "general",
+    question: "When Ken and Deirdre reunited in February 1983, what appeared on the scoreboard at Old Trafford?",
+    year: 1983,
+    eric: {
+      options: [
+        "Ken and Deirdre reunited. Ken 1 — Mike 0",
+        "Free Deirdre! Ken wins!",
+        "Coronation Street 1 — Mike Baldwin 0",
+        "Ken Barlow wins the cup"
+      ],
+      correct: 0,
+      explanation: "During the Manchester United vs Arsenal match, the Old Trafford scoreboard displayed 'Ken and Deirdre reunited. Ken 1 — Mike 0' — drawing cheers from spectators. The reconciliation episode drew 18.45 million viewers."
+    },
+    ruth: {
+      options: ["Ken 1 — Mike 0!", "Ken 1 — Mike 0!", "Goal! (but not a football goal)", "Man United were losing (as usual)"],
+      correct: 0,
+      explanation: "Ken 1 — Mike 0 on the Old Trafford scoreboard! The crowd cheered louder than they did for any goal that night."
+    }
+  },
+  {
+    id: 303,
+    category: "general",
+    question: "What were Mike Baldwin's dying words to Ken Barlow?",
+    year: 2006,
+    eric: {
+      options: [
+        "You're finished, Barlow. Deirdre loves me; she's mine.",
+        "I always won, Ken. Always.",
+        "Tell Deirdre I loved her.",
+        "The factory is yours now, Ken."
+      ],
+      correct: 0,
+      explanation: "Mike (suffering from Alzheimer's) collapsed in the street and died in Ken's arms. His final words — 'You're finished, Barlow. Deirdre loves me; she's mine' — showed that even at the end, their rivalry defined him. Broadcast 7 April 2006."
+    },
+    ruth: {
+      options: ["Deirdre loves me, she's mine!", "Deirdre loves me, she's mine!", "Tell Eric to look after the screwdrivers", "Can someone call an ambulance? (too late)"],
+      correct: 0,
+      explanation: "Even dying in Ken's arms, Mike couldn't resist one last dig about Deirdre. The greatest soap rivalry of all time."
+    }
+  },
+  {
+    id: 304,
+    category: "general",
+    question: "The cat in the Coronation Street opening credits was called Frisky. How much was his owner paid?",
+    year: null,
+    eric: {
+      options: ["£200", "£2,000", "£20", "£20,000"],
+      correct: 0,
+      explanation: "Frisky's owner Jon-Paul Rimington of Leeds received a one-off payment of £200. The cat appeared in over 1,000 episodes in the title sequence. When Frisky died, his ashes were auctioned for charity and sold for £700 — more than three times his original fee."
+    },
+    ruth: {
+      options: ["£200 — less than his ashes sold for!", "£200 — less than his ashes sold for!", "A lifetime supply of cat food (seems fair)", "Frisky negotiated his own contract (he was a smart cat)"],
+      correct: 0,
+      explanation: "£200! And when he died, his ashes sold at auction for £700. Frisky was worth more dead than alive. Poor cat."
+    }
+  },
+  {
+    id: 305,
+    category: "general",
+    question: "How many hairnets did Ena Sharples (Violet Carson) wear at once, and why?",
+    year: null,
+    eric: {
+      options: [
+        "Three — so the mesh would show on camera",
+        "Two — for extra hold in the wind",
+        "One — that was enough",
+        "Four — she was very security-conscious about her hair"
+      ],
+      correct: 0,
+      explanation: "Violet Carson wore three hairnets at once so the mesh would be visible on camera. She refused to let makeup touch her silver hair. In real life, Carson's favourite drink was brandy and ginger — not the milk stout Ena drank in the Rovers snug."
+    },
+    ruth: {
+      options: ["Three! So they'd show on TV!", "Three! So they'd show on TV!", "One (a normal amount of hairnets)", "Eric wears three hairnets too (he doesn't have enough hair)"],
+      correct: 0,
+      explanation: "Three hairnets at once! One wasn't visible enough on the black-and-white cameras."
+    }
+  },
+  {
+    id: 306,
+    category: "general",
+    question: "Hayley Cropper (Julie Hesmondhalgh) made soap opera history. What first did the character achieve?",
+    year: 1998,
+    eric: {
+      options: [
+        "First transgender character in a British soap opera",
+        "First character to appear in both Corrie and EastEnders",
+        "First character married in a non-religious ceremony",
+        "First character to have a storyline lasting over 10 years"
+      ],
+      correct: 0,
+      explanation: "Hayley was the first transgender character in a British soap and the first permanent transgender character in world serialised drama. First appeared 26 January 1998. Julie Hesmondhalgh won multiple awards for Hayley's death storyline in 2014."
+    },
+    ruth: {
+      options: ["First transgender character in a British soap!", "First transgender character in a British soap!", "First character to drink tea (they all drink tea)", "First character Eric actually liked (he's very picky)"],
+      correct: 0,
+      explanation: "The first transgender character in British soap opera — groundbreaking television in 1998."
+    }
+  },
+  {
+    id: 307,
+    category: "general",
+    question: "How many bricks and cobbles were needed for the new Coronation Street set at ITV Trafford Wharf?",
+    year: 2014,
+    eric: {
+      options: [
+        "400,000 bricks and 54,000 cobbles",
+        "200,000 bricks and 30,000 cobbles",
+        "500,000 bricks and 80,000 cobbles",
+        "300,000 bricks and 40,000 cobbles"
+      ],
+      correct: 0,
+      explanation: "400,000 bricks (144,000 reclaimed from a derelict street in Salford) and 54,000 cobbles. The new set (opened 2014) is near full scale — the old Granada Studios set was only three-quarter size."
+    },
+    ruth: {
+      options: ["400,000 bricks and 54,000 cobbles!", "400,000 bricks and 54,000 cobbles!", "About twelve (it's not a very big street)", "Eric could have done it cheaper (probably)"],
+      correct: 0,
+      explanation: "400,000 bricks and 54,000 cobbles! Some of the bricks were reclaimed from a real demolished street in Salford."
+    }
+  },
+  {
+    id: 308,
+    category: "general",
+    question: "How old was Tony Warren when Coronation Street first aired?",
+    year: 1960,
+    eric: {
+      options: ["24", "28", "32", "21"],
+      correct: 0,
+      explanation: "Tony Warren was just 24 when Corrie launched on 9 December 1960. He wrote the first 12 of the original 13-episode commission. He'd known Violet Carson (Ena Sharples) and Doris Speed (Annie Walker) from BBC Children's Hour as a child actor."
+    },
+    ruth: {
+      options: ["Only 24!", "Only 24!", "12 (a child genius)", "Old enough to know better"],
+      correct: 0,
+      explanation: "Just 24! He created the longest-running soap in the world before his 25th birthday."
+    }
+  },
+  {
+    id: 309,
+    category: "general",
+    question: "Pat Phoenix (Elsie Tanner) married which man whose son-in-law later became Prime Minister?",
+    year: 1986,
+    eric: {
+      options: [
+        "Anthony Booth (Tony Blair's father-in-law)",
+        "Denis Thatcher (Margaret Thatcher's husband)",
+        "Philip May (Theresa May's husband)",
+        "Peter Mandelson's father"
+      ],
+      correct: 0,
+      explanation: "Pat Phoenix married actor Anthony Booth on 9 September 1986, just eight days before she died of lung cancer. Booth's daughter Cherie married Tony Blair. PM James Callaghan had called Phoenix 'the sexiest woman on television.'"
+    },
+    ruth: {
+      options: ["Tony Blair's father-in-law!", "Tony Blair's father-in-law!", "Eric (in a parallel universe)", "The Prime Minister himself (not quite)"],
+      correct: 0,
+      explanation: "Anthony Booth — whose daughter Cherie later married Tony Blair! Coronation Street meets Downing Street."
+    }
+  },
+  {
+    id: 310,
+    category: "general",
+    question: "Who had a cameo in the live 40th anniversary episode on 8 December 2000?",
+    year: 2000,
+    eric: {
+      options: ["Prince Charles", "The Queen", "Tony Blair", "David Beckham"],
+      correct: 0,
+      explanation: "Prince Charles appeared in footage on a TV news bulletin, meeting Councillor Audrey Roberts (Sue Nicholls). He also met the cast and unveiled a plaque at the Rovers set. The live episode drew 17 million viewers."
+    },
+    ruth: {
+      options: ["Prince Charles!", "Prince Charles!", "Eric (he tried to get on but they wouldn't let him)", "The Queen (she was busy)"],
+      correct: 0,
+      explanation: "Prince Charles! He appeared in the 40th anniversary live episode. Even royalty watches Corrie."
+    }
+  },
+  {
+    id: 311,
+    category: "general",
+    question: "How many times has Ken Barlow been married?",
+    year: null,
+    eric: {
+      options: ["Four times (to three women)", "Three times (to three women)", "Five times (to four women)", "Four times (to four women)"],
+      correct: 0,
+      explanation: "Four marriages to three women: Valerie Tatlock (1962-71, died by electrocution from a faulty hairdryer), Janet Reid (1972-77), Deirdre Hunt (1981-90s), and Deirdre again (remarried 2005-2015). Ken became a widower three times."
+    },
+    ruth: {
+      options: ["Four times to three women!", "Four times to three women!", "Once (he's very loyal — he's really not)", "Seventeen times (even by Corrie standards, that's too many)"],
+      correct: 0,
+      explanation: "Four marriages to three women! He married Deirdre twice. Ken Barlow: serial husband."
+    }
+  },
+  {
+    id: 312,
+    category: "general",
+    question: "Kevin Kennedy, who played Curly Watts for 20 years, was in a band with two future members of which famous group?",
+    year: null,
+    eric: {
+      options: ["The Smiths", "Oasis", "Joy Division", "The Stone Roses"],
+      correct: 0,
+      explanation: "Kevin Kennedy was in a band called Paris Valentinos with Johnny Marr and Andy Rourke, who later formed The Smiths. Curly Watts and 'This Charming Man' — an unlikely combination."
+    },
+    ruth: {
+      options: ["The Smiths! Curly Watts nearly became a rock star!", "The Smiths! Curly Watts nearly became a rock star!", "The Corrie Street Band (not a real band)", "Take That (he was the quiet one)"],
+      correct: 0,
+      explanation: "The Smiths! Curly Watts was in a band with Johnny Marr and Andy Rourke before they became famous. What could have been!"
+    }
   }
 
 ];
