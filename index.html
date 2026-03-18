@@ -361,6 +361,14 @@
       50% { transform: scale(1.02); }
     }
 
+    /* ─── Reduced motion ───────────────────────────────────────────── */
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after {
+        animation-duration: 0.01ms !important;
+        transition-duration: 0.01ms !important;
+      }
+    }
+
     /* ─── Responsive ─────────────────────────────────────────────── */
     @media (max-width: 480px) {
       body { padding: 1rem 0.5rem; }
@@ -380,7 +388,6 @@
     import { getRandomStyle, applyStyle } from './src/styles.js';
     import {
       selectQuestions,
-      selectBalancedQuestions,
       getOptionsForMode,
       checkAnswer,
       calculateScore,
@@ -480,8 +487,9 @@
           <p class="subtitle">${style.subtitle}</p>
           <div class="quiz-card">
             <p style="text-align:center; margin-bottom:1rem;">
-              Every question is about something that happened on
-              <strong>your birthday — March 21st</strong>.
+              432 questions about things you care about &mdash; from
+              <strong>March 21st</strong> history to Scottish Hydro,
+              Doric, Forfar Bridies, and beyond.
             </p>
             <p style="text-align:center; margin-bottom:1.5rem;">
               But first... who are you?
@@ -552,7 +560,11 @@
     window.answerQuestion = function(selectedIndex) {
       const q = state.questions[state.currentIndex];
       const result = checkAnswer(q, state.mode, selectedIndex);
-      state.answers.push({ correct: result.correct });
+      const isRuth = state.mode === 'ruth';
+
+      // Ruth always gets it right — override both the record and display
+      const effectiveCorrect = isRuth ? true : result.correct;
+      state.answers.push({ correct: effectiveCorrect });
 
       // Disable all buttons and highlight correct/incorrect
       const modeData = q[state.mode];
@@ -564,16 +576,16 @@
         const isSelected = idx === selectedIndex;
         const textMatchesCorrect = modeData.options[idx] === correctText;
 
-        if (isSelected && result.correct) {
+        if (isSelected && effectiveCorrect) {
           btn.classList.add('correct');
-        } else if (isSelected && !result.correct) {
+        } else if (isSelected && !effectiveCorrect) {
           btn.classList.add('incorrect');
         }
-        if (!result.correct && idx === result.correctIndex) {
+        if (!effectiveCorrect && idx === result.correctIndex) {
           btn.classList.add('was-correct');
         }
         // For all-same answers: highlight all matching options as correct
-        if (result.correct && textMatchesCorrect && !isSelected) {
+        if (effectiveCorrect && textMatchesCorrect && !isSelected) {
           btn.classList.add('correct');
           btn.style.opacity = '0.6';
         }
@@ -584,8 +596,8 @@
       const isLast = state.currentIndex >= state.questions.length - 1;
       feedback.innerHTML = `
         <div class="explanation fade-in">
-          <div class="verdict ${result.correct ? 'correct' : 'incorrect'}">
-            ${result.correct ? 'Correct!' : 'Not quite!'}
+          <div class="verdict ${effectiveCorrect ? 'correct' : 'incorrect'}">
+            ${effectiveCorrect ? 'Correct!' : 'Not quite!'}
           </div>
           <p>${result.explanation}</p>
         </div>

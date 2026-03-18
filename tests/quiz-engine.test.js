@@ -94,7 +94,7 @@ describe("selectQuestions", () => {
 
 describe("selectBalancedQuestions", () => {
   function buildCategorizedPool() {
-    const categories = ["us-state-history", "bridge", "cards", "nsheb", "general", "us-states-attributes"];
+    const categories = ["march-21st", "bridge", "cards", "nsheb", "doric", "pylons"];
     return categories.flatMap((cat, ci) =>
       Array.from({ length: 10 }, (_, i) => ({
         ...mockQuestion,

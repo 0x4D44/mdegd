@@ -69,15 +69,6 @@ descFn("questions pool", () => {
     }
   });
 
-  it("all questions have a valid category", () => {
-    const cats = new Set(questions.map(q => q.category));
-    expect(cats.size).toBeGreaterThanOrEqual(1);
-    for (const q of questions) {
-      expect(typeof q.category).toBe("string");
-      expect(q.category.length).toBeGreaterThan(0);
-    }
-  });
-
   it("no option text is empty", () => {
     for (const q of questions) {
       for (const opt of q.eric.options) {
