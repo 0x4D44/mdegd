@@ -7150,6 +7150,308 @@ export const questions = [
     }
   },
 
+  // ─── Perth, Australia ─────────────────────────────────────────
+  {
+    id: 328,
+    category: "general",
+    question: "Perth, Australia was named after Perth, Scotland. But not because the founder was from there. Why was the name chosen?",
+    year: 1829,
+    eric: {
+      options: [
+        "To flatter Sir George Murray, MP for Perthshire and Secretary of State for the Colonies",
+        "Captain Stirling's wife was born in Perth, Scotland",
+        "A coin toss between Perth and Edinburgh",
+        "The colony's investors were based in Perth, Scotland"
+      ],
+      correct: 0,
+      explanation: "Founded 12 August 1829 by Captain James Stirling, it was named to flatter Sir George Murray, MP for Perthshire, whose support as Secretary of State for War and the Colonies was needed. Pure political flattery."
+    },
+    ruth: {
+      options: ["To butter up a politician! Classic!", "To butter up a politician! Classic!", "They ran out of names (Australia is big)", "Eric suggested it (he didn't)"],
+      correct: 0,
+      explanation: "Named to flatter a politician! Some things never change."
+    }
+  },
+  {
+    id: 329,
+    category: "general",
+    question: "Perth earned the nickname 'City of Light' in 1962. Why?",
+    year: 1962,
+    eric: {
+      options: [
+        "Residents turned on every light to be visible to astronaut John Glenn orbiting overhead",
+        "It was the first Australian city to switch to electric street lighting",
+        "A citywide festival of light was held for the Commonwealth Games",
+        "The city's white sand beaches reflect more light than any other city"
+      ],
+      correct: 0,
+      explanation: "On 20 February 1962, as John Glenn orbited Earth in Friendship 7, Perth residents turned on all their house lights and street lights. Glenn radioed: 'Just to my right I can see a big pattern of light... thank everybody for turning them on, will you?' They empathised with his isolation — Perth being the world's most isolated major city."
+    },
+    ruth: {
+      options: ["Everyone turned on their lights for an astronaut!", "Everyone turned on their lights for an astronaut!", "It's very sunny (but that's not why)", "Eric left the lights on (again)"],
+      correct: 0,
+      explanation: "The whole city turned on their lights for John Glenn orbiting in space! He saw them from orbit and thanked Perth by radio."
+    }
+  },
+  {
+    id: 330,
+    category: "general",
+    question: "How many times has Western Australia held a referendum on daylight saving, and what was the result each time?",
+    year: null,
+    eric: {
+      options: [
+        "Four times (1975, 1984, 1992, 2009) — all rejected",
+        "Three times (1975, 1992, 2009) — all rejected",
+        "Four times — three rejected, one accepted then reversed",
+        "Twice (1984, 2009) — both rejected"
+      ],
+      correct: 0,
+      explanation: "Four referendums, all rejected. The 2009 vote (54.6% no) followed a three-year trial from 2006-2009. Perth is 2 hours behind Sydney in winter, but 3 hours behind in summer because the east observes DST and Perth refuses to."
+    },
+    ruth: {
+      options: ["Four referendums — all said NO!", "Four referendums — all said NO!", "They don't believe in daylight in Perth", "Eric would vote no too (he hates change)"],
+      correct: 0,
+      explanation: "Four times they voted, four times they said no! Western Australians really don't want daylight saving."
+    }
+  },
+  {
+    id: 331,
+    category: "general",
+    question: "The Perth Mint created a record-breaking gold coin in 2011. What made it remarkable?",
+    year: 2011,
+    eric: {
+      options: [
+        "It weighs one tonne and is 99.99% pure gold — world's largest gold coin",
+        "It is 2 metres in diameter — world's widest coin",
+        "It was the first coin to contain exactly 1 million dollars of gold",
+        "It was struck from asteroid-sourced gold — first extraterrestrial coin"
+      ],
+      correct: 0,
+      explanation: "The Australian Kangaroo One Tonne Gold Coin — one tonne of 99.99% pure gold, 80cm wide and 12cm deep. Certified by Guinness as the world's largest gold coin. The Perth Mint has been operating from its original 1899 premises — older than Australian Federation itself."
+    },
+    ruth: {
+      options: ["It weighs a TONNE! Made of solid gold!", "It weighs a TONNE! Made of solid gold!", "Eric would put it in his cupboard under the stairs", "You'd need a forklift for the vending machine"],
+      correct: 0,
+      explanation: "One tonne of solid gold! You definitely can't put that in a parking meter."
+    }
+  },
+  {
+    id: 332,
+    category: "general",
+    question: "Why is Rottnest Island called 'Rottnest'?",
+    year: 1696,
+    eric: {
+      options: [
+        "Dutch explorer de Vlamingh thought the quokkas were giant rats — 'Rats' Nest Island'",
+        "The island's vegetation was rotting when first explored",
+        "It was named after Rottnest in the Netherlands",
+        "British settlers found rat infestations when they arrived"
+      ],
+      correct: 0,
+      explanation: "Willem de Vlamingh in 1696 called it 't Eylandt 't Rottenest ('Rats' Nest Island') because he mistook the quokkas for giant rats. The Noongar name is Wadjemup, meaning 'place across the water where the spirits are.'"
+    },
+    ruth: {
+      options: ["A Dutchman thought quokkas were giant rats!", "A Dutchman thought quokkas were giant rats!", "The rats complained about the name (they're quokkas)", "Eric named it (he's been everywhere)"],
+      correct: 0,
+      explanation: "A Dutch explorer in 1696 saw quokkas and thought they were enormous rats! Hence 'Rats' Nest Island.' Poor quokkas."
+    }
+  },
+  {
+    id: 333,
+    category: "general",
+    question: "Perth's famous summer sea breeze has a medical nickname. What is it called?",
+    year: null,
+    eric: {
+      options: [
+        "The Fremantle Doctor",
+        "The Perth Physician",
+        "The Swan River Surgeon",
+        "The Cottesloe Consultant"
+      ],
+      correct: 0,
+      explanation: "The 'Fremantle Doctor' — it 'cures' the oppressive summer heat, blowing in from the Indian Ocean typically between 10am and 3pm at 28-37 km/h. Cricket, sailing, and outdoor events are scheduled around it. The WACA cricket ground's characteristics are partly shaped by it."
+    },
+    ruth: {
+      options: ["The Fremantle Doctor! It 'cures' the heat!", "The Fremantle Doctor! It 'cures' the heat!", "Dr Breeze (not a real doctor)", "Eric's fan (he brought one from Scotland)"],
+      correct: 0,
+      explanation: "The Fremantle Doctor! It blows in from the ocean every summer afternoon and drops the temperature in minutes."
+    }
+  },
+  {
+    id: 334,
+    category: "general",
+    question: "Kings Park in Perth contains a 750-year-old tree that was transported how far to be replanted there?",
+    year: null,
+    eric: {
+      options: [
+        "3,200 km from the Kimberley",
+        "2,000 km from the Nullarbor",
+        "1,500 km from Alice Springs",
+        "800 km from Kalgoorlie"
+      ],
+      correct: 0,
+      explanation: "A 750-year-old boab tree was trucked 3,200 km from the Kimberley region in northern WA. Kings Park (400.6 hectares) is larger than New York's Central Park (341 hectares) by about 60 hectares."
+    },
+    ruth: {
+      options: ["3,200 km! They drove a tree across the outback!", "3,200 km! They drove a tree across the outback!", "From Eric's garden (it was getting too big)", "From the local garden centre (a very big garden centre)"],
+      correct: 0,
+      explanation: "3,200 km! They trucked a 750-year-old tree across the outback. Only in Australia."
+    }
+  },
+  {
+    id: 335,
+    category: "general",
+    question: "Perth's Bell Tower contains bells from which famous London church?",
+    year: 2000,
+    eric: {
+      options: [
+        "St Martin-in-the-Fields, Trafalgar Square",
+        "St Paul's Cathedral",
+        "Westminster Abbey",
+        "St Clement Danes, Strand"
+      ],
+      correct: 0,
+      explanation: "12 of the 18 bells are from St Martin-in-the-Fields, Trafalgar Square — the only 'royal bells' ever to have left England. They rang for the defeat of the Spanish Armada (1588), every coronation since George II (1727), and Captain Cook's return."
+    },
+    ruth: {
+      options: ["St Martin-in-the-Fields — from Trafalgar Square!", "St Martin-in-the-Fields — from Trafalgar Square!", "Big Ben (they nicked the bell)", "Eric's doorbell (it's surprisingly loud)"],
+      correct: 0,
+      explanation: "Bells from Trafalgar Square! They rang for the Spanish Armada's defeat in 1588. Now they ring in Perth, Australia."
+    }
+  },
+  {
+    id: 336,
+    category: "general",
+    question: "The Fremantle Dockers AFL team's name has an unusual origin. What is it?",
+    year: 1995,
+    eric: {
+      options: [
+        "Board members invented a fake story to avoid association with a corrupt union",
+        "Named after a famous dog called Docker who lived on the docks",
+        "Named by a public vote in the Fremantle Gazette",
+        "Named after the Docker family who donated the original ground"
+      ],
+      correct: 0,
+      explanation: "Board members worried 'Dockers' linked them to the notoriously corrupt Federated Ship Painters and Dockers Union. They invented a fictional origin claiming it came from the 'Fremantle Docker' sea breeze. The club has never won a premiership in nearly 30 years."
+    },
+    ruth: {
+      options: ["They made up a fake story! The name's origin is fiction!", "They made up a fake story! The name's origin is fiction!", "Named after a dog (it wasn't)", "Nobody knows (actually, everyone knows now)"],
+      correct: 0,
+      explanation: "They invented a fake origin story! The 'Fremantle Docker' sea breeze doesn't exist — but the corrupt dockworkers' union did. Creative problem-solving."
+    }
+  },
+  {
+    id: 337,
+    category: "general",
+    question: "Perth Australia is roughly how many times larger in population than Perth Scotland?",
+    year: null,
+    eric: {
+      options: ["About 49 times", "About 30 times", "About 65 times", "About 15 times"],
+      correct: 0,
+      explanation: "Perth Australia (~2.3 million metro) is roughly 49 times the population of Perth Scotland (~47,000 city). The two cities are officially twinned. Perth Scotland was once the capital of Scotland; Perth Australia contains 80% of Western Australia's population."
+    },
+    ruth: {
+      options: ["About 49 times bigger!", "About 49 times bigger!", "Same size (they're not)", "Perth Scotland is bigger (it really isn't)"],
+      correct: 0,
+      explanation: "49 times bigger! But the Scottish Perth was once the capital of Scotland, so it has seniority."
+    }
+  },
+  {
+    id: 338,
+    category: "general",
+    question: "The road from Perth to Sydney crosses the Nullarbor Plain. How long is Australia's longest straight road on this route?",
+    year: null,
+    eric: {
+      options: ["146.6 km (the 90 Mile Straight)", "120.4 km (the 75 Mile Straight)", "164.2 km (the 100 Mile Straight)", "132.8 km (the 82 Mile Straight)"],
+      correct: 0,
+      explanation: "The 90 Mile Straight on the Eyre Highway is 146.6 km (91.1 miles) without a single turn. The total Perth-to-Sydney road distance is about 4,000 km. The highway doubles as an emergency airstrip for the Royal Flying Doctor Service."
+    },
+    ruth: {
+      options: ["146.6 km without a single curve!", "146.6 km without a single curve!", "So straight even Eric couldn't complain about it", "Long enough to fall asleep (don't do that)"],
+      correct: 0,
+      explanation: "146.6 km in a perfectly straight line! The highway also doubles as a landing strip for the Flying Doctor Service."
+    }
+  },
+  {
+    id: 339,
+    category: "general",
+    question: "Which Perth-born actor won a posthumous Oscar for playing the Joker?",
+    year: 2008,
+    eric: {
+      options: ["Heath Ledger", "Sam Worthington", "Dacre Montgomery", "Hugh Jackman"],
+      correct: 0,
+      explanation: "Heath Ledger (1979-2008), born in Perth, won a posthumous Academy Award for Best Supporting Actor as the Joker in The Dark Knight. Other famous Perth exports: Bon Scott (AC/DC), Kevin Parker (Tame Impala), Tim Minchin (Matilda the Musical), and Daniel Ricciardo (F1)."
+    },
+    ruth: {
+      options: ["Heath Ledger!", "Heath Ledger!", "Eric (in a very low-budget film)", "Batman (wrong character)"],
+      correct: 0,
+      explanation: "Heath Ledger — born in Perth, tragically died at 28, and won an Oscar for one of cinema's greatest villain performances."
+    }
+  },
+  {
+    id: 340,
+    category: "general",
+    question: "Perth's CBD public transport has an unusual feature. What is it?",
+    year: 1996,
+    eric: {
+      options: [
+        "All buses and trains within the CBD are completely free",
+        "All transport runs on solar power",
+        "The CBD has no bus stops — you flag buses down anywhere",
+        "Transport only runs every other day to save energy"
+      ],
+      correct: 0,
+      explanation: "All buses and trains within Perth's Free Transit Zone are completely free, funded by the Perth Parking Levy on non-residential parking bays. Free colour-coded CAT buses (Red, Blue, Yellow, Green) have been running since 1996."
+    },
+    ruth: {
+      options: ["Free! All city centre transport is free!", "Free! All city centre transport is free!", "You ride kangaroos (you don't)", "Eric would love free transport"],
+      correct: 0,
+      explanation: "Completely free buses and trains in the city centre! Paid for by a levy on parking spaces."
+    }
+  },
+  {
+    id: 341,
+    category: "general",
+    question: "How does the size of Western Australia compare to Western Europe?",
+    year: null,
+    eric: {
+      options: [
+        "WA is larger than Western Europe",
+        "WA is about the same size",
+        "WA is about half the size",
+        "WA is about three-quarters the size"
+      ],
+      correct: 0,
+      explanation: "Western Australia (2.5 million sq km) is larger than all of Western Europe. It's 1.5 times the size of Alaska, 3.5 times the size of Texas, and the second-largest subnational entity in the world (after Russia's Sakha Republic). And 80% of its population lives in Perth."
+    },
+    ruth: {
+      options: ["Bigger! WA is bigger than Western Europe!", "Bigger! WA is bigger than Western Europe!", "About the size of Eric's ambitions", "Very big (that's the official measurement)"],
+      correct: 0,
+      explanation: "Bigger than Western Europe! One state, bigger than an entire chunk of continent. And most people there live in one city."
+    }
+  },
+  {
+    id: 342,
+    category: "general",
+    question: "The WACA cricket ground in Perth holds an unusual record. What is it?",
+    year: null,
+    eric: {
+      options: [
+        "Most Test scores of 99 — seven batsmen dismissed one short of a century",
+        "Most Test hat-tricks taken on a single ground",
+        "Fastest century ever scored in Test cricket",
+        "Most consecutive draws in Test cricket history"
+      ],
+      correct: 0,
+      explanation: "The WACA has hosted seven Test scores of 99 — the most agonising dismissal in cricket. It's also where Dennis Lillee was clocked bowling at 154.8 km/h in 1975. The Fremantle Doctor sea breeze aids swing bowling. International cricket moved to Perth Stadium after 2017."
+    },
+    ruth: {
+      options: ["Seven batsmen got out on 99! So close!", "Seven batsmen got out on 99! So close!", "Most sunburned spectators", "Eric once scored 99 there (he didn't)"],
+      correct: 0,
+      explanation: "Seven batsmen dismissed on 99 at the WACA — the most agonising ground in cricket. One run short, seven times!"
+    }
+  },
+
   // ─── Coronation Street ────────────────────────────────────────
   {
     id: 293,
