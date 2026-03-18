@@ -6092,6 +6092,528 @@ export const questions = [
       correct: 0,
       explanation: "Terminal 1 — the domestic terminal for decades before Terminal 5 took over in 2008."
     }
+  },
+
+  // ─── Teenage slang (Eric vs his grandson) ─────────────────────
+  {
+    id: 263,
+    category: "general",
+    question: "Your grandson says dinner was 'bussin'.' Should you:",
+    year: null,
+    eric: {
+      options: [
+        "Be pleased — it means the food was really good",
+        "Check the bus timetable — he needs transport",
+        "Ground him for swearing at the table",
+        "Call a doctor — he may be having a seizure"
+      ],
+      correct: 0,
+      explanation: "'Bussin'' means really, really good — especially food. Double it ('bussin' bussin'') for maximum emphasis. If your grandson says this about your cooking, you've won."
+    },
+    ruth: {
+      options: [
+        "It means delicious! Well done, chef!",
+        "It means delicious! Well done, chef!",
+        "Quick, call an ambulance",
+        "He wants to catch the number 42 bus"
+      ],
+      correct: 0,
+      explanation: "'Bussin'' = delicious! It's a compliment! Eric's cooking is clearly bussin'."
+    }
+  },
+  {
+    id: 264,
+    category: "general",
+    question: "Your grandson texts 'no cap.' Does he mean:",
+    year: null,
+    eric: {
+      options: [
+        "He's being truthful — 'cap' means a lie",
+        "He's lost his hat and needs a new one",
+        "He doesn't want a cappuccino",
+        "There's no limit on something"
+      ],
+      correct: 0,
+      explanation: "'No cap' = 'I'm not lying,' 'for real.' 'Cap' means a lie. So 'no cap' means truthfully/honestly. If your grandson says 'that was the best birthday ever, no cap' — he means it."
+    },
+    ruth: {
+      options: [
+        "He's telling the truth! 'Cap' means a lie!",
+        "He's telling the truth! 'Cap' means a lie!",
+        "He's lost his hat (has he checked under the stairs?)",
+        "He wants a flat white instead"
+      ],
+      correct: 0,
+      explanation: "'No cap' just means 'I'm being honest.' Nothing to do with hats or coffee!"
+    }
+  },
+  {
+    id: 265,
+    category: "general",
+    question: "Your grandson says his sister 'absolutely slayed' at her school concert. Should you:",
+    year: null,
+    eric: {
+      options: [
+        "Congratulate her — it means she did brilliantly",
+        "Report it to the police — that sounds violent",
+        "Check the audience for survivors",
+        "Ask what weapon she used"
+      ],
+      correct: 0,
+      explanation: "'Slay' means to do something extremely well. 'She slayed' = she nailed it, she was amazing. No actual violence is involved."
+    },
+    ruth: {
+      options: [
+        "It's a compliment! She was brilliant!",
+        "It's a compliment! She was brilliant!",
+        "Call 999 immediately",
+        "Slay... like a dragon? (No, Eric)"
+      ],
+      correct: 0,
+      explanation: "'Slay' = absolutely nailed it! Nothing to do with dragons or violence."
+    }
+  },
+  {
+    id: 266,
+    category: "general",
+    question: "Your grandson's friend says he's 'got mad rizz.' This means:",
+    year: null,
+    eric: {
+      options: [
+        "He's extremely charming and good at flirting",
+        "He has an undiagnosed skin condition",
+        "He's angry about a new fizzy drink",
+        "He's buzzing like a bee — possibly an allergic reaction"
+      ],
+      correct: 0,
+      explanation: "'Rizz' means charisma, especially flirting ability. It was Oxford's 2023 Word of the Year. To 'rizz someone up' = to charm them. If your grandson has rizz, he's doing well."
+    },
+    ruth: {
+      options: [
+        "He's charming! It means charisma!",
+        "He's charming! It means charisma!",
+        "Is it contagious? Should we be worried?",
+        "Is Rizz a type of cracker?"
+      ],
+      correct: 0,
+      explanation: "'Rizz' = charisma. It was literally the Oxford Word of the Year in 2023!"
+    }
+  },
+  {
+    id: 267,
+    category: "general",
+    question: "Your grandson calls a new film 'mid.' This means:",
+    year: null,
+    eric: {
+      options: [
+        "It was average, mediocre, nothing special",
+        "He only watched the middle part",
+        "It was so good it was mind-blowing",
+        "He's still in the middle of watching it"
+      ],
+      correct: 0,
+      explanation: "'Mid' = average, underwhelming, nothing to write home about. It's a mild insult. If something is described as 'mid,' it's the worst kind of boring — not even bad enough to be interesting."
+    },
+    ruth: {
+      options: [
+        "It was average — a bit boring!",
+        "It was average — a bit boring!",
+        "Mid what? Mid-afternoon? Midfield?",
+        "It means he liked the middle bit best"
+      ],
+      correct: 0,
+      explanation: "'Mid' = meh. Not terrible, not good, just... mid. The most devastating insult is not 'bad' — it's 'mid.'"
+    }
+  },
+  {
+    id: 268,
+    category: "general",
+    question: "Your grandson says your new cardigan is 'fire.' You should:",
+    year: null,
+    eric: {
+      options: [
+        "Accept the compliment — it means excellent",
+        "Stop, drop, and roll",
+        "Check the smoke alarms",
+        "Take it off immediately and call the fire brigade"
+      ],
+      correct: 0,
+      explanation: "'Fire' = excellent, amazing, top-quality. If your grandson says your cardigan is fire, you've achieved peak fashion. Don't question it."
+    },
+    ruth: {
+      options: [
+        "It's a compliment! Your cardigan is amazing!",
+        "It's a compliment! Your cardigan is amazing!",
+        "STOP DROP AND ROLL",
+        "The cardigan is fine, Eric. Put the extinguisher down."
+      ],
+      correct: 0,
+      explanation: "'Fire' = amazing! Eric's cardigan game is strong."
+    }
+  },
+  {
+    id: 269,
+    category: "general",
+    question: "Your grandson keeps saying 'skibidi.' What on earth does it mean?",
+    year: null,
+    eric: {
+      options: [
+        "A general-purpose silly/weird/cool word from a viral YouTube series about toilets",
+        "A new dance from Strictly Come Dancing",
+        "A type of Italian pasta",
+        "He's trying to say 'spaghetti' with his mouth full"
+      ],
+      correct: 0,
+      explanation: "'Skibidi' comes from 'Skibidi Toilet,' a viral YouTube series featuring singing toilets. It's basically a meaningless all-purpose word that teens use. Don't try to understand it. 'Brainrot' (Oxford's 2024 Word of the Year) describes this kind of content."
+    },
+    ruth: {
+      options: [
+        "Nobody really knows — it's from a YouTube show about toilets!",
+        "Nobody really knows — it's from a YouTube show about toilets!",
+        "A tropical disease (it's not)",
+        "Something Eric definitely shouldn't try to say"
+      ],
+      correct: 0,
+      explanation: "It comes from a YouTube series about singing toilets. Yes, really. Welcome to 2025."
+    }
+  },
+  {
+    id: 270,
+    category: "general",
+    question: "Your grandson says you 'lost 50 aura points' when you tripped on the pavement. He means:",
+    year: null,
+    eric: {
+      options: [
+        "Your imaginary coolness score took a hit — it was embarrassing",
+        "Your spiritual energy has been damaged and you need healing crystals",
+        "You've lost 50 loyalty points at the supermarket",
+        "He's checking your blood pressure"
+      ],
+      correct: 0,
+      explanation: "Teens assign 'aura points' for cool moments and deduct them for embarrassing ones. Tripping in public = minus 50 aura. Making a great joke = plus 100 aura. It's an entirely imaginary scoring system."
+    },
+    ruth: {
+      options: [
+        "Your coolness score went down! (It's not real, don't worry)",
+        "Your coolness score went down! (It's not real, don't worry)",
+        "Quick, find those 50 points before someone else does",
+        "Eric needs healing crystals (he definitely doesn't)"
+      ],
+      correct: 0,
+      explanation: "Aura points are a made-up coolness score. Tripping = minus points. But fitting screwdrivers in a cupboard? That's definitely plus 100 aura."
+    }
+  },
+  {
+    id: 271,
+    category: "general",
+    question: "Your grandson texts 'SMH.' He means:",
+    year: null,
+    eric: {
+      options: [
+        "Shaking My Head — he's disappointed or exasperated",
+        "Send More Ham",
+        "So Much Happiness",
+        "Saturday Morning Hello"
+      ],
+      correct: 0,
+      explanation: "SMH = Shaking My Head — expressing disappointment, disbelief, or exasperation. Other texting abbreviations: NGL (Not Gonna Lie), TBH (To Be Honest), IDK (I Don't Know), IYKYK (If You Know You Know)."
+    },
+    ruth: {
+      options: [
+        "Shaking My Head!",
+        "Shaking My Head!",
+        "Send More Ham (Eric would like that)",
+        "Smashing Marvellous Hurray"
+      ],
+      correct: 0,
+      explanation: "SMH = Shaking My Head. He's not asking for ham, Eric."
+    }
+  },
+  {
+    id: 272,
+    category: "general",
+    question: "Your grandson says he has 'brainrot.' Should you:",
+    year: null,
+    eric: {
+      options: [
+        "Relax — it just means he's spent too much time watching nonsense online",
+        "Drive him straight to A&E",
+        "Google the symptoms and call NHS 111",
+        "Check his temperature and prepare a hot toddy"
+      ],
+      correct: 0,
+      explanation: "'Brainrot' was Oxford's 2024 Word of the Year. It means the effect of consuming too much mindless internet content (like Skibidi Toilet videos). It's usually self-deprecating. No actual brains are rotting."
+    },
+    ruth: {
+      options: [
+        "It just means too much TikTok! He's fine!",
+        "It just means too much TikTok! He's fine!",
+        "Call an ambulance! His brain is rotting!",
+        "It's what happens when you don't eat your vegetables"
+      ],
+      correct: 0,
+      explanation: "Brainrot = too much internet. It was literally the Oxford Word of the Year in 2024. No medical attention required."
+    }
+  },
+  {
+    id: 273,
+    category: "general",
+    question: "You catch your grandson 'mewing.' He is:",
+    year: null,
+    eric: {
+      options: [
+        "Pressing his tongue to the roof of his mouth to try to sharpen his jawline",
+        "Impersonating a cat for TikTok",
+        "Having difficulty speaking",
+        "Calling for the family cat"
+      ],
+      correct: 0,
+      explanation: "'Mewing' is a TikTok trend where teens press their tongue to the roof of their mouth, believing it will sharpen their jawline. Named after orthodontist Dr. John Mew. Results are... debatable."
+    },
+    ruth: {
+      options: [
+        "He's trying to get a sharper jawline! (It doesn't work)",
+        "He's trying to get a sharper jawline! (It doesn't work)",
+        "He's pretending to be a cat (meow!)",
+        "He's got something stuck in his teeth"
+      ],
+      correct: 0,
+      explanation: "Mewing! Teens think pressing their tongue against the roof of their mouth will make them more attractive. Bless them."
+    }
+  },
+  {
+    id: 274,
+    category: "general",
+    question: "Your grandson calls his teacher an 'NPC.' This means:",
+    year: null,
+    eric: {
+      options: [
+        "The teacher is robotic and boring, like a non-playable video game character",
+        "The teacher is Nice, Polite, and Courteous",
+        "The teacher works for a National Public Company",
+        "The teacher is a Non-Practising Catholic"
+      ],
+      correct: 0,
+      explanation: "NPC = Non-Playable Character (from video games). A person who seems scripted, robotic, lacking personality. It's not a compliment. The teacher probably doesn't deserve it."
+    },
+    ruth: {
+      options: [
+        "He thinks the teacher is robotic and boring!",
+        "He thinks the teacher is robotic and boring!",
+        "Nice Polite and Courteous (if only)",
+        "Non-Playing Character (he should be playing more)"
+      ],
+      correct: 0,
+      explanation: "NPC = Non-Playable Character — someone who seems to follow a script. It's a video game insult applied to real life."
+    }
+  },
+  {
+    id: 275,
+    category: "general",
+    question: "Your grandson says a pop star 'ate and left no crumbs.' He means:",
+    year: null,
+    eric: {
+      options: [
+        "She performed so brilliantly there was nothing left to criticise",
+        "She ate all the biscuits backstage — how rude",
+        "She needs better table manners",
+        "She's on a very strict diet"
+      ],
+      correct: 0,
+      explanation: "'She ate' = she did something brilliantly. 'Left no crumbs' = there's nothing to criticise, it was perfect. Nothing to do with actual food."
+    },
+    ruth: {
+      options: [
+        "She was absolutely brilliant!",
+        "She was absolutely brilliant!",
+        "She ate all the biscuits (not this kind of ate)",
+        "Someone should teach her some table manners"
+      ],
+      correct: 0,
+      explanation: "'Ate and left no crumbs' = gave a flawless performance. No actual eating involved."
+    }
+  },
+  {
+    id: 276,
+    category: "general",
+    question: "Your grandson looks at your outfit and says 'It's giving 1970s geography teacher.' This means:",
+    year: null,
+    eric: {
+      options: [
+        "Your outfit reminds him of a geography teacher from the 1970s (not a compliment)",
+        "Your outfit is so generous it's giving things away",
+        "He thinks you actually teach geography",
+        "Your outfit is very educational"
+      ],
+      correct: 0,
+      explanation: "'It's giving...' describes the vibe something radiates. 'It's giving 1970s geography teacher' means your outfit looks like something a geography teacher would have worn in 1975. This is not praise."
+    },
+    ruth: {
+      options: [
+        "Your outfit looks a bit... dated (sorry Eric)",
+        "Your outfit looks a bit... dated (sorry Eric)",
+        "He wants to study geography (he doesn't)",
+        "Eric actually looks very dashing (but the grandson disagrees)"
+      ],
+      correct: 0,
+      explanation: "'It's giving' describes the vibe. '1970s geography teacher' is not the vibe you want. Sorry, Eric."
+    }
+  },
+  {
+    id: 277,
+    category: "general",
+    question: "Your grandson says he was 'caught in 4K' eating the last biscuit. He means:",
+    year: null,
+    eric: {
+      options: [
+        "He was caught red-handed with undeniable proof",
+        "He was caught on a 4,000-pound security camera",
+        "He was running at 4 kilometres per hour while eating",
+        "Four thousand people saw him do it"
+      ],
+      correct: 0,
+      explanation: "'Caught in 4K' = caught with irrefutable evidence, as if on high-definition video. There's no denying it. The biscuit is gone. Everyone knows who did it."
+    },
+    ruth: {
+      options: [
+        "He was caught red-handed! No denying it!",
+        "He was caught red-handed! No denying it!",
+        "That's a very expensive camera for watching biscuits",
+        "He should have hidden the evidence better"
+      ],
+      correct: 0,
+      explanation: "Caught in 4K = caught with undeniable proof. Like HD CCTV for biscuit theft."
+    }
+  },
+  {
+    id: 278,
+    category: "general",
+    question: "You tell your grandson to 'just pause the game' and come for dinner. Why does he look horrified?",
+    year: null,
+    eric: {
+      options: [
+        "It's an online multiplayer game — you literally cannot pause it",
+        "He's forgotten how to use the pause button",
+        "The game is so exciting he can't bear to stop",
+        "He's glued to the controller"
+      ],
+      correct: 0,
+      explanation: "Online multiplayer games (Fortnite, Valorant, Roblox) cannot be paused — other real players are still playing. Leaving mid-game means letting his teammates down, losing progress, and social humiliation. 'Just pause it' is the most triggering phrase in any teenage gamer's life."
+    },
+    ruth: {
+      options: [
+        "You can't pause online games! His teammates will be furious!",
+        "You can't pause online games! His teammates will be furious!",
+        "Games have had pause buttons since 1985 (not these ones, Eric)",
+        "He'll come when he's hungry (he's always hungry)"
+      ],
+      correct: 0,
+      explanation: "You can't pause an online game! Other real people are playing! 'Just pause it' is the most misunderstood sentence in modern parenting."
+    }
+  },
+  {
+    id: 279,
+    category: "general",
+    question: "Your grandson asks if you want to 'get on Discord.' He means:",
+    year: null,
+    eric: {
+      options: [
+        "He's inviting you to join a group chat platform used by gamers",
+        "He wants to have an argument with you",
+        "He's asking you to dance (a Discord is like a Disco)",
+        "He wants you to disconnect your internet"
+      ],
+      correct: 0,
+      explanation: "Discord is a group chat and voice-call platform popular with gamers and teens. It has 'servers' (group spaces), voice channels, and text channels. It's not about disagreement. Accepting this invitation would be a power move."
+    },
+    ruth: {
+      options: [
+        "It's a chat app! He wants to talk to you online!",
+        "It's a chat app! He wants to talk to you online!",
+        "He wants to argue (he's a teenager, so... maybe)",
+        "It's like the telephone but more confusing"
+      ],
+      correct: 0,
+      explanation: "Discord is a chat app! If your grandson invites you on Discord, you should be honoured — that's his territory."
+    }
+  },
+  {
+    id: 280,
+    category: "general",
+    question: "Your grandson describes himself as 'a sigma.' This means:",
+    year: null,
+    eric: {
+      options: [
+        "He sees himself as a cool, independent lone wolf type",
+        "He's studying Greek at school",
+        "He's joined a mathematics club",
+        "He's developed a lisp and is trying to say 'singer'"
+      ],
+      correct: 0,
+      explanation: "A 'sigma male' = an independent, self-sufficient person who plays by their own rules. Neither alpha (leader) nor beta (follower). It's a compliment teens give themselves. Whether it's accurate is a separate question."
+    },
+    ruth: {
+      options: [
+        "He thinks he's a cool independent loner!",
+        "He thinks he's a cool independent loner!",
+        "Is that like a sigma in maths? (No, Eric)",
+        "He's Greek? Since when?"
+      ],
+      correct: 0,
+      explanation: "Sigma = cool lone wolf. Not a Greek letter, not a maths thing. Teens classify themselves into 'types' now."
+    }
+  },
+  {
+    id: 281,
+    category: "general",
+    question: "Your grandson says his friend is 'delulu.' His friend is:",
+    year: null,
+    eric: {
+      options: [
+        "Being playfully called delusional — out of touch with reality",
+        "From Honolulu",
+        "A character in a new Disney film",
+        "Learning to play the didgeridoo"
+      ],
+      correct: 0,
+      explanation: "'Delulu' = short for 'delusional.' Often used self-awarely: 'delulu is the solulu (solution)' — meaning sometimes being unrealistically optimistic is the best strategy. It's usually affectionate."
+    },
+    ruth: {
+      options: [
+        "Delusional! But in a fun way!",
+        "Delusional! But in a fun way!",
+        "From Hawaii (nope)",
+        "Is that a type of yoghurt?"
+      ],
+      correct: 0,
+      explanation: "Delulu = delusional. But teens use it lovingly: 'delulu is the solulu' — being unrealistically positive is sometimes the answer!"
+    }
+  },
+  {
+    id: 282,
+    category: "general",
+    question: "Eric tries to use teen slang at dinner. He says 'This casserole is very slay, isn't it?' His grandson's reaction is:",
+    year: null,
+    eric: {
+      options: [
+        "Cringing — you can't use 'slay' as an adjective with 'very' in front of it",
+        "Impressed — Eric has mastered the youth lexicon",
+        "Confused — 'slay' doesn't apply to food",
+        "Delighted — finally, a grandparent who speaks their language"
+      ],
+      correct: 0,
+      explanation: "Maximum cringe. 'Slay' doesn't work with 'very' in front of it, it's not really used for food, and a grandparent using teen slang incorrectly is the most embarrassing thing that can happen to a teenager. Eric has lost approximately 500 aura points."
+    },
+    ruth: {
+      options: [
+        "Total cringe! Don't do it, Eric!",
+        "Total cringe! Don't do it, Eric!",
+        "The grandson is so proud (he's really not)",
+        "Eric should stick to proper English"
+      ],
+      correct: 0,
+      explanation: "Maximum cringe! There's nothing more embarrassing than a grandparent misusing teen slang. Eric has lost 500 aura points. No cap."
+    }
   }
 
 ];
