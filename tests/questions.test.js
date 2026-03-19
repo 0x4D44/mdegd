@@ -10,6 +10,7 @@ const VALID_CATEGORIES = [
   'perth-australia', 'coronation-st', 'scotland-the-what',
   'forfar-bridies', 'ntnon', 'doric', 'dfds', 'buddy-holly', 'denmark', 'foster-allen', 'transformers',
   'circuit-breakers', 'protection', 'perth-inches', 'perth-council', 'perth-academy', 'canada-airports',
+  'aberdeen-fc', 'forfar-fc', 'combs',
 ];
 
 // Skip pool validation if the file hasn't been populated yet
